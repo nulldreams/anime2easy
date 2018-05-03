@@ -1,0 +1,7650 @@
+{
+  'a-i-c-o-incarnation': {
+    slug: 'a-i-c-o-incarnation',
+    id: '51356',
+    nome: 'A.I.C.O. Incarnation'
+  },
+  'aa-megami-sama': {
+    slug: 'aa-megami-sama',
+    id: '1988',
+    nome: 'Aa! Megami-sama!'
+  },
+  'abarenbou-kishi-matsutarou': {
+    slug: 'abarenbou-kishi-matsutarou',
+    id: '24',
+    nome: 'Abarenbou Kishi!! Matsutarou'
+  },
+  'abenobashi-mahou-shoutengai': {
+    slug: 'abenobashi-mahou-shoutengai',
+    id: '23',
+    nome: 'Abenobashi Mahou Shoutengai'
+  },
+  'absolute-duo': {
+    slug: 'absolute-duo',
+    id: '22',
+    nome: 'Absolute Duo'
+  },
+  'acca-13-ku-kansatsu-ka': {
+    slug: 'acca-13-ku-kansatsu-ka',
+    id: '775',
+    nome: 'ACCA: 13-ku Kansatsu-ka'
+  },
+  'acchi-kocchi': {
+    slug: 'acchi-kocchi',
+    id: '20',
+    nome: 'Acchi Kocchi'
+  },
+  'ace-of-diamond': {
+    slug: 'ace-of-diamond',
+    id: '1053',
+    nome: 'Ace Of Diamond'
+  },
+  'ace-of-diamond-2': {
+    slug: 'ace-of-diamond-2',
+    id: '1054',
+    nome: 'Ace Of Diamond 2'
+  },
+  'action-heroine-cheer-fruits': {
+    slug: 'action-heroine-cheer-fruits',
+    id: '1888',
+    nome: 'Action Heroine Cheer Fruits'
+  },
+  'active-raid-kidou-kyoushuushitsu-dai-hachi-gakari-2nd': {
+    slug: 'active-raid-kidou-kyoushuushitsu-dai-hachi-gakari-2nd',
+    id: '822',
+    nome: 'Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd'
+  },
+  'active-raid-kidou-kyoushuushitsu-dai-hakkei': {
+    slug: 'active-raid-kidou-kyoushuushitsu-dai-hakkei',
+    id: '823',
+    nome: 'Active Raid: Kidou Kyoushuushitsu Dai Hakkei'
+  },
+  'afro-samurai': {
+    slug: 'afro-samurai',
+    id: '19',
+    nome: 'Afro Samurai'
+  },
+  'afro-samurai-filme-01-a-ressurreicao': {
+    slug: 'afro-samurai-filme-01-a-ressurreicao',
+    id: '2307',
+    nome: 'Afro Samurai – Filme 01: A Ressurreição'
+  },
+  'agatha-christie-no-meitantei-poirot-to-marple': {
+    slug: 'agatha-christie-no-meitantei-poirot-to-marple',
+    id: '18',
+    nome: 'Agatha Christie No Meitantei Poirot To Marple'
+  },
+  'ah-megami-sama': {
+    slug: 'ah-megami-sama',
+    id: '16',
+    nome: 'Ah! Megami Sama!'
+  },
+  'ai-mai-mii-surgical-friends': {
+    slug: 'ai-mai-mii-surgical-friends',
+    id: '771',
+    nome: 'Ai Mai Mii: Surgical Friends'
+  },
+  'ai-tenchi-muyo': {
+    slug: 'ai-tenchi-muyo',
+    id: '25',
+    nome: 'Ai Tenchi Muyo!'
+  },
+  'ai-yori-aoshi': {
+    slug: 'ai-yori-aoshi',
+    id: '27',
+    nome: 'Ai Yori Aoshi'
+  },
+  'ai-yori-aoshi-enishi': {
+    slug: 'ai-yori-aoshi-enishi',
+    id: '26',
+    nome: 'Ai Yori Aoshi: Enishi'
+  },
+  'aikatsu-friends': {
+    slug: 'aikatsu-friends',
+    id: '51370',
+    nome: 'Aikatsu Friends!'
+  },
+  'aishiteruze-baby': {
+    slug: 'aishiteruze-baby',
+    id: '30',
+    nome: 'Aishiteruze Baby'
+  },
+  'akagami-no-shirayuki-hime-2': {
+    slug: 'akagami-no-shirayuki-hime-2',
+    id: '34',
+    nome: 'Akagami No Shirayuki Hime 2'
+  },
+  'akagami-no-shirayuki-hime': {
+    slug: 'akagami-no-shirayuki-hime',
+    id: '35',
+    nome: 'Akagami No Shirayuki-hime'
+  },
+  'akahori-gedou-hour-love-game': {
+    slug: 'akahori-gedou-hour-love-game',
+    id: '36',
+    nome: 'Akahori Gedou Hour Love Game'
+  },
+  'akai-koudan-zillion': {
+    slug: 'akai-koudan-zillion',
+    id: '37',
+    nome: 'Akai Koudan Zillion'
+  },
+  'akame-ga-kill': {
+    slug: 'akame-ga-kill',
+    id: '38',
+    nome: 'Akame Ga Kill!'
+  },
+  'akaneiro-ni-somaru-saka': {
+    slug: 'akaneiro-ni-somaru-saka',
+    id: '39',
+    nome: 'Akaneiro Ni Somaru Saka'
+  },
+  'akatsuki-no-yona': {
+    slug: 'akatsuki-no-yona',
+    id: '40',
+    nome: 'Akatsuki No Yona'
+  },
+  'akb0048-next-stage': {
+    slug: 'akb0048-next-stage',
+    id: '828',
+    nome: 'Akb0048 Next Stage'
+  },
+  'akibas-trip-the-animation': {
+    slug: 'akibas-trip-the-animation',
+    id: '794',
+    nome: 'Akibas Trip The Animation'
+  },
+  'akkun-to-kanojo': {
+    slug: 'akkun-to-kanojo',
+    id: '51364',
+    nome: 'Akkun to Kanojo'
+  },
+  'akuma-no-riddle': {
+    slug: 'akuma-no-riddle',
+    id: '42',
+    nome: 'Akuma No Riddle'
+  },
+  'aldnoah-zero-ii': {
+    slug: 'aldnoah-zero-ii',
+    id: '831',
+    nome: 'Aldnoah Zero II'
+  },
+  'aldnoah-zero': {
+    slug: 'aldnoah-zero',
+    id: '830',
+    nome: 'Aldnoah.Zero'
+  },
+  'alexander-senki': {
+    slug: 'alexander-senki',
+    id: '832',
+    nome: 'Alexander Senki'
+  },
+  'alice-or-alice-siscon-niisan-to-futago-no-imouto': {
+    slug: 'alice-or-alice-siscon-niisan-to-futago-no-imouto',
+    id: '51349',
+    nome: 'Alice or Alice: Siscon Niisan to Futago no Imouto'
+  },
+  'alice-to-zouroku': {
+    slug: 'alice-to-zouroku',
+    id: '1530',
+    nome: 'Alice to Zouroku'
+  },
+  'allison-to-lillia': {
+    slug: 'allison-to-lillia',
+    id: '44',
+    nome: 'Allison To Lillia'
+  },
+  'amaama-to-inazuma': {
+    slug: 'amaama-to-inazuma',
+    id: '1992',
+    nome: 'Amaama to Inazuma'
+  },
+  'amaenaideyo-katsu': {
+    slug: 'amaenaideyo-katsu',
+    id: '45',
+    nome: 'Amaenaideyo Katsu'
+  },
+  amaenaideyo: {
+    slug: 'amaenaideyo',
+    id: '46',
+    nome: 'Amaenaideyo!!'
+  },
+  'amagami-ss-plus': {
+    slug: 'amagami-ss-plus',
+    id: '47',
+    nome: 'Amagami SS+ Plus'
+  },
+  'amagi-brilliant-park': {
+    slug: 'amagi-brilliant-park',
+    id: '49',
+    nome: 'Amagi Brilliant Park'
+  },
+  'amai-choubatsu-watashi-wa-kanshu-senyou-pet': {
+    slug: 'amai-choubatsu-watashi-wa-kanshu-senyou-pet',
+    id: '51369',
+    nome: 'Amai Choubatsu: Watashi wa Kanshu Senyou Pet'
+  },
+  'amanchu-advance': {
+    slug: 'amanchu-advance',
+    id: '51341',
+    nome: 'Amanchu! Advance'
+  },
+  'ame-iro-cocoa': {
+    slug: 'ame-iro-cocoa',
+    id: '52',
+    nome: 'Ame-iro Cocoa'
+  },
+  'ame-iro-cocoa-2': {
+    slug: 'ame-iro-cocoa-2',
+    id: '53',
+    nome: 'Ame-Iro Cocoa 2'
+  },
+  'ame-iro-cocoa-3': {
+    slug: 'ame-iro-cocoa-3',
+    id: '1505',
+    nome: 'Ame-Iro Cocoa 3'
+  },
+  'ame-iro-cocoa-series-ame-con': {
+    slug: 'ame-iro-cocoa-series-ame-con',
+    id: '2225',
+    nome: 'Ame-iro Cocoa Series: Ame-con!!'
+  },
+  'angel-sanctuar': {
+    slug: 'angel-sanctuar',
+    id: '1993',
+    nome: 'Angel Sanctuar'
+  },
+  'ani-ni-tsukeru-kusuri-wa-nai': {
+    slug: 'ani-ni-tsukeru-kusuri-wa-nai',
+    id: '1833',
+    nome: 'Ani Ni Tsukeru Kusuri Wa Nai!'
+  },
+  'ano-hi-mita-hana-no-namae-o-bokutachi-wa-mada-shiranai': {
+    slug: 'ano-hi-mita-hana-no-namae-o-bokutachi-wa-mada-shiranai',
+    id: '1994',
+    nome: 'Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai'
+  },
+  'ano-natsu-de-matteru': {
+    slug: 'ano-natsu-de-matteru',
+    id: '62',
+    nome: 'Ano Natsu De Matteru'
+  },
+  'ansatsu-kyoushitsu': {
+    slug: 'ansatsu-kyoushitsu',
+    id: '65',
+    nome: 'Ansatsu Kyoushitsu'
+  },
+  'ansatsu-kyoushitsu-2': {
+    slug: 'ansatsu-kyoushitsu-2',
+    id: '66',
+    nome: 'Ansatsu Kyoushitsu 2'
+  },
+  'ao-haru-ride': {
+    slug: 'ao-haru-ride',
+    id: '64',
+    nome: 'Ao Haru Ride'
+  },
+  'ao-no-exorcist': {
+    slug: 'ao-no-exorcist',
+    id: '67',
+    nome: 'Ao No Exorcist'
+  },
+  'ao-no-exorcist-2': {
+    slug: 'ao-no-exorcist-2',
+    id: '785',
+    nome: 'Ao No Exorcist 2'
+  },
+  'ao-no-kanata-no-four-rhythm': {
+    slug: 'ao-no-kanata-no-four-rhythm',
+    id: '68',
+    nome: 'Ao No Kanata No Four Rhythm'
+  },
+  'aoharu-x-kikanjuu': {
+    slug: 'aoharu-x-kikanjuu',
+    id: '70',
+    nome: 'Aoharu X Kikanjuu'
+  },
+  'aoki-hagane-no-arpeggio-ars-nova': {
+    slug: 'aoki-hagane-no-arpeggio-ars-nova',
+    id: '1996',
+    nome: 'Aoki Hagane no Arpeggio: Ars Nova'
+  },
+  'aquarion-evol': {
+    slug: 'aquarion-evol',
+    id: '835',
+    nome: 'Aquarion Evol'
+  },
+  'aquarion-logos': {
+    slug: 'aquarion-logos',
+    id: '71',
+    nome: 'Aquarion Logos'
+  },
+  'arakawa-under-the-bridge': {
+    slug: 'arakawa-under-the-bridge',
+    id: '72',
+    nome: 'Arakawa Under The Bridge'
+  },
+  'arata-kangatari': {
+    slug: 'arata-kangatari',
+    id: '73',
+    nome: 'Arata Kangatari'
+  },
+  'arcana-famiglia': {
+    slug: 'arcana-famiglia',
+    id: '836',
+    nome: 'Arcana Famiglia'
+  },
+  'area-no-kishi': {
+    slug: 'area-no-kishi',
+    id: '1997',
+    nome: 'Area no Kishi'
+  },
+  'argento-soma': {
+    slug: 'argento-soma',
+    id: '839',
+    nome: 'Argento Soma'
+  },
+  'aria-the-animation': {
+    slug: 'aria-the-animation',
+    id: '76',
+    nome: 'Aria The Animation'
+  },
+  'aria-the-natural': {
+    slug: 'aria-the-natural',
+    id: '75',
+    nome: 'Aria The Natural'
+  },
+  'aria-the-origination': {
+    slug: 'aria-the-origination',
+    id: '74',
+    nome: 'Aria The Origination'
+  },
+  'arslan-senki': {
+    slug: 'arslan-senki',
+    id: '77',
+    nome: 'Arslan Senki'
+  },
+  'arslan-senki-2': {
+    slug: 'arslan-senki-2',
+    id: '78',
+    nome: 'Arslan Senki 2'
+  },
+  'asagiri-no-miko': {
+    slug: 'asagiri-no-miko',
+    id: '79',
+    nome: 'Asagiri No Miko'
+  },
+  'ashita-no-joe': {
+    slug: 'ashita-no-joe',
+    id: '81',
+    nome: 'Ashita No Joe'
+  },
+  'ashita-no-joe-2': {
+    slug: 'ashita-no-joe-2',
+    id: '80',
+    nome: 'Ashita No Joe 2'
+  },
+  'ashita-no-nadja': {
+    slug: 'ashita-no-nadja',
+    id: '82',
+    nome: 'Ashita No Nadja'
+  },
+  'asobi-ni-iku-yo': {
+    slug: 'asobi-ni-iku-yo',
+    id: '83',
+    nome: 'Asobi Ni Iku Yo'
+  },
+  'asu-no-yoichi': {
+    slug: 'asu-no-yoichi',
+    id: '84',
+    nome: 'Asu No Yoichi'
+  },
+  'asura-cryin': {
+    slug: 'asura-cryin',
+    id: '8600',
+    nome: 'Asura Cryin'
+  },
+  'asura-cryin-2': {
+    slug: 'asura-cryin-2',
+    id: '85',
+    nome: 'Asura Cryin 2'
+  },
+  'atelier-escha-e-logy-alchemists-of-the-dusk-sky': {
+    slug: 'atelier-escha-e-logy-alchemists-of-the-dusk-sky',
+    id: '88',
+    nome: 'Atelier Escha e Logy: Alchemists Of The Dusk Sky'
+  },
+  'atom-the-beginning': {
+    slug: 'atom-the-beginning',
+    id: '1755',
+    nome: 'Atom: The Beginning'
+  },
+  'axis-powers-hetalia': {
+    slug: 'axis-powers-hetalia',
+    id: '1580',
+    nome: 'Axis Powers Hetalia'
+  },
+  'ayakashi-japanese-classic-horror': {
+    slug: 'ayakashi-japanese-classic-horror',
+    id: '848',
+    nome: 'Ayakashi - Japanese Classic Horror'
+  },
+  'ayashi-no-ceres': {
+    slug: 'ayashi-no-ceres',
+    id: '850',
+    nome: 'Ayashi No Ceres'
+  },
+  'azumanga-daioh': {
+    slug: 'azumanga-daioh',
+    id: '852',
+    nome: 'Azumanga Daioh'
+  },
+  'b-gata-h-kei': {
+    slug: 'b-gata-h-kei',
+    id: '89',
+    nome: 'B Gata H Kei'
+  },
+  'b-project-kodou-ambitious': {
+    slug: 'b-project-kodou-ambitious',
+    id: '855',
+    nome: 'B-Project: Kodou* Ambitious'
+  },
+  'b-the-beginning': {
+    slug: 'b-the-beginning',
+    id: '51308',
+    nome: 'B: The Beginning '
+  },
+  'babel-ii-beyond-infinity': {
+    slug: 'babel-ii-beyond-infinity',
+    id: '858',
+    nome: 'Babel II: Beyond Infinity'
+  },
+  'baby-steps-2': {
+    slug: 'baby-steps-2',
+    id: '863',
+    nome: 'Baby Steps 2'
+  },
+  'baka-to-test-to-shoukanjuu': {
+    slug: 'baka-to-test-to-shoukanjuu',
+    id: '866',
+    nome: 'Baka To Test To Shoukanjuu'
+  },
+  'baka-to-test-to-shoukanjuu-ni': {
+    slug: 'baka-to-test-to-shoukanjuu-ni',
+    id: '867',
+    nome: 'Baka To Test To Shoukanjuu Ni!'
+  },
+  bakemonogatari: {
+    slug: 'bakemonogatari',
+    id: '868',
+    nome: 'Bakemonogatari'
+  },
+  'baki-the-grappler': {
+    slug: 'baki-the-grappler',
+    id: '1582',
+    nome: 'Baki the Grappler'
+  },
+  'bakumatsu-kikansetsu-irohanihoheto': {
+    slug: 'bakumatsu-kikansetsu-irohanihoheto',
+    id: '871',
+    nome: 'Bakumatsu Kikansetsu Irohanihoheto'
+  },
+  'bakumatsu-rock': {
+    slug: 'bakumatsu-rock',
+    id: '873',
+    nome: 'Bakumatsu Rock'
+  },
+  'bakuretsu-hunters': {
+    slug: 'bakuretsu-hunters',
+    id: '877',
+    nome: 'Bakuretsu Hunters'
+  },
+  'bakuretsu-tenshi': {
+    slug: 'bakuretsu-tenshi',
+    id: '878',
+    nome: 'Bakuretsu Tenshi'
+  },
+  'ballroom-e-youkoso': {
+    slug: 'ballroom-e-youkoso',
+    id: '1881',
+    nome: 'Ballroom e Youkoso'
+  },
+  'bamboo-blade': {
+    slug: 'bamboo-blade',
+    id: '879',
+    nome: 'Bamboo Blade'
+  },
+  'basilisk-kouga-ninpou-chou': {
+    slug: 'basilisk-kouga-ninpou-chou',
+    id: '883',
+    nome: 'Basilisk: Kouga Ninpou Chou'
+  },
+  'basilisk-ouka-ninpouchou': {
+    slug: 'basilisk-ouka-ninpouchou',
+    id: '2332',
+    nome: 'Basilisk: Ouka Ninpouchou'
+  },
+  'batfino-e-karate': {
+    slug: 'batfino-e-karate',
+    id: '1911',
+    nome: 'Batfino e Karate'
+  },
+  'battle-girl-high-school-battle-girl-project': {
+    slug: 'battle-girl-high-school-battle-girl-project',
+    id: '1864',
+    nome: 'Battle Girl High School: Battle Girl Project'
+  },
+  'battle-programmer-shirase': {
+    slug: 'battle-programmer-shirase',
+    id: '885',
+    nome: 'Battle Programmer Shirase'
+  },
+  'bernard-jou-iwaku': {
+    slug: 'bernard-jou-iwaku',
+    id: '114',
+    nome: 'Bernard-jou Iwaku.'
+  },
+  'berserk-2016': {
+    slug: 'berserk-2016',
+    id: '891',
+    nome: 'Berserk (2016)'
+  },
+  'berserk-2017': {
+    slug: 'berserk-2017',
+    id: '1998',
+    nome: 'Berserk (2017)'
+  },
+  'beyblade-burst': {
+    slug: 'beyblade-burst',
+    id: '110',
+    nome: 'Beyblade Burst'
+  },
+  'bihada-ichizoku': {
+    slug: 'bihada-ichizoku',
+    id: '893',
+    nome: 'Bihada Ichizoku'
+  },
+  'bikini-warriors': {
+    slug: 'bikini-warriors',
+    id: '894',
+    nome: 'Bikini Warriors'
+  },
+  'binan-koukou-chikyuu-bouei-bu-love': {
+    slug: 'binan-koukou-chikyuu-bouei-bu-love',
+    id: '895',
+    nome: 'Binan Koukou Chikyuu Bouei Bu Love'
+  },
+  'binan-koukou-chikyuu-bouei-bu-love-2': {
+    slug: 'binan-koukou-chikyuu-bouei-bu-love-2',
+    id: '896',
+    nome: 'Binan Koukou Chikyuu Bouei Bu Love 2'
+  },
+  'binan-koukou-chikyuu-boueibu-happy-kiss': {
+    slug: 'binan-koukou-chikyuu-boueibu-happy-kiss',
+    id: '51371',
+    nome: 'Binan Koukou Chikyuu Boueibu Happy Kiss!'
+  },
+  'binbou-shimai-monogatari': {
+    slug: 'binbou-shimai-monogatari',
+    id: '897',
+    nome: 'Binbou Shimai Monogatari'
+  },
+  'binbougami-ga': {
+    slug: 'binbougami-ga',
+    id: '898',
+    nome: 'Binbougami Ga!'
+  },
+  'bishoujo-senshi-sailor-moon-crystal-s3': {
+    slug: 'bishoujo-senshi-sailor-moon-crystal-s3',
+    id: '2000',
+    nome: 'Bishoujo Senshi Sailor Moon Crystal S3'
+  },
+  'bishoujo-senshi-sailor-moon-crystal': {
+    slug: 'bishoujo-senshi-sailor-moon-crystal',
+    id: '1999',
+    nome: 'Bishoujo Senshi Sailor Moon: Crystal'
+  },
+  'bishoujo-yuugi-unit-crane-game-girls': {
+    slug: 'bishoujo-yuugi-unit-crane-game-girls',
+    id: '900',
+    nome: 'Bishoujo Yuugi Unit Crane Game Girls'
+  },
+  'bishoujo-yuugi-unit-crane-game-girls-galaxy': {
+    slug: 'bishoujo-yuugi-unit-crane-game-girls-galaxy',
+    id: '901',
+    nome: 'Bishoujo Yuugi Unit Crane Game Girls Galaxy'
+  },
+  'black-and-white-warriors': {
+    slug: 'black-and-white-warriors',
+    id: '1511',
+    nome: 'Black And White Warriors'
+  },
+  'black-blood-brothers': {
+    slug: 'black-blood-brothers',
+    id: '902',
+    nome: 'Black Blood Brothers'
+  },
+  'black-bullet': {
+    slug: 'black-bullet',
+    id: '903',
+    nome: 'Black Bullet'
+  },
+  'black-clover': {
+    slug: 'black-clover',
+    id: '2219000',
+    nome: 'Black Clover'
+  },
+  'black-lagoon': {
+    slug: 'black-lagoon',
+    id: '906',
+    nome: 'Black Lagoon'
+  },
+  'black-lagoon-the-second-barrage': {
+    slug: 'black-lagoon-the-second-barrage',
+    id: '907',
+    nome: 'Black Lagoon: The Second Barrage'
+  },
+  'black-rock-shooter': {
+    slug: 'black-rock-shooter',
+    id: '908',
+    nome: 'Black Rock Shooter'
+  },
+  'blade-e-soul': {
+    slug: 'blade-e-soul',
+    id: '910',
+    nome: 'Blade e Soul'
+  },
+  'blade-of-the-immortal': {
+    slug: 'blade-of-the-immortal',
+    id: '911',
+    nome: 'Blade Of The Immortal'
+  },
+  'blaz-blue-alter-memory': {
+    slug: 'blaz-blue-alter-memory',
+    id: '1584',
+    nome: 'BlazBlue: Alter Memory'
+  },
+  'blood-legendado': {
+    slug: 'blood-legendado',
+    id: '105',
+    nome: 'Blood+ Legendado'
+  },
+  'blue-dragon-tenkai-no-shichi-ryuu': {
+    slug: 'blue-dragon-tenkai-no-shichi-ryuu',
+    id: '99',
+    nome: 'Blue Dragon: Tenkai No Shichi Ryuu'
+  },
+  'boku-dake-ga-inai-machi': {
+    slug: 'boku-dake-ga-inai-machi',
+    id: '915',
+    nome: 'Boku Dake Ga Inai Machi'
+  },
+  'boku-no-hero-academia': {
+    slug: 'boku-no-hero-academia',
+    id: '5011',
+    nome: 'Boku No Hero Academia'
+  },
+  'boku-no-hero-academia-2': {
+    slug: 'boku-no-hero-academia-2',
+    id: '5010',
+    nome: 'Boku no Hero Academia 2'
+  },
+  'boku-no-hero-academia-3': {
+    slug: 'boku-no-hero-academia-3',
+    id: '5012',
+    nome: 'Boku no Hero Academia 3'
+  },
+  'boku-no-imouto-wa': {
+    slug: 'boku-no-imouto-wa',
+    id: '916',
+    nome: 'Boku No Imouto Wa'
+  },
+  'boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken': {
+    slug: 'boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken',
+    id: '2284',
+    nome: 'Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken'
+  },
+  'boku-wa-tomodachi-ga-sukunai': {
+    slug: 'boku-wa-tomodachi-ga-sukunai',
+    id: '917',
+    nome: 'Boku Wa Tomodachi Ga Sukunai'
+  },
+  'boku-wa-tomodachi-ga-sukunai-next': {
+    slug: 'boku-wa-tomodachi-ga-sukunai-next',
+    id: '918',
+    nome: 'Boku Wa Tomodachi Ga Sukunai Next'
+  },
+  'bokura-ga-ita': {
+    slug: 'bokura-ga-ita',
+    id: '101',
+    nome: 'Bokura Ga Ita'
+  },
+  'bokura-wa-minna-kawaisou': {
+    slug: 'bokura-wa-minna-kawaisou',
+    id: '919',
+    nome: 'Bokura Wa Minna Kawaisou'
+  },
+  'bokusatsu-tenshi-dokuro-chan': {
+    slug: 'bokusatsu-tenshi-dokuro-chan',
+    id: '2001',
+    nome: 'Bokusatsu Tenshi Dokuro-chan'
+  },
+  'bonjour-koiaji-patisserie': {
+    slug: 'bonjour-koiaji-patisserie',
+    id: '2002',
+    nome: 'Bonjour: Koiaji Pâtisserie'
+  },
+  'boogiepop-phantom': {
+    slug: 'boogiepop-phantom',
+    id: '921',
+    nome: 'Boogiepop Phantom'
+  },
+  'boruto-naruto-next-generations': {
+    slug: 'boruto-naruto-next-generations',
+    id: '40000',
+    nome: 'Boruto: Naruto Next Generations'
+  },
+  'bottle-fairy': {
+    slug: 'bottle-fairy',
+    id: '2003',
+    nome: 'Bottle Fairy'
+  },
+  'bouken-ou-beet': {
+    slug: 'bouken-ou-beet',
+    id: '922',
+    nome: 'Bouken Ou Beet'
+  },
+  'bouken-ou-beet-excellion': {
+    slug: 'bouken-ou-beet-excellion',
+    id: '923',
+    nome: 'Bouken Ou Beet Excellion'
+  },
+  'bounen-no-xamdou': {
+    slug: 'bounen-no-xamdou',
+    id: '924',
+    nome: 'Bounen No Xamdou'
+  },
+  'brave-story': {
+    slug: 'brave-story',
+    id: '2004',
+    nome: 'Brave Story'
+  },
+  'brave-witches': {
+    slug: 'brave-witches',
+    id: '927',
+    nome: 'Brave Witches'
+  },
+  'break-blade-tv': {
+    slug: 'break-blade-tv',
+    id: '928',
+    nome: 'Break Blade (TV)'
+  },
+  'brothers-conflict': {
+    slug: 'brothers-conflict',
+    id: '102',
+    nome: 'Brothers Conflict'
+  },
+  'bubuki-buranki': {
+    slug: 'bubuki-buranki',
+    id: '930',
+    nome: 'Bubuki Buranki'
+  },
+  'bubuki-buranki-2': {
+    slug: 'bubuki-buranki-2',
+    id: '931',
+    nome: 'Bubuki Buranki 2'
+  },
+  'buddy-complex': {
+    slug: 'buddy-complex',
+    id: '933',
+    nome: 'Buddy Complex'
+  },
+  'buddy-complex-final-chapter': {
+    slug: 'buddy-complex-final-chapter',
+    id: '934',
+    nome: 'Buddy Complex Final Chapter'
+  },
+  'bungaku-shoujo-memoire': {
+    slug: 'bungaku-shoujo-memoire',
+    id: '2005',
+    nome: 'Bungaku Shoujo: Memoire'
+  },
+  'bungou-stray-dogs': {
+    slug: 'bungou-stray-dogs',
+    id: '935',
+    nome: 'Bungou Stray Dogs'
+  },
+  'bungou-stray-dogs-2': {
+    slug: 'bungou-stray-dogs-2',
+    id: '2006',
+    nome: 'Bungou Stray Dogs 2'
+  },
+  'burn-up-scramble': {
+    slug: 'burn-up-scramble',
+    id: '936',
+    nome: 'Burn-Up Scramble'
+  },
+  'busou-renkin': {
+    slug: 'busou-renkin',
+    id: '938',
+    nome: 'Busou Renkin'
+  },
+  'busou-shinki': {
+    slug: 'busou-shinki',
+    id: '939',
+    nome: 'Busou Shinki'
+  },
+  'busou-shoujo-machiavelinism': {
+    slug: 'busou-shoujo-machiavelinism',
+    id: '1534',
+    nome: 'Busou Shoujo Machiavelinism'
+  },
+  'butlers-chitose-momotose-monogatari': {
+    slug: 'butlers-chitose-momotose-monogatari',
+    id: '51335',
+    nome: 'Butlers: Chitose Momotose Monogatari'
+  },
+  'c3-cube-x-cursed-x-curious': {
+    slug: 'c3-cube-x-cursed-x-curious',
+    id: '1606',
+    nome: 'C3 Cube x Cursed x Curious'
+  },
+  'capitao-america-1966': {
+    slug: 'capitao-america-1966',
+    id: '1913',
+    nome: 'Capitão América 1966'
+  },
+  'capitao-caverna': {
+    slug: 'capitao-caverna',
+    id: '1914',
+    nome: 'Capitão Caverna'
+  },
+  'captain-earth': {
+    slug: 'captain-earth',
+    id: '944',
+    nome: 'Captain Earth'
+  },
+  'captain-tsubasa-2018': {
+    slug: 'captain-tsubasa-2018',
+    id: '51312',
+    nome: 'Captain Tsubasa (2018)'
+  },
+  'cardfight-vanguard': {
+    slug: 'cardfight-vanguard',
+    id: '945',
+    nome: 'Cardfight!! Vanguard'
+  },
+  'cardfight-vanguard-asia-circuit-hen': {
+    slug: 'cardfight-vanguard-asia-circuit-hen',
+    id: '946',
+    nome: 'Cardfight!! Vanguard Asia Circuit-hen'
+  },
+  'cardfight-vanguard-g': {
+    slug: 'cardfight-vanguard-g',
+    id: '947',
+    nome: 'Cardfight!! Vanguard G'
+  },
+  'cardfight-vanguard-g-girs-crisis-hen': {
+    slug: 'cardfight-vanguard-g-girs-crisis-hen',
+    id: '948',
+    nome: 'Cardfight!! Vanguard G: GIRS Crisis-hen'
+  },
+  'cardfight-vanguard-g-next': {
+    slug: 'cardfight-vanguard-g-next',
+    id: '949',
+    nome: 'Cardfight!! Vanguard G: Next'
+  },
+  'cardfight-vanguard-legion-mate-hen': {
+    slug: 'cardfight-vanguard-legion-mate-hen',
+    id: '950',
+    nome: 'Cardfight!! Vanguard: Legion Mate-hen'
+  },
+  'card-fight-vanguard-link-joker-hen': {
+    slug: 'card-fight-vanguard-link-joker-hen',
+    id: '951',
+    nome: 'CardFight!! Vanguard: Link Joker-hen'
+  },
+  'carnival-phantasm': {
+    slug: 'carnival-phantasm',
+    id: '1607',
+    nome: 'Carnival Phantasm'
+  },
+  'casshern-sins': {
+    slug: 'casshern-sins',
+    id: '952',
+    nome: 'Casshern Sins'
+  },
+  castlevania: {
+    slug: 'castlevania',
+    id: '1883',
+    nome: 'Castlevania'
+  },
+  'centaur-no-nayami': {
+    slug: 'centaur-no-nayami',
+    id: '1886',
+    nome: 'Centaur no Nayami'
+  },
+  'chain-chronicle-haecceitas-no-hikari-tv': {
+    slug: 'chain-chronicle-haecceitas-no-hikari-tv',
+    id: '760',
+    nome: 'Chain Chronicle: Haecceitas No Hikari (TV)'
+  },
+  'chaos-dragon': {
+    slug: 'chaos-dragon',
+    id: '123',
+    nome: 'Chaos Dragon'
+  },
+  'cheating-craft': {
+    slug: 'cheating-craft',
+    id: '122',
+    nome: 'Cheating Craft'
+  },
+  'cheer-danshi': {
+    slug: 'cheer-danshi',
+    id: '120',
+    nome: 'Cheer Danshi!!'
+  },
+  'chi-s-sweet-home': {
+    slug: 'chi-s-sweet-home',
+    id: '954',
+    nome: "Chi's Sweet Home"
+  },
+  'chibi-devil': {
+    slug: 'chibi-devil',
+    id: '955',
+    nome: 'Chibi Devil!'
+  },
+  'chicchana-yukitsukai-sugar': {
+    slug: 'chicchana-yukitsukai-sugar',
+    id: '956',
+    nome: 'Chicchana Yukitsukai Sugar'
+  },
+  'chihayafuru-2': {
+    slug: 'chihayafuru-2',
+    id: '958',
+    nome: 'Chihayafuru 2'
+  },
+  'chio-chan-no-tsuugakuro': {
+    slug: 'chio-chan-no-tsuugakuro',
+    id: '51334',
+    nome: 'Chio-chan no Tsuugakuro'
+  },
+  'chiruran-nibun-no-ichi': {
+    slug: 'chiruran-nibun-no-ichi',
+    id: '758',
+    nome: 'Chiruran: Nibun No Ichi'
+  },
+  'chitose-get-you': {
+    slug: 'chitose-get-you',
+    id: '959',
+    nome: 'Chitose Get You!!!'
+  },
+  'chocolate-underground': {
+    slug: 'chocolate-underground',
+    id: '961',
+    nome: 'Chocolate Underground'
+  },
+  'chou-yuu-sekai-being-the-reality': {
+    slug: 'chou-yuu-sekai-being-the-reality',
+    id: '1500',
+    nome: 'Chou Yuu Sekai: Being The Reality'
+  },
+  'choujigen-game-neptune-the-animation': {
+    slug: 'choujigen-game-neptune-the-animation',
+    id: '962',
+    nome: 'Choujigen Game Neptune The Animation'
+  },
+  'chousoku-henkei-gyrozetter': {
+    slug: 'chousoku-henkei-gyrozetter',
+    id: '963',
+    nome: 'Chousoku Henkei Gyrozetter'
+  },
+  'chrno-crusade': {
+    slug: 'chrno-crusade',
+    id: '964',
+    nome: 'Chrno Crusade'
+  },
+  'chuunibyou-demo-koi-ga-shitai': {
+    slug: 'chuunibyou-demo-koi-ga-shitai',
+    id: '118',
+    nome: 'Chuunibyou Demo Koi Ga Shitai'
+  },
+  'chuunibyou-demo-koi-ga-shitai-ren': {
+    slug: 'chuunibyou-demo-koi-ga-shitai-ren',
+    id: '119',
+    nome: 'Chuunibyou Demo Koi Ga Shitai! Ren'
+  },
+  'cinderella-girls-gekijou': {
+    slug: 'cinderella-girls-gekijou',
+    id: '1536',
+    nome: 'Cinderella Girls Gekijou'
+  },
+  'clannad-after-story': {
+    slug: 'clannad-after-story',
+    id: '967',
+    nome: 'Clannad After Story'
+  },
+  classicaloid: {
+    slug: 'classicaloid',
+    id: '115',
+    nome: 'Classicaloid'
+  },
+  'classroom-crisis': {
+    slug: 'classroom-crisis',
+    id: '968',
+    nome: 'Classroom?Crisis'
+  },
+  'clione-no-akari': {
+    slug: 'clione-no-akari',
+    id: '1896',
+    nome: 'Clione no Akari'
+  },
+  'clockwork-planet': {
+    slug: 'clockwork-planet',
+    id: '1540',
+    nome: 'Clockwork Planet'
+  },
+  'cobra-the-animation': {
+    slug: 'cobra-the-animation',
+    id: '969',
+    nome: 'Cobra: The Animation'
+  },
+  'code-geass-r2': {
+    slug: 'code-geass-r2',
+    id: '971',
+    nome: 'Code Geass R2'
+  },
+  'code-breaker': {
+    slug: 'code-breaker',
+    id: '972',
+    nome: 'Code: Breaker'
+  },
+  'code-realize-sousei-no-himegimi': {
+    slug: 'code-realize-sousei-no-himegimi',
+    id: '382',
+    nome: 'Code:Realize - Sousei no Himegimi'
+  },
+  'comet-lucifer': {
+    slug: 'comet-lucifer',
+    id: '974',
+    nome: 'Comet Lucifer'
+  },
+  'comic-girls': {
+    slug: 'comic-girls',
+    id: '51338',
+    nome: 'Comic Girls '
+  },
+  'comic-party-revolution': {
+    slug: 'comic-party-revolution',
+    id: '975',
+    nome: 'Comic Party Revolution'
+  },
+  'concrete-revolutio-choujin-gensou': {
+    slug: 'concrete-revolutio-choujin-gensou',
+    id: '2008',
+    nome: 'Concrete Revolutio: Choujin Gensou'
+  },
+  'concrete-revolutio-choujin-gensou-the-last-song': {
+    slug: 'concrete-revolutio-choujin-gensou-the-last-song',
+    id: '1608',
+    nome: 'Concrete Revolutio: Choujin Gensou – The Last Song'
+  },
+  'cosmic-break': {
+    slug: 'cosmic-break',
+    id: '2009',
+    nome: 'Cosmic Break'
+  },
+  'cowboy-bebop': {
+    slug: 'cowboy-bebop',
+    id: '977',
+    nome: 'Cowboy Bebop'
+  },
+  'cross-ange-tenshi-to-ryuu-no-rondo': {
+    slug: 'cross-ange-tenshi-to-ryuu-no-rondo',
+    id: '978',
+    nome: 'Cross Ange: Tenshi To Ryuu No Rondo'
+  },
+  'cross-fight-b-daman': {
+    slug: 'cross-fight-b-daman',
+    id: '2010',
+    nome: 'Cross Fight B-Daman'
+  },
+  'crystal-blaze': {
+    slug: 'crystal-blaze',
+    id: '1611',
+    nome: 'Crystal Blaze'
+  },
+  'cube-x-cursed-x-curious': {
+    slug: 'cube-x-cursed-x-curious',
+    id: '979',
+    nome: 'Cube X Cursed X Curious'
+  },
+  'cuticle-tantei-inaba': {
+    slug: 'cuticle-tantei-inaba',
+    id: '980',
+    nome: 'Cuticle Tantei Inaba'
+  },
+  'cutie-honey-universe': {
+    slug: 'cutie-honey-universe',
+    id: '51368',
+    nome: 'Cutie Honey Universe'
+  },
+  'https-discord-gg-x-k2-mr-hq': {
+    slug: 'https-discord-gg-x-k2-mr-hq',
+    id: '2007',
+    nome: 'https://discord.gg/XK2MrHq'
+  },
+  'd-gray-man-hallow': {
+    slug: 'd-gray-man-hallow',
+    id: '125',
+    nome: 'D. Gray Man Hallow'
+  },
+  'da-capo-ii-second-season': {
+    slug: 'da-capo-ii-second-season',
+    id: '1025',
+    nome: 'Da Capo II Second Season'
+  },
+  'da-capo-iii': {
+    slug: 'da-capo-iii',
+    id: '1026',
+    nome: 'Da Capo III'
+  },
+  'dagashi-kashi': {
+    slug: 'dagashi-kashi',
+    id: '1027',
+    nome: 'Dagashi Kashi'
+  },
+  'dagashi-kashi-2': {
+    slug: 'dagashi-kashi-2',
+    id: '2349',
+    nome: 'Dagashi Kashi 2'
+  },
+  'daitoshokan-no-hitsujikai': {
+    slug: 'daitoshokan-no-hitsujikai',
+    id: '1028',
+    nome: 'Daitoshokan No Hitsujikai'
+  },
+  'dakara-boku-wa-h-ga-dekinai': {
+    slug: 'dakara-boku-wa-h-ga-dekinai',
+    id: '1029',
+    nome: 'Dakara Boku Wa, H Ga Dekinai'
+  },
+  'dame-x-prince-anime-caravan': {
+    slug: 'dame-x-prince-anime-caravan',
+    id: '2337',
+    nome: 'Dame x Prince Anime Caravan'
+  },
+  'danball-senki': {
+    slug: 'danball-senki',
+    id: '1030',
+    nome: 'Danball Senki'
+  },
+  'danball-senki-w': {
+    slug: 'danball-senki-w',
+    id: '1612',
+    nome: 'Danball Senki W'
+  },
+  'danball-senki-wars': {
+    slug: 'danball-senki-wars',
+    id: '1613',
+    nome: 'Danball Senki Wars'
+  },
+  'dance-in-the-vampire-bund': {
+    slug: 'dance-in-the-vampire-bund',
+    id: '1031',
+    nome: 'Dance In The Vampire Bund'
+  },
+  'dance-with-devils': {
+    slug: 'dance-with-devils',
+    id: '127',
+    nome: 'Dance With Devils'
+  },
+  'danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen': {
+    slug: 'danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen',
+    id: '129',
+    nome: 'Danganronpa 3: The End Of Kibougamine Gakuen - Mirai-hen'
+  },
+  'danganronpa-3-the-end-of-kibougamine-gakuen-zetsubou-hen': {
+    slug: 'danganronpa-3-the-end-of-kibougamine-gakuen-zetsubou-hen',
+    id: '130',
+    nome: 'Danganronpa 3: The End Of Kibougamine Gakuen - Zetsubou-hen'
+  },
+  'danganronpa-the-animation': {
+    slug: 'danganronpa-the-animation',
+    id: '1614',
+    nome: 'Danganronpa: The Animation'
+  },
+  'danna-ga-nani-wo-itteiru-ka-wakaranai-ken': {
+    slug: 'danna-ga-nani-wo-itteiru-ka-wakaranai-ken',
+    id: '1033',
+    nome: 'Danna Ga Nani Wo Itteiru Ka Wakaranai Ken'
+  },
+  'danna-ga-nani-wo-itteiru-ka-wakaranai-ken-2-sure-me': {
+    slug: 'danna-ga-nani-wo-itteiru-ka-wakaranai-ken-2-sure-me',
+    id: '1034',
+    nome: 'Danna Ga Nani Wo Itteiru Ka Wakaranai Ken 2 Sure-me'
+  },
+  'dansai-bunri-no-crime-edge': {
+    slug: 'dansai-bunri-no-crime-edge',
+    id: '1035',
+    nome: 'Dansai Bunri No Crime Edge'
+  },
+  'danshi-koukousei-no-nichijou': {
+    slug: 'danshi-koukousei-no-nichijou',
+    id: '1036',
+    nome: 'Danshi Koukousei No Nichijou'
+  },
+  'darker-than-black-kuro-no-keiyakusha': {
+    slug: 'darker-than-black-kuro-no-keiyakusha',
+    id: '1038',
+    nome: 'Darker Than Black: Kuro No Keiyakusha'
+  },
+  'darker-than-black-ryuusei-no-gemini': {
+    slug: 'darker-than-black-ryuusei-no-gemini',
+    id: '1039',
+    nome: 'Darker Than Black: Ryuusei No Gemini'
+  },
+  darkstalkers: {
+    slug: 'darkstalkers',
+    id: '1615',
+    nome: 'Darkstalkers'
+  },
+  'darling-in-the-fran-xx': {
+    slug: 'darling-in-the-fran-xx',
+    id: '2350',
+    nome: 'Darling in the FranXX'
+  },
+  'date-a-live': {
+    slug: 'date-a-live',
+    id: '1040',
+    nome: 'Date A Live'
+  },
+  'date-a-live-ii': {
+    slug: 'date-a-live-ii',
+    id: '1041',
+    nome: 'Date A Live II'
+  },
+  'deadman-wonderland': {
+    slug: 'deadman-wonderland',
+    id: '131',
+    nome: 'Deadman Wonderland'
+  },
+  'death-parade': {
+    slug: 'death-parade',
+    id: '1043',
+    nome: 'Death Parade'
+  },
+  'deltora-quest': {
+    slug: 'deltora-quest',
+    id: '1044',
+    nome: 'Deltora Quest'
+  },
+  'demi-chan-wa-kataritai': {
+    slug: 'demi-chan-wa-kataritai',
+    id: '783',
+    nome: 'Demi-chan Wa Kataritai'
+  },
+  'denki-gai-no-honya-san': {
+    slug: 'denki-gai-no-honya-san',
+    id: '1045',
+    nome: 'Denki-gai No Honya-san'
+  },
+  'denpa-kyoushi': {
+    slug: 'denpa-kyoushi',
+    id: '1046',
+    nome: 'Denpa Kyoushi'
+  },
+  'denpa-onna-to-seishun-otoko': {
+    slug: 'denpa-onna-to-seishun-otoko',
+    id: '1047',
+    nome: 'Denpa Onna To Seishun Otoko'
+  },
+  'densetsu-no-yuusha-no-densetsu': {
+    slug: 'densetsu-no-yuusha-no-densetsu',
+    id: '1048',
+    nome: 'Densetsu No Yuusha No Densetsu'
+  },
+  'detroit-metal-city': {
+    slug: 'detroit-metal-city',
+    id: '1049',
+    nome: 'Detroit Metal City'
+  },
+  'devil-may-cry': {
+    slug: 'devil-may-cry',
+    id: '133',
+    nome: 'Devil May Cry'
+  },
+  'devil-survivor-2-the-animation': {
+    slug: 'devil-survivor-2-the-animation',
+    id: '1050',
+    nome: 'Devil Survivor 2 The Animation'
+  },
+  'devilman-crybaby': {
+    slug: 'devilman-crybaby',
+    id: '2321',
+    nome: 'Devilman: Crybaby'
+  },
+  'devils-line': {
+    slug: 'devils-line',
+    id: '51327',
+    nome: 'Devils Line '
+  },
+  'di-gi-charat': {
+    slug: 'di-gi-charat',
+    id: '1051',
+    nome: 'Di Gi Charat'
+  },
+  'diabolik-lovers': {
+    slug: 'diabolik-lovers',
+    id: '135',
+    nome: 'Diabolik Lovers'
+  },
+  'diabolik-lovers-2': {
+    slug: 'diabolik-lovers-2',
+    id: '136',
+    nome: 'Diabolik Lovers 2'
+  },
+  'diamond-no-ace': {
+    slug: 'diamond-no-ace',
+    id: '2011',
+    nome: 'Diamond no Ace'
+  },
+  'diamond-no-ace-2': {
+    slug: 'diamond-no-ace-2',
+    id: '2012',
+    nome: 'Diamond no Ace 2'
+  },
+  'digimon-adventure': {
+    slug: 'digimon-adventure',
+    id: '2013',
+    nome: 'Digimon Adventure'
+  },
+  'digimon-adventure-2': {
+    slug: 'digimon-adventure-2',
+    id: '2014',
+    nome: 'Digimon Adventure 2'
+  },
+  'digimon-adventure-tri': {
+    slug: 'digimon-adventure-tri',
+    id: '140',
+    nome: 'Digimon Adventure Tri'
+  },
+  'digimon-frontier': {
+    slug: 'digimon-frontier',
+    id: '2015',
+    nome: 'Digimon Frontier'
+  },
+  'digimon-savers-digimon-data-squad': {
+    slug: 'digimon-savers-digimon-data-squad',
+    id: '2016',
+    nome: 'Digimon Savers / Digimon Data Squad'
+  },
+  'digimon-tamers': {
+    slug: 'digimon-tamers',
+    id: '2017',
+    nome: 'Digimon Tamers'
+  },
+  'digimon-universe': {
+    slug: 'digimon-universe',
+    id: '143',
+    nome: 'Digimon Universe'
+  },
+  'digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku': {
+    slug: 'digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku',
+    id: '145',
+    nome: 'Digimon Xros Wars: Aku No Death General To Nanatsu No Oukoku'
+  },
+  'digimon-xros-wars-toki-wo-kakeru-shounen-hunter-tachi': {
+    slug: 'digimon-xros-wars-toki-wo-kakeru-shounen-hunter-tachi',
+    id: '2018',
+    nome: 'Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi'
+  },
+  'dimension-w': {
+    slug: 'dimension-w',
+    id: '1052',
+    nome: 'Dimension W'
+  },
+  'divine-gate': {
+    slug: 'divine-gate',
+    id: '1055',
+    nome: 'Divine Gate'
+  },
+  'dogs-stray-dogs-howling-the-dark': {
+    slug: 'dogs-stray-dogs-howling-the-dark',
+    id: '1060',
+    nome: 'Dogs Stray Dogs Howling The Dark'
+  },
+  'dokidoki-pre-cure': {
+    slug: 'dokidoki-pre-cure',
+    id: '1061',
+    nome: 'Dokidoki! PreCure'
+  },
+  'donten-ni-warau': {
+    slug: 'donten-ni-warau',
+    id: '1062',
+    nome: 'Donten Ni Warau'
+  },
+  'dorei-ku-the-animation': {
+    slug: 'dorei-ku-the-animation',
+    id: '51344',
+    nome: 'Dorei-ku The Animation'
+  },
+  'dragon-ball': {
+    slug: 'dragon-ball',
+    id: '2019',
+    nome: 'Dragon Ball'
+  },
+  'dragon-ball-absalon': {
+    slug: 'dragon-ball-absalon',
+    id: '148',
+    nome: 'Dragon Ball Absalon'
+  },
+  'dragon-ball-gt': {
+    slug: 'dragon-ball-gt',
+    id: '1617',
+    nome: 'Dragon Ball GT'
+  },
+  'dragon-ball-kai-2014-legendado': {
+    slug: 'dragon-ball-kai-2014-legendado',
+    id: '151',
+    nome: 'Dragon Ball Kai (2014) - Legendado'
+  },
+  'dragon-ball-kai-legendado': {
+    slug: 'dragon-ball-kai-legendado',
+    id: '150',
+    nome: 'Dragon Ball Kai - Legendado'
+  },
+  'dragon-ball-super': {
+    slug: 'dragon-ball-super',
+    id: '5017',
+    nome: 'Dragon Ball Super'
+  },
+  'dragon-collection': {
+    slug: 'dragon-collection',
+    id: '155',
+    nome: 'Dragon Collection'
+  },
+  'dragon-crisis': {
+    slug: 'dragon-crisis',
+    id: '1063',
+    nome: 'Dragon Crisis'
+  },
+  'dragon-drive': {
+    slug: 'dragon-drive',
+    id: '1064',
+    nome: 'Dragon Drive'
+  },
+  'dragonaut-the-resonance': {
+    slug: 'dragonaut-the-resonance',
+    id: '1065',
+    nome: 'Dragonaut: The Resonance'
+  },
+  'dramatical-murder': {
+    slug: 'dramatical-murder',
+    id: '1066',
+    nome: 'Dramatical Murder'
+  },
+  'dream-festival': {
+    slug: 'dream-festival',
+    id: '1618',
+    nome: 'Dream Festival!'
+  },
+  'dream-festival-r': {
+    slug: 'dream-festival-r',
+    id: '2093',
+    nome: 'Dream Festival! R'
+  },
+  'dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria': {
+    slug:
+        'dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria',
+    id: '1629',
+    nome:
+        'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria'
+  },
+  'dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka': {
+    slug: 'dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka',
+    id: '1067',
+    nome: 'Dungeon Ni Deai Wo Motomeru No Wa Machigatteiru No Darou Ka'
+  },
+  'durarara-x2-ketsu': {
+    slug: 'durarara-x2-ketsu',
+    id: '158',
+    nome: 'Durarara!!x2 Ketsu'
+  },
+  'durarara-x2-shou': {
+    slug: 'durarara-x2-shou',
+    id: '159',
+    nome: 'Durarara!!x2 Shou'
+  },
+  'durarara-x2-ten': {
+    slug: 'durarara-x2-ten',
+    id: '160',
+    nome: 'Durarara!!x2 Ten'
+  },
+  'dynamic-chord': {
+    slug: 'dynamic-chord',
+    id: '2302',
+    nome: 'Dynamic Chord'
+  },
+  'ebiten-kouritsu-ebisugawa-koukou-tenmonbu': {
+    slug: 'ebiten-kouritsu-ebisugawa-koukou-tenmonbu',
+    id: '1070',
+    nome: 'Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu'
+  },
+  'ef-a-tale-of-melodies': {
+    slug: 'ef-a-tale-of-melodies',
+    id: '1071',
+    nome: 'Ef: A Tale Of Melodies'
+  },
+  'ef-a-tale-of-memories': {
+    slug: 'ef-a-tale-of-memories',
+    id: '1072',
+    nome: 'Ef: A Tale Of Memories'
+  },
+  'el-cazador-de-la-bruja': {
+    slug: 'el-cazador-de-la-bruja',
+    id: '164',
+    nome: 'El Cazador De La Bruja'
+  },
+  'elegant-yokai-apartment-life': {
+    slug: 'elegant-yokai-apartment-life',
+    id: '1865',
+    nome: 'Elegant Yokai Apartment Life'
+  },
+  'element-hunters': {
+    slug: 'element-hunters',
+    id: '604',
+    nome: 'Element Hunters'
+  },
+  'elemental-gelade': {
+    slug: 'elemental-gelade',
+    id: '1620',
+    nome: 'Elemental Gelade'
+  },
+  'elsword-el-lady': {
+    slug: 'elsword-el-lady',
+    id: '765',
+    nome: 'Elsword: El Lady'
+  },
+  'emiya-san-chi-no-kyou-no-gohan': {
+    slug: 'emiya-san-chi-no-kyou-no-gohan',
+    id: '2367',
+    nome: 'Emiya-san Chi no Kyou no Gohan'
+  },
+  'enmusubi-no-youko-chan': {
+    slug: 'enmusubi-no-youko-chan',
+    id: '1858',
+    nome: 'Enmusubi no Youko-chan'
+  },
+  'erementar-gerad': {
+    slug: 'erementar-gerad',
+    id: '1073',
+    nome: 'Erementar Gerad'
+  },
+  'eromanga-sensei': {
+    slug: 'eromanga-sensei',
+    id: '1586',
+    nome: 'Eromanga Sensei'
+  },
+  'escha-and-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi': {
+    slug: 'escha-and-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi',
+    id: '1621',
+    nome: 'Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi'
+  },
+  'eureka-seven': {
+    slug: 'eureka-seven',
+    id: '607',
+    nome: 'Eureka Seven'
+  },
+  'eureka-seven-ao': {
+    slug: 'eureka-seven-ao',
+    id: '1075',
+    nome: 'Eureka Seven: AO'
+  },
+  'eve-no-jikan': {
+    slug: 'eve-no-jikan',
+    id: '1076',
+    nome: 'Eve No Jikan'
+  },
+  'evil-or-live': {
+    slug: 'evil-or-live',
+    id: '2283',
+    nome: 'Evil or Live'
+  },
+  'eyeshield-21': {
+    slug: 'eyeshield-21',
+    id: '1079',
+    nome: 'Eyeshield 21'
+  },
+  'e-s-otherwise': {
+    slug: 'e-s-otherwise',
+    id: '1619',
+    nome: 'E’s Otherwise'
+  },
+  'fairy-tail-2014': {
+    slug: 'fairy-tail-2014',
+    id: '5003',
+    nome: 'Fairy Tail (2014)'
+  },
+  'fairy-tail-girls': {
+    slug: 'fairy-tail-girls',
+    id: '2341',
+    nome: 'Fairy Tail Girls'
+  },
+  'fairy-tail-filme-02-dragon-cry': {
+    slug: 'fairy-tail-filme-02-dragon-cry',
+    id: '2310',
+    nome: 'Fairy Tail: Filme 02 – Dragon Cry'
+  },
+  'fantasista-doll': {
+    slug: 'fantasista-doll',
+    id: '1080',
+    nome: 'Fantasista Doll'
+  },
+  'fantasista-stella': {
+    slug: 'fantasista-stella',
+    id: '2315',
+    nome: 'Fantasista Stella'
+  },
+  'fate-stay-night': {
+    slug: 'fate-stay-night',
+    id: '184',
+    nome: 'Fate / Stay Night'
+  },
+  'fate-kaleid-liner-prisma-illya': {
+    slug: 'fate-kaleid-liner-prisma-illya',
+    id: '1081',
+    nome: 'Fate Kaleid Liner Prisma?Illya'
+  },
+  'fate-apocrypha': {
+    slug: 'fate-apocrypha',
+    id: '1862',
+    nome: 'Fate/Apocrypha'
+  },
+  'fate-extra-last-encore': {
+    slug: 'fate-extra-last-encore',
+    id: '2360',
+    nome: 'Fate/Extra Last Encore'
+  },
+  'fate-kaleid-liner-prisma-illya-2wei-herz': {
+    slug: 'fate-kaleid-liner-prisma-illya-2wei-herz',
+    id: '1082',
+    nome: 'Fate/kaleid Liner Prisma?Illya 2wei Herz!'
+  },
+  'fate-kaleid-liner-prisma-illya-2wei': {
+    slug: 'fate-kaleid-liner-prisma-illya-2wei',
+    id: '1083',
+    nome: 'Fate/kaleid Liner Prisma?Illya 2wei!'
+  },
+  'fate-kaleid-liner-prisma-illya-3rei': {
+    slug: 'fate-kaleid-liner-prisma-illya-3rei',
+    id: '1084',
+    nome: 'Fate/kaleid Liner Prisma?Illya 3rei!!'
+  },
+  'fate-stay-night-unlimited-blade-works': {
+    slug: 'fate-stay-night-unlimited-blade-works',
+    id: '182',
+    nome: 'Fate/stay Night: Unlimited Blade Works'
+  },
+  'fate-stay-night-unlimited-blade-works-2nd': {
+    slug: 'fate-stay-night-unlimited-blade-works-2nd',
+    id: '181',
+    nome: 'Fate/stay Night: Unlimited Blade Works 2nd'
+  },
+  'fate-zero-2nd-season': {
+    slug: 'fate-zero-2nd-season',
+    id: '179',
+    nome: 'Fate/Zero 2nd Season'
+  },
+  'final-fantasy-unlimited': {
+    slug: 'final-fantasy-unlimited',
+    id: '178',
+    nome: 'Final Fantasy: Unlimited'
+  },
+  'flame-of-recca': {
+    slug: 'flame-of-recca',
+    id: '1085',
+    nome: 'Flame Of Recca'
+  },
+  'flip-flappers': {
+    slug: 'flip-flappers',
+    id: '177',
+    nome: 'Flip Flappers'
+  },
+  'flying-witch': {
+    slug: 'flying-witch',
+    id: '1086',
+    nome: 'Flying Witch'
+  },
+  'forest-fairy-five': {
+    slug: 'forest-fairy-five',
+    id: '761',
+    nome: 'Forest Fairy Five'
+  },
+  'fortune-arterial-akai-yakusoku': {
+    slug: 'fortune-arterial-akai-yakusoku',
+    id: '1087',
+    nome: 'Fortune Arterial: Akai Yakusoku'
+  },
+  'frame-arms-girl': {
+    slug: 'frame-arms-girl',
+    id: '1601',
+    nome: 'Frame Arms Girl'
+  },
+  'francesca-girls-be-ambitious': {
+    slug: 'francesca-girls-be-ambitious',
+    id: '1088',
+    nome: 'Francesca Girls Be Ambitious'
+  },
+  'free-eternal-summer': {
+    slug: 'free-eternal-summer',
+    id: '175',
+    nome: 'Free! Eternal Summer'
+  },
+  'freezing-vibration': {
+    slug: 'freezing-vibration',
+    id: '1090',
+    nome: 'Freezing: Vibration'
+  },
+  'fruits-basket': {
+    slug: 'fruits-basket',
+    id: '174',
+    nome: 'Fruits Basket'
+  },
+  'fudanshi-koukou-seikatsu': {
+    slug: 'fudanshi-koukou-seikatsu',
+    id: '1091',
+    nome: 'Fudanshi Koukou Seikatsu'
+  },
+  'fukigen-na-mononokean': {
+    slug: 'fukigen-na-mononokean',
+    id: '1092',
+    nome: 'Fukigen Na Mononokean'
+  },
+  'fukumenkei-noise': {
+    slug: 'fukumenkei-noise',
+    id: '1604',
+    nome: 'Fukumenkei Noise'
+  },
+  'full-metal-panic': {
+    slug: 'full-metal-panic',
+    id: '172',
+    nome: 'Full Metal Panic!'
+  },
+  'full-metal-panic-the-second-raid': {
+    slug: 'full-metal-panic-the-second-raid',
+    id: '173',
+    nome: 'Full Metal Panic: The Second Raid'
+  },
+  'full-metal-panic-fumoffu': {
+    slug: 'full-metal-panic-fumoffu',
+    id: '171',
+    nome: 'Full Metal Panic? Fumoffu!'
+  },
+  'full-metal-panic-fumoffu-dublado': {
+    slug: 'full-metal-panic-fumoffu-dublado',
+    id: '170',
+    nome: 'Full Metal Panic? Fumoffu! Dublado'
+  },
+  'full-moon-wo-sagashite': {
+    slug: 'full-moon-wo-sagashite',
+    id: '1093',
+    nome: 'Full Moon Wo Sagashite'
+  },
+  'fullmetal-alchemist': {
+    slug: 'fullmetal-alchemist',
+    id: '169',
+    nome: 'Fullmetal Alchemist'
+  },
+  'fullmetal-alchemist-brotherhood': {
+    slug: 'fullmetal-alchemist-brotherhood',
+    id: '168',
+    nome: 'Fullmetal Alchemist Brotherhood'
+  },
+  'fullmetal-panic-invisible-victory': {
+    slug: 'fullmetal-panic-invisible-victory',
+    id: '51322',
+    nome: 'Fullmetal Panic! Invisible Victory'
+  },
+  'fumikiri-jikan': {
+    slug: 'fumikiri-jikan',
+    id: '51372',
+    nome: 'Fumikiri Jikan'
+  },
+  'fushigi-na-somera-chan': {
+    slug: 'fushigi-na-somera-chan',
+    id: '1094',
+    nome: 'Fushigi Na Somera-chan'
+  },
+  'fushigi-yuugi': {
+    slug: 'fushigi-yuugi',
+    id: '1095',
+    nome: 'Fushigi Yuugi'
+  },
+  'futakoi-alternative': {
+    slug: 'futakoi-alternative',
+    id: '1622',
+    nome: 'Futakoi Alternative'
+  },
+  'futsuu-no-joshikousei-ga-locodol-yatte-mita': {
+    slug: 'futsuu-no-joshikousei-ga-locodol-yatte-mita',
+    id: '1097',
+    nome: 'Futsuu No Joshikousei Ga [Locodol] Yatte Mita'
+  },
+  'future-card-buddy-fight': {
+    slug: 'future-card-buddy-fight',
+    id: '1098',
+    nome: 'Future Card BuddyFight'
+  },
+  'fuuun-ishin-dai-shogun': {
+    slug: 'fuuun-ishin-dai-shogun',
+    id: '1099',
+    nome: 'Fuuun Ishin Dai?Shogun'
+  },
+  'ga-rei-zero': {
+    slug: 'ga-rei-zero',
+    id: '608',
+    nome: 'Ga-Rei: Zero'
+  },
+  'gabriel-drop-out': {
+    slug: 'gabriel-drop-out',
+    id: '1623',
+    nome: 'Gabriel DropOut'
+  },
+  'gaist-crusher': {
+    slug: 'gaist-crusher',
+    id: '192',
+    nome: 'Gaist Crusher'
+  },
+  'gakkou-gurashi': {
+    slug: 'gakkou-gurashi',
+    id: '1100',
+    nome: 'Gakkou Gurashi!'
+  },
+  'gakuen-alice': {
+    slug: 'gakuen-alice',
+    id: '1101',
+    nome: 'Gakuen Alice'
+  },
+  'gakuen-babysitters': {
+    slug: 'gakuen-babysitters',
+    id: '233000',
+    nome: 'Gakuen Babysitters'
+  },
+  'gakuen-handsome': {
+    slug: 'gakuen-handsome',
+    id: '191',
+    nome: 'Gakuen Handsome'
+  },
+  'gakuen-utopia-manabi-straight': {
+    slug: 'gakuen-utopia-manabi-straight',
+    id: '1102',
+    nome: 'Gakuen Utopia Manabi Straight!'
+  },
+  'gakusen-toshi-asterisk': {
+    slug: 'gakusen-toshi-asterisk',
+    id: '1103',
+    nome: 'Gakusen Toshi Asterisk'
+  },
+  'galilei-donna': {
+    slug: 'galilei-donna',
+    id: '1104',
+    nome: 'Galilei Donna'
+  },
+  'garo-guren-no-tsuki': {
+    slug: 'garo-guren-no-tsuki',
+    id: '1106',
+    nome: 'Garo: Guren No Tsuki'
+  },
+  'garo-honoo-no-kokuin': {
+    slug: 'garo-honoo-no-kokuin',
+    id: '1107',
+    nome: 'Garo: Honoo No Kokuin'
+  },
+  'garo-vanishing-line': {
+    slug: 'garo-vanishing-line',
+    id: '2275',
+    nome: 'Garo: Vanishing Line'
+  },
+  'gatchaman-crowds': {
+    slug: 'gatchaman-crowds',
+    id: '1108',
+    nome: 'Gatchaman Crowds'
+  },
+  'gatchaman-crowds-insight': {
+    slug: 'gatchaman-crowds-insight',
+    id: '1109',
+    nome: 'Gatchaman Crowds Insight'
+  },
+  'gate-jieitai-kanochi-nite-kaku-tatakaeri': {
+    slug: 'gate-jieitai-kanochi-nite-kaku-tatakaeri',
+    id: '1110',
+    nome: 'Gate: Jieitai Kanochi Nite, Kaku Tatakaeri'
+  },
+  'gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen': {
+    slug: 'gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen',
+    id: '1111',
+    nome: 'Gate: Jieitai Kanochi Nite, Kaku Tatakaeri - Enryuu-hen'
+  },
+  'gegege-no-kitarou-2018': {
+    slug: 'gegege-no-kitarou-2018',
+    id: '51336',
+    nome: 'Gegege no Kitarou (2018) '
+  },
+  'gekkan-shoujo-nozaki-kun': {
+    slug: 'gekkan-shoujo-nozaki-kun',
+    id: '1112',
+    nome: 'Gekkan Shoujo Nozaki-kun'
+  },
+  'genei-wo-kakeru-taiyou': {
+    slug: 'genei-wo-kakeru-taiyou',
+    id: '1113',
+    nome: 'Genei Wo Kakeru Taiyou'
+  },
+  'get-backers': {
+    slug: 'get-backers',
+    id: '1114',
+    nome: 'Get Backers'
+  },
+  'getsuyoubi-no-tawawa': {
+    slug: 'getsuyoubi-no-tawawa',
+    id: '1509',
+    nome: 'Getsuyoubi No Tawawa'
+  },
+  'ghost-hound': {
+    slug: 'ghost-hound',
+    id: '1624',
+    nome: 'Ghost Hound'
+  },
+  'ghost-in-the-shell-arise-alternative-architecture': {
+    slug: 'ghost-in-the-shell-arise-alternative-architecture',
+    id: '1625',
+    nome: 'Ghost in the Shell: Arise – Alternative Architecture'
+  },
+  'giant-killing': {
+    slug: 'giant-killing',
+    id: '1116',
+    nome: 'Giant Killing'
+  },
+  'gifuu-doudou-kanetsugu-para-keiji': {
+    slug: 'gifuu-doudou-kanetsugu-para-keiji',
+    id: '1117',
+    nome: 'Gifuu Doudou !!: Kanetsugu Para Keiji'
+  },
+  'gin-no-guardian': {
+    slug: 'gin-no-guardian',
+    id: '1524',
+    nome: 'Gin no Guardian'
+  },
+  'gin-no-guardian-2': {
+    slug: 'gin-no-guardian-2',
+    id: '2348',
+    nome: 'Gin no Guardian 2'
+  },
+  'gin-no-saji': {
+    slug: 'gin-no-saji',
+    id: '1118',
+    nome: 'Gin No Saji'
+  },
+  'gin-no-saji-2014': {
+    slug: 'gin-no-saji-2014',
+    id: '1119',
+    nome: 'Gin No Saji 2014'
+  },
+  'ginga-e-kickoff': {
+    slug: 'ginga-e-kickoff',
+    id: '1120',
+    nome: 'Ginga E Kickoff!!'
+  },
+  'ginga-eiyuu-densetsu-die-neue-these-kaikou': {
+    slug: 'ginga-eiyuu-densetsu-die-neue-these-kaikou',
+    id: '51323',
+    nome: 'Ginga Eiyuu Densetsu: Die Neue These – Kaikou'
+  },
+  'ginga-kikoutai-majestic-prince': {
+    slug: 'ginga-kikoutai-majestic-prince',
+    id: '1121',
+    nome: 'Ginga Kikoutai Majestic Prince'
+  },
+  'girl-friend-beta': {
+    slug: 'girl-friend-beta',
+    id: '289',
+    nome: 'Girl Friend Beta'
+  },
+  'girlish-number': {
+    slug: 'girlish-number',
+    id: '290',
+    nome: 'Girlish Number'
+  },
+  'girls-bravo-first-season': {
+    slug: 'girls-bravo-first-season',
+    id: '1124',
+    nome: 'Girls Bravo: First Season'
+  },
+  'girls-bravo-second-season': {
+    slug: 'girls-bravo-second-season',
+    id: '1125',
+    nome: 'Girls Bravo: Second Season'
+  },
+  'girls-und-panzer': {
+    slug: 'girls-und-panzer',
+    id: '1126',
+    nome: 'Girls Und Panzer'
+  },
+  'glass-no-kantai': {
+    slug: 'glass-no-kantai',
+    id: '2020',
+    nome: 'Glass no Kantai'
+  },
+  'gochuumon-wa-usagi-desu-ka': {
+    slug: 'gochuumon-wa-usagi-desu-ka',
+    id: '1130',
+    nome: 'Gochuumon Wa Usagi Desu Ka??'
+  },
+  'gochuumon-wa-usagi-desu-ka-2': {
+    slug: 'gochuumon-wa-usagi-desu-ka-2',
+    id: '2021',
+    nome: 'Gochuumon wa Usagi Desu ka?? 2'
+  },
+  'gokukoku-no-brynhildr': {
+    slug: 'gokukoku-no-brynhildr',
+    id: '1131',
+    nome: 'Gokukoku No Brynhildr'
+  },
+  'golden-kamuy': {
+    slug: 'golden-kamuy',
+    id: '51325',
+    nome: 'Golden Kamuy'
+  },
+  'golden-time': {
+    slug: 'golden-time',
+    id: '1132',
+    nome: 'Golden Time'
+  },
+  'granblue-fantasy-the-animation': {
+    slug: 'granblue-fantasy-the-animation',
+    id: '1502',
+    nome: 'Granblue Fantasy The Animation'
+  },
+  'grancrest-senki': {
+    slug: 'grancrest-senki',
+    id: '232200',
+    nome: 'Grancrest Senki'
+  },
+  'gravion-zwei': {
+    slug: 'gravion-zwei',
+    id: '2023',
+    nome: 'Gravion Zwei!'
+  },
+  'green-green': {
+    slug: 'green-green',
+    id: '1134',
+    nome: 'Green Green'
+  },
+  'grisaia-no-kajitsu': {
+    slug: 'grisaia-no-kajitsu',
+    id: '1135',
+    nome: 'Grisaia No Kajitsu'
+  },
+  'grisaia-no-rakuen': {
+    slug: 'grisaia-no-rakuen',
+    id: '1136',
+    nome: 'Grisaia No Rakuen'
+  },
+  'gto-great-teacher-onizuka': {
+    slug: 'gto-great-teacher-onizuka',
+    id: '1137',
+    nome: 'GTO - Great Teacher Onizuka'
+  },
+  'gugure-kokkuri-san': {
+    slug: 'gugure-kokkuri-san',
+    id: '1138',
+    nome: 'Gugure! Kokkuri-san'
+  },
+  'guilty-crown': {
+    slug: 'guilty-crown',
+    id: '1139',
+    nome: 'Guilty Crown'
+  },
+  'gun-frontier': {
+    slug: 'gun-frontier',
+    id: '1140',
+    nome: 'Gun Frontier'
+  },
+  'gundam-00-2nd-season': {
+    slug: 'gundam-00-2nd-season',
+    id: '1142',
+    nome: 'Gundam 00 2nd Season'
+  },
+  'gundam-build-divers': {
+    slug: 'gundam-build-divers',
+    id: '51361',
+    nome: 'Gundam Build Divers'
+  },
+  'gundam-build-fighters': {
+    slug: 'gundam-build-fighters',
+    id: '287',
+    nome: 'Gundam Build Fighters'
+  },
+  'gundam-build-fighters-try': {
+    slug: 'gundam-build-fighters-try',
+    id: '286',
+    nome: 'Gundam Build Fighters Try'
+  },
+  'gundam-seed-destiny': {
+    slug: 'gundam-seed-destiny',
+    id: '284',
+    nome: 'Gundam Seed Destiny'
+  },
+  'gundam-unicorn-re-0096': {
+    slug: 'gundam-unicorn-re-0096',
+    id: '2024',
+    nome: 'Gundam Unicorn RE 0096'
+  },
+  'gundam-g-no-reconguista': {
+    slug: 'gundam-g-no-reconguista',
+    id: '281',
+    nome: 'Gundam: G No Reconguista'
+  },
+  'gunslinger-stratos-the-animation': {
+    slug: 'gunslinger-stratos-the-animation',
+    id: '1143',
+    nome: 'Gunslinger Stratos: The Animation'
+  },
+  'gyakuten-saiban': {
+    slug: 'gyakuten-saiban',
+    id: '1144',
+    nome: 'Gyakuten Saiban'
+  },
+  'hacka-doll-the-animation': {
+    slug: 'hacka-doll-the-animation',
+    id: '1145',
+    nome: 'Hacka Doll: The Animation'
+  },
+  'hagure-yuusha-no-estetica': {
+    slug: 'hagure-yuusha-no-estetica',
+    id: '1146',
+    nome: 'Hagure Yuusha No Estetica'
+  },
+  'hai-to-gensou-no-grimgar': {
+    slug: 'hai-to-gensou-no-grimgar',
+    id: '1147',
+    nome: 'Hai To Gensou No Grimgar'
+  },
+  'haiyore-nyaruko-san': {
+    slug: 'haiyore-nyaruko-san',
+    id: '1149',
+    nome: 'Haiyore! Nyaruko-san'
+  },
+  'haiyore-nyaruko-san-w': {
+    slug: 'haiyore-nyaruko-san-w',
+    id: '1150',
+    nome: 'Haiyore! Nyaruko-san W'
+  },
+  'hajime-no-ippo': {
+    slug: 'hajime-no-ippo',
+    id: '276',
+    nome: 'Hajime No Ippo'
+  },
+  'hajime-no-ippo-rising': {
+    slug: 'hajime-no-ippo-rising',
+    id: '275',
+    nome: 'Hajime No Ippo Rising'
+  },
+  'hajime-no-ippo-new-challenger': {
+    slug: 'hajime-no-ippo-new-challenger',
+    id: '274',
+    nome: 'Hajime No Ippo: New Challenger'
+  },
+  'hajimete-no-gal': {
+    slug: 'hajimete-no-gal',
+    id: '1895',
+    nome: 'Hajimete no Gal'
+  },
+  'hakata-tonkotsu-ramens': {
+    slug: 'hakata-tonkotsu-ramens',
+    id: '2343',
+    nome: 'Hakata Tonkotsu Ramens'
+  },
+  'hakkenden-touhou-hakken-ibun': {
+    slug: 'hakkenden-touhou-hakken-ibun',
+    id: '1151',
+    nome: 'Hakkenden: Touhou Hakken Ibun'
+  },
+  'hakkenden-touhou-hakken-ibun-2nd-season': {
+    slug: 'hakkenden-touhou-hakken-ibun-2nd-season',
+    id: '1152',
+    nome: 'Hakkenden: Touhou Hakken Ibun 2nd Season'
+  },
+  'hakumei-to-mikochi': {
+    slug: 'hakumei-to-mikochi',
+    id: '2345',
+    nome: 'Hakumei to Mikochi'
+  },
+  'hakuouki-hekketsuroku': {
+    slug: 'hakuouki-hekketsuroku',
+    id: '1154',
+    nome: 'Hakuouki Hekketsuroku'
+  },
+  'hakuouki-reimeiroku': {
+    slug: 'hakuouki-reimeiroku',
+    id: '1155',
+    nome: 'Hakuouki Reimeiroku'
+  },
+  'hakyuu-houshin-engi': {
+    slug: 'hakyuu-houshin-engi',
+    id: '2344',
+    nome: 'Hakyuu Houshin Engi'
+  },
+  'hamatora-the-animation': {
+    slug: 'hamatora-the-animation',
+    id: '1157',
+    nome: 'Hamatora: The Animation'
+  },
+  'hana-yori-dango': {
+    slug: 'hana-yori-dango',
+    id: '273',
+    nome: 'Hana Yori Dango'
+  },
+  hanamonogatari: {
+    slug: 'hanamonogatari',
+    id: '1158',
+    nome: 'Hanamonogatari'
+  },
+  'hand-shakers': {
+    slug: 'hand-shakers',
+    id: '774',
+    nome: 'Hand Shakers'
+  },
+  'hantsu-x-trash': {
+    slug: 'hantsu-x-trash',
+    id: '1506',
+    nome: 'Hantsu X Trash'
+  },
+  'happiness-charge-precure': {
+    slug: 'happiness-charge-precure',
+    id: '1160',
+    nome: 'Happiness Charge Precure!'
+  },
+  'haru-chika-haruta-to-chika-wa-seishun-suru': {
+    slug: 'haru-chika-haruta-to-chika-wa-seishun-suru',
+    id: '1161',
+    nome: 'HaruChika: Haruta To Chika Wa Seishun Suru'
+  },
+  'hataraku-maou-sama': {
+    slug: 'hataraku-maou-sama',
+    id: '1162',
+    nome: 'Hataraku Maou-sama'
+  },
+  'hatsukoi-monster': {
+    slug: 'hatsukoi-monster',
+    id: '1163',
+    nome: 'Hatsukoi Monster'
+  },
+  'hayate-no-gotoku': {
+    slug: 'hayate-no-gotoku',
+    id: '1164',
+    nome: 'Hayate No Gotoku'
+  },
+  'hayate-no-gotoku-3': {
+    slug: 'hayate-no-gotoku-3',
+    id: '1165',
+    nome: 'Hayate No Gotoku 3'
+  },
+  'hayate-no-gotoku-cuties': {
+    slug: 'hayate-no-gotoku-cuties',
+    id: '1166',
+    nome: 'Hayate No Gotoku! Cuties'
+  },
+  'heavy-object': {
+    slug: 'heavy-object',
+    id: '271',
+    nome: 'Heavy Object'
+  },
+  'hello-kiniro-mosaic': {
+    slug: 'hello-kiniro-mosaic',
+    id: '1167',
+    nome: 'Hello!! Kiniro Mosaic'
+  },
+  'hentai-ouji-to-warawanai-neko': {
+    slug: 'hentai-ouji-to-warawanai-neko',
+    id: '1168',
+    nome: 'Hentai Ouji To Warawanai Neko'
+  },
+  'hibike-euphonium': {
+    slug: 'hibike-euphonium',
+    id: '1172',
+    nome: 'Hibike! Euphonium'
+  },
+  'hibike-euphonium-2': {
+    slug: 'hibike-euphonium-2',
+    id: '1173',
+    nome: 'Hibike! Euphonium 2'
+  },
+  'hidamari-sketch-x-honeycomb': {
+    slug: 'hidamari-sketch-x-honeycomb',
+    id: '1633',
+    nome: 'Hidamari Sketch x Honeycomb'
+  },
+  'hidan-no-aria': {
+    slug: 'hidan-no-aria',
+    id: '1174',
+    nome: 'Hidan No Aria'
+  },
+  'hidan-no-aria-aa': {
+    slug: 'hidan-no-aria-aa',
+    id: '1175',
+    nome: 'Hidan No Aria AA'
+  },
+  'high-school-dx-d-4': {
+    slug: 'high-school-dx-d-4',
+    id: '597',
+    nome: 'High School DxD 4'
+  },
+  'high-school-dx-d-hero': {
+    slug: 'high-school-dx-d-hero',
+    id: '51320',
+    nome: 'High School DxD Hero'
+  },
+  'high-school-star-musical': {
+    slug: 'high-school-star-musical',
+    id: '1176',
+    nome: 'High School Star Musical'
+  },
+  'high-school-dx-d': {
+    slug: 'high-school-dx-d',
+    id: '5019',
+    nome: 'HighSchool DxD'
+  },
+  'high-school-dx-d-bor-n': {
+    slug: 'high-school-dx-d-bor-n',
+    id: '1178',
+    nome: 'HighSchool DxD BorN'
+  },
+  'highschool-dx-d-new': {
+    slug: 'highschool-dx-d-new',
+    id: '1179',
+    nome: 'Highschool DxD NEW'
+  },
+  'highschool-of-the-dead': {
+    slug: 'highschool-of-the-dead',
+    id: '1180',
+    nome: 'Highschool Of The Dead'
+  },
+  'higurashi-no-naku-koro-ni': {
+    slug: 'higurashi-no-naku-koro-ni',
+    id: '1182',
+    nome: 'Higurashi No Naku Koro Ni'
+  },
+  'higurashi-no-naku-koro-ni-kai': {
+    slug: 'higurashi-no-naku-koro-ni-kai',
+    id: '1183',
+    nome: 'Higurashi No Naku Koro Ni Kai'
+  },
+  'higurashi-no-naku-koro-ni-rei': {
+    slug: 'higurashi-no-naku-koro-ni-rei',
+    id: '1184',
+    nome: 'Higurashi No Naku Koro Ni Rei'
+  },
+  'hiiro-no-kakera': {
+    slug: 'hiiro-no-kakera',
+    id: '1185',
+    nome: 'Hiiro No Kakera'
+  },
+  'hiiro-no-kakera-dai-ni-shou': {
+    slug: 'hiiro-no-kakera-dai-ni-shou',
+    id: '1186',
+    nome: 'Hiiro No Kakera Dai Ni Shou'
+  },
+  'himouto-umaru-chan': {
+    slug: 'himouto-umaru-chan',
+    id: '1188',
+    nome: 'Himouto! Umaru-chan'
+  },
+  'himouto-umaru-chan-2': {
+    slug: 'himouto-umaru-chan-2',
+    id: '261',
+    nome: 'Himouto! Umaru-Chan 2'
+  },
+  'hina-logi-from-luck-e-logic': {
+    slug: 'hina-logi-from-luck-e-logic',
+    id: '814',
+    nome: 'Hina Logi: From Luck e Logic'
+  },
+  'hinako-note': {
+    slug: 'hinako-note',
+    id: '1545',
+    nome: 'Hinako Note'
+  },
+  hinamatsuri: {
+    slug: 'hinamatsuri',
+    id: '51346',
+    nome: 'Hinamatsuri'
+  },
+  'hisone-to-maso-tan': {
+    slug: 'hisone-to-maso-tan',
+    id: '51386',
+    nome: 'Hisone to Maso-tan'
+  },
+  'hitori-no-shita-the-outcast': {
+    slug: 'hitori-no-shita-the-outcast',
+    id: '1189',
+    nome: 'Hitori No Shita: The Outcast'
+  },
+  'hitori-no-shita-the-outcast-2': {
+    slug: 'hitori-no-shita-the-outcast-2',
+    id: '2363',
+    nome: 'Hitori no Shita: The Outcast 2'
+  },
+  'hitorijime-my-hero': {
+    slug: 'hitorijime-my-hero',
+    id: '1885',
+    nome: 'Hitorijime My Hero'
+  },
+  'hitsugi-no-chaika': {
+    slug: 'hitsugi-no-chaika',
+    id: '1190',
+    nome: 'Hitsugi No Chaika'
+  },
+  'hitsugi-no-chaika-avenging-battle': {
+    slug: 'hitsugi-no-chaika-avenging-battle',
+    id: '1191',
+    nome: 'Hitsugi No Chaika: Avenging Battle'
+  },
+  'hoozuki-no-reitetsu': {
+    slug: 'hoozuki-no-reitetsu',
+    id: '1192',
+    nome: 'Hoozuki No Reitetsu'
+  },
+  'hoozuki-no-reitetsu-2': {
+    slug: 'hoozuki-no-reitetsu-2',
+    id: '674',
+    nome: 'Hoozuki no Reitetsu 2'
+  },
+  'hoozuki-no-reitetsu-2nd-season-sono-ni': {
+    slug: 'hoozuki-no-reitetsu-2nd-season-sono-ni',
+    id: '51340',
+    nome: 'Hoozuki no Reitetsu 2nd Season: Sono Ni'
+  },
+  'hoshizora-e-kakaru-hashi': {
+    slug: 'hoshizora-e-kakaru-hashi',
+    id: '1193',
+    nome: 'Hoshizora E Kakaru Hashi'
+  },
+  'houkago-no-pleiades-tv': {
+    slug: 'houkago-no-pleiades-tv',
+    id: '1194',
+    nome: 'Houkago No Pleiades (TV)'
+  },
+  'houseki-no-kuni-tv': {
+    slug: 'houseki-no-kuni-tv',
+    id: '2281',
+    nome: 'Houseki no Kuni (TV)'
+  },
+  'hunter-x-hunter-2011': {
+    slug: 'hunter-x-hunter-2011',
+    id: '610',
+    nome: 'Hunter X Hunter 2011'
+  },
+  'hyakka-ryouran-samurai-bride': {
+    slug: 'hyakka-ryouran-samurai-bride',
+    id: '1196',
+    nome: 'Hyakka Ryouran Samurai Bride'
+  },
+  'hyakka-ryouran-samurai-girls': {
+    slug: 'hyakka-ryouran-samurai-girls',
+    id: '1197',
+    nome: 'Hyakka Ryouran Samurai Girls'
+  },
+  'ichiban-ushiro-no-daimaou': {
+    slug: 'ichiban-ushiro-no-daimaou',
+    id: '268',
+    nome: 'Ichiban Ushiro No Daimaou'
+  },
+  'ichigo-mashimaro': {
+    slug: 'ichigo-mashimaro',
+    id: '1199',
+    nome: 'Ichigo Mashimaro'
+  },
+  'idol-memories': {
+    slug: 'idol-memories',
+    id: '265',
+    nome: 'Idol Memories'
+  },
+  'idolish-seven': {
+    slug: 'idolish-seven',
+    id: '2303',
+    nome: 'Idolish Seven'
+  },
+  'email-protected-xenoglossia': {
+    slug: 'email-protected-xenoglossia',
+    id: '2025',
+    nome: '[email protected] Xenoglossia'
+  },
+  'ikemen-sengoku-toki-wo-kakeru-ga-koi-wa-hajimaranai': {
+    slug: 'ikemen-sengoku-toki-wo-kakeru-ga-koi-wa-hajimaranai',
+    id: '1899',
+    nome: 'Ikemen Sengoku: Toki Wo Kakeru Ga Koi Wa Hajimaranai'
+  },
+  'ikkitousen-anjos-guerreiros': {
+    slug: 'ikkitousen-anjos-guerreiros',
+    id: '1201',
+    nome: 'Ikkitousen Anjos Guerreiros'
+  },
+  'ikkitousen-dragon-destiny': {
+    slug: 'ikkitousen-dragon-destiny',
+    id: '1202',
+    nome: 'Ikkitousen Dragon Destiny'
+  },
+  'ikkitousen-great-guardians': {
+    slug: 'ikkitousen-great-guardians',
+    id: '1203',
+    nome: 'Ikkitousen Great Guardians'
+  },
+  'ikkitousen-xtreme-xecutor': {
+    slug: 'ikkitousen-xtreme-xecutor',
+    id: '1204',
+    nome: 'Ikkitousen Xtreme Xecutor'
+  },
+  'ikoku-meiro-no-croisee': {
+    slug: 'ikoku-meiro-no-croisee',
+    id: '1205',
+    nome: 'Ikoku Meiro No Croisee'
+  },
+  'imouto-sae-ireba-ii': {
+    slug: 'imouto-sae-ireba-ii',
+    id: '2278',
+    nome: 'Imouto sae Ireba Ii'
+  },
+  'inari-konkon-koi-iroha': {
+    slug: 'inari-konkon-koi-iroha',
+    id: '1206',
+    nome: 'Inari, Konkon, Koi Iroha'
+  },
+  'inazuma-eleven': {
+    slug: 'inazuma-eleven',
+    id: '2026',
+    nome: 'Inazuma Eleven'
+  },
+  'inazuma-eleven-go': {
+    slug: 'inazuma-eleven-go',
+    id: '2027',
+    nome: 'Inazuma Eleven Go'
+  },
+  'inazuma-eleven-go-chrono-stone': {
+    slug: 'inazuma-eleven-go-chrono-stone',
+    id: '2028',
+    nome: 'Inazuma Eleven Go: Chrono Stone'
+  },
+  'inazuma-eleven-go-galaxy': {
+    slug: 'inazuma-eleven-go-galaxy',
+    id: '264',
+    nome: 'Inazuma Eleven Go: Galaxy'
+  },
+  'inazuma-eleven-ares-no-tenbin': {
+    slug: 'inazuma-eleven-ares-no-tenbin',
+    id: '51317',
+    nome: 'Inazuma Eleven: Ares no Tenbin'
+  },
+  'initial-d-fifth-stage': {
+    slug: 'initial-d-fifth-stage',
+    id: '1207',
+    nome: 'Initial D Fifth Stage'
+  },
+  'initial-d-first-stage': {
+    slug: 'initial-d-first-stage',
+    id: '1208',
+    nome: 'Initial D First Stage'
+  },
+  'initial-d-fourth-stage': {
+    slug: 'initial-d-fourth-stage',
+    id: '1209',
+    nome: 'Initial D Fourth Stage'
+  },
+  'initial-d-second-stage': {
+    slug: 'initial-d-second-stage',
+    id: '1210',
+    nome: 'Initial D Second Stage'
+  },
+  'innocent-venus': {
+    slug: 'innocent-venus',
+    id: '1211',
+    nome: 'Innocent Venus'
+  },
+  'inou-battle-wa-nichijou-kei-no-naka-de': {
+    slug: 'inou-battle-wa-nichijou-kei-no-naka-de',
+    id: '1212',
+    nome: 'Inou Battle Wa Nichijou-kei No Naka De'
+  },
+  'interstella5555-the-5tory-of-the-5ecret-5tar-5ystem': {
+    slug: 'interstella5555-the-5tory-of-the-5ecret-5tar-5ystem',
+    id: '1634',
+    nome: 'Interstella5555: The 5tory of The 5ecret 5tar 5ystem'
+  },
+  'inu-to-hasami-wa-tsukaiyou': {
+    slug: 'inu-to-hasami-wa-tsukaiyou',
+    id: '1213',
+    nome: 'Inu To Hasami Wa Tsukaiyou'
+  },
+  'inu-x-boku-ss': {
+    slug: 'inu-x-boku-ss',
+    id: '1214',
+    nome: 'Inu X Boku SS'
+  },
+  'inugami-san-to-nekoyama-san': {
+    slug: 'inugami-san-to-nekoyama-san',
+    id: '1215',
+    nome: 'Inugami-san To Nekoyama-san'
+  },
+  'inuyasha-kanketsu-hen': {
+    slug: 'inuyasha-kanketsu-hen',
+    id: '259',
+    nome: 'Inuyasha Kanketsu-Hen'
+  },
+  'inuyasha-legendado': {
+    slug: 'inuyasha-legendado',
+    id: '258',
+    nome: 'Inuyasha Legendado'
+  },
+  'is-infinite-stratos': {
+    slug: 'is-infinite-stratos',
+    id: '1217',
+    nome: 'IS: Infinite Stratos'
+  },
+  'is-infinite-stratos-2': {
+    slug: 'is-infinite-stratos-2',
+    id: '1218',
+    nome: 'IS: Infinite Stratos 2'
+  },
+  'isekai-no-seikishi-monogatari': {
+    slug: 'isekai-no-seikishi-monogatari',
+    id: '1219',
+    nome: 'Isekai No Seikishi Monogatari'
+  },
+  'isekai-shokudou': {
+    slug: 'isekai-shokudou',
+    id: '1867',
+    nome: 'Isekai Shokudou'
+  },
+  'isekai-wa-smartphone-to-tomo-ni': {
+    slug: 'isekai-wa-smartphone-to-tomo-ni',
+    id: '1892',
+    nome: 'Isekai wa Smartphone to Tomo Ni'
+  },
+  'ishida-to-asakura': {
+    slug: 'ishida-to-asakura',
+    id: '1635',
+    nome: 'Ishida to Asakura'
+  },
+  'isshuukan-friends': {
+    slug: 'isshuukan-friends',
+    id: '1220',
+    nome: 'Isshuukan Friends'
+  },
+  'itazura-na-kiss': {
+    slug: 'itazura-na-kiss',
+    id: '255',
+    nome: 'Itazura Na Kiss'
+  },
+  'ito-junji-collection': {
+    slug: 'ito-junji-collection',
+    id: '2324',
+    nome: 'Ito Junji: Collection'
+  },
+  'itoshi-no-muco': {
+    slug: 'itoshi-no-muco',
+    id: '1221',
+    nome: 'Itoshi No Muco'
+  },
+  'itsudatte-bokura-no-koi-wa-10-cm-datta': {
+    slug: 'itsudatte-bokura-no-koi-wa-10-cm-datta',
+    id: '2309',
+    nome: 'Itsudatte Bokura no Koi wa 10 cm Datta.'
+  },
+  'ixion-saga-dimension-transfer': {
+    slug: 'ixion-saga-dimension-transfer',
+    id: '1223',
+    nome: 'Ixion Saga Dimension Transfer'
+  },
+  'izumo-takeki-tsurugi-no-senki': {
+    slug: 'izumo-takeki-tsurugi-no-senki',
+    id: '1224',
+    nome: 'Izumo Takeki Tsurugi No Senki'
+  },
+  'jigoku-shoujo': {
+    slug: 'jigoku-shoujo',
+    id: '1225',
+    nome: 'Jigoku Shoujo'
+  },
+  'jigoku-shoujo-futakomori': {
+    slug: 'jigoku-shoujo-futakomori',
+    id: '1226',
+    nome: 'Jigoku Shoujo Futakomori'
+  },
+  'jigoku-shoujo-mitsuganae': {
+    slug: 'jigoku-shoujo-mitsuganae',
+    id: '1227',
+    nome: 'Jigoku Shoujo Mitsuganae'
+  },
+  'jigoku-shoujo-yoi-no-togi': {
+    slug: 'jigoku-shoujo-yoi-no-togi',
+    id: '1902',
+    nome: 'Jigoku Shoujo: Yoi no Togi'
+  },
+  'jikan-no-shihaisha': {
+    slug: 'jikan-no-shihaisha',
+    id: '1889',
+    nome: 'Jikan no Shihaisha'
+  },
+  'jinki-extend': {
+    slug: 'jinki-extend',
+    id: '1228',
+    nome: 'Jinki Extend'
+  },
+  'jinrui-wa-suitai-shimashita': {
+    slug: 'jinrui-wa-suitai-shimashita',
+    id: '1229',
+    nome: 'Jinrui Wa Suitai Shimashita'
+  },
+  'jitsu-wa-watashi-wa': {
+    slug: 'jitsu-wa-watashi-wa',
+    id: '1231',
+    nome: 'Jitsu Wa Watashi Wa'
+  },
+  'jo-jo-no-kimyou-na-bouken-2000': {
+    slug: 'jo-jo-no-kimyou-na-bouken-2000',
+    id: '1637',
+    nome: 'JoJo no Kimyou na Bouken (2000)'
+  },
+  'jo-jo-no-kimyou-na-bouken-2012': {
+    slug: 'jo-jo-no-kimyou-na-bouken-2012',
+    id: '254',
+    nome: 'JoJo No Kimyou Na Bouken (2012)'
+  },
+  'jo-jo-no-kimyou-na-bouken-diamond-wa-kudakenai': {
+    slug: 'jo-jo-no-kimyou-na-bouken-diamond-wa-kudakenai',
+    id: '252',
+    nome: 'JoJo No Kimyou Na Bouken: Diamond Wa Kudakenai'
+  },
+  'jo-jo-no-kimyou-na-bouken-stardust-crusaders-2014': {
+    slug: 'jo-jo-no-kimyou-na-bouken-stardust-crusaders-2014',
+    id: '251',
+    nome: 'JoJo No Kimyou Na Bouken: Stardust Crusaders (2014)'
+  },
+  'jo-jo-no-kimyou-na-bouken-stardust-crusaders-egypt-hen': {
+    slug: 'jo-jo-no-kimyou-na-bouken-stardust-crusaders-egypt-hen',
+    id: '1636',
+    nome: 'JoJo no Kimyou na Bouken: Stardust Crusaders – Egypt Hen'
+  },
+  'jormungand-perfect-order': {
+    slug: 'jormungand-perfect-order',
+    id: '1233',
+    nome: 'Jormungand: Perfect Order'
+  },
+  'joukamachi-no-dandelion': {
+    slug: 'joukamachi-no-dandelion',
+    id: '1235',
+    nome: 'Joukamachi No Dandelion'
+  },
+  'juni-taisen-zodiac-war': {
+    slug: 'juni-taisen-zodiac-war',
+    id: '2220',
+    nome: 'Juni Taisen: Zodiac War'
+  },
+  'junjou-romantica': {
+    slug: 'junjou-romantica',
+    id: '249',
+    nome: 'Junjou Romantica'
+  },
+  'junjou-romantica-3': {
+    slug: 'junjou-romantica-3',
+    id: '247',
+    nome: 'Junjou Romantica 3'
+  },
+  'junjou-romantica-ii': {
+    slug: 'junjou-romantica-ii',
+    id: '246',
+    nome: 'Junjou Romantica II'
+  },
+  'junketsu-no-maria': {
+    slug: 'junketsu-no-maria',
+    id: '1236',
+    nome: 'Junketsu No Maria'
+  },
+  'just-because': {
+    slug: 'just-because',
+    id: '2227',
+    nome: 'Just Because!'
+  },
+  'juubee-chan-2-siberia-yagyuu-no-gyakushuu': {
+    slug: 'juubee-chan-2-siberia-yagyuu-no-gyakushuu',
+    id: '1638',
+    nome: 'Juubee-chan 2: Siberia Yagyuu no Gyakushuu'
+  },
+  'juubee-chan-lovely-gantai-no-himitsu': {
+    slug: 'juubee-chan-lovely-gantai-no-himitsu',
+    id: '1639',
+    nome: 'Juubee-chan: Lovely Gantai no Himitsu'
+  },
+  'juuni-kokuki': {
+    slug: 'juuni-kokuki',
+    id: '1640',
+    nome: 'Juuni Kokuki'
+  },
+  'juuni-taisen': {
+    slug: 'juuni-taisen',
+    id: '2282',
+    nome: 'Juuni Taisen'
+  },
+  'juuou-mujin-no-fafnir': {
+    slug: 'juuou-mujin-no-fafnir',
+    id: '1237',
+    nome: 'Juuou Mujin No Fafnir'
+  },
+  'juushin-enbu-hero-tales': {
+    slug: 'juushin-enbu-hero-tales',
+    id: '1641',
+    nome: 'Juushin Enbu: Hero Tales'
+  },
+  'juushinki-pandora': {
+    slug: 'juushinki-pandora',
+    id: '51347',
+    nome: 'Juushinki Pandora'
+  },
+  'k-return-of-kings': {
+    slug: 'k-return-of-kings',
+    id: '1239',
+    nome: 'K: Return Of Kings'
+  },
+  'kage-kara-mamoru': {
+    slug: 'kage-kara-mamoru',
+    id: '1241',
+    nome: 'Kage Kara Mamoru'
+  },
+  'kagewani-shou': {
+    slug: 'kagewani-shou',
+    id: '241',
+    nome: 'Kagewani: Shou'
+  },
+  'kagihime-monogatari-eikyuu-alice-rondo': {
+    slug: 'kagihime-monogatari-eikyuu-alice-rondo',
+    id: '1643',
+    nome: 'Kagihime Monogatari Eikyuu Alice Rondo'
+  },
+  'kaibutsu-oujo': {
+    slug: 'kaibutsu-oujo',
+    id: '239',
+    nome: 'Kaibutsu Oujo'
+  },
+  'kaichou-wa-maid-sama': {
+    slug: 'kaichou-wa-maid-sama',
+    id: '238',
+    nome: 'Kaichou Wa Maid-sama'
+  },
+  'kaidan-restaurant': {
+    slug: 'kaidan-restaurant',
+    id: '1242',
+    nome: 'Kaidan Restaurant'
+  },
+  'kaijuu-girls-ultra-kaijuu-gijinka-keikaku-2': {
+    slug: 'kaijuu-girls-ultra-kaijuu-gijinka-keikaku-2',
+    id: '2355',
+    nome: 'Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2'
+  },
+  'kaitou-joker': {
+    slug: 'kaitou-joker',
+    id: '1243',
+    nome: 'Kaitou Joker'
+  },
+  'kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise': {
+    slug: 'kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise',
+    id: '1646',
+    nome: 'Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!'
+  },
+  'kakumeiki-valvrave': {
+    slug: 'kakumeiki-valvrave',
+    id: '1647',
+    nome: 'Kakumeiki Valvrave'
+  },
+  'kakumeiki-valvrave-2nd-season': {
+    slug: 'kakumeiki-valvrave-2nd-season',
+    id: '1648',
+    nome: 'Kakumeiki Valvrave 2nd Season'
+  },
+  'kakuriyo-no-yadomeshi': {
+    slug: 'kakuriyo-no-yadomeshi',
+    id: '51352',
+    nome: 'Kakuriyo no Yadomeshi '
+  },
+  'kamen-no-maid-guy': {
+    slug: 'kamen-no-maid-guy',
+    id: '1244',
+    nome: 'Kamen No Maid Guy'
+  },
+  'kami-nomi-zo-shiru-sekai': {
+    slug: 'kami-nomi-zo-shiru-sekai',
+    id: '1245',
+    nome: 'Kami Nomi Zo Shiru Sekai'
+  },
+  'kami-nomi-zo-shiru-sekai-2': {
+    slug: 'kami-nomi-zo-shiru-sekai-2',
+    id: '1246',
+    nome: 'Kami Nomi Zo Shiru Sekai 2'
+  },
+  'kami-nomi-zo-shiru-sekai-megami-hen': {
+    slug: 'kami-nomi-zo-shiru-sekai-megami-hen',
+    id: '1247',
+    nome: 'Kami Nomi Zo Shiru Sekai Megami-hen'
+  },
+  'kami-sama-hajimemashita-2': {
+    slug: 'kami-sama-hajimemashita-2',
+    id: '1248',
+    nome: 'Kami-sama Hajimemashita 2'
+  },
+  'kamichama-karin': {
+    slug: 'kamichama-karin',
+    id: '1249',
+    nome: 'Kamichama Karin'
+  },
+  'kamigami-no-asobi': {
+    slug: 'kamigami-no-asobi',
+    id: '1251',
+    nome: 'Kamigami No Asobi'
+  },
+  'kamikaze-kaitou-jeanne': {
+    slug: 'kamikaze-kaitou-jeanne',
+    id: '1252',
+    nome: 'Kamikaze Kaitou Jeanne'
+  },
+  'kamisama-dolls': {
+    slug: 'kamisama-dolls',
+    id: '1253',
+    nome: 'Kamisama Dolls'
+  },
+  'kamisama-hajimemashita': {
+    slug: 'kamisama-hajimemashita',
+    id: '1254',
+    nome: 'Kamisama Hajimemashita'
+  },
+  'kamisama-hajimemashita-2': {
+    slug: 'kamisama-hajimemashita-2',
+    id: '2031',
+    nome: 'Kamisama Hajimemashita 2'
+  },
+  'kamisama-kazoku': {
+    slug: 'kamisama-kazoku',
+    id: '1255',
+    nome: 'Kamisama Kazoku'
+  },
+  'kamisama-minarai-himitsu-no-cocotama': {
+    slug: 'kamisama-minarai-himitsu-no-cocotama',
+    id: '1256',
+    nome: 'Kamisama Minarai: Himitsu No Cocotama'
+  },
+  'kamisama-no-inai-nichiyoubi': {
+    slug: 'kamisama-no-inai-nichiyoubi',
+    id: '1257',
+    nome: 'Kamisama No Inai Nichiyoubi'
+  },
+  'kamisama-no-memochou': {
+    slug: 'kamisama-no-memochou',
+    id: '1258',
+    nome: 'Kamisama No Memochou'
+  },
+  'kannazuki-no-miko': {
+    slug: 'kannazuki-no-miko',
+    id: '1260',
+    nome: 'Kannazuki No Miko'
+  },
+  'kanojo-ga-flag-o-oraretara': {
+    slug: 'kanojo-ga-flag-o-oraretara',
+    id: '1261',
+    nome: 'Kanojo Ga Flag O Oraretara'
+  },
+  'kantai-collection-kan-colle': {
+    slug: 'kantai-collection-kan-colle',
+    id: '1264',
+    nome: 'Kantai Collection: KanColle'
+  },
+  'karakai-jouzu-no-takagi-san': {
+    slug: 'karakai-jouzu-no-takagi-san',
+    id: '2334',
+    nome: 'Karakai Jouzu no Takagi-san'
+  },
+  'karen-senki': {
+    slug: 'karen-senki',
+    id: '1649',
+    nome: 'Karen Senki'
+  },
+  'karin-chibi-vampire': {
+    slug: 'karin-chibi-vampire',
+    id: '1650',
+    nome: 'Karin Chibi Vampire'
+  },
+  'kashimashi-girl-meets-girl': {
+    slug: 'kashimashi-girl-meets-girl',
+    id: '1268',
+    nome: 'Kashimashi: Girl Meets Girl'
+  },
+  'katekyo-hitman-reborn': {
+    slug: 'katekyo-hitman-reborn',
+    id: '23300',
+    nome: 'Katekyo Hitman Reborn'
+  },
+  'katsugeki-touken-ranbu': {
+    slug: 'katsugeki-touken-ranbu',
+    id: '1859',
+    nome: 'Katsugeki: Touken Ranbu'
+  },
+  'kaze-no-stigma': {
+    slug: 'kaze-no-stigma',
+    id: '236',
+    nome: 'Kaze No Stigma'
+  },
+  'keitai-shoujo': {
+    slug: 'keitai-shoujo',
+    id: '1651',
+    nome: 'Keitai Shoujo'
+  },
+  'kekkai-sensen': {
+    slug: 'kekkai-sensen',
+    id: '1269',
+    nome: 'Kekkai Sensen'
+  },
+  'kekkai-sensen-and-beyond': {
+    slug: 'kekkai-sensen-and-beyond',
+    id: '811',
+    nome: 'Kekkai sensen and Beyond'
+  },
+  'kemeko-deluxe': {
+    slug: 'kemeko-deluxe',
+    id: '1271',
+    nome: 'Kemeko Deluxe'
+  },
+  'kemono-friends': {
+    slug: 'kemono-friends',
+    id: '773',
+    nome: 'Kemono Friends'
+  },
+  'kenka-banchou-otome-girl-beats-boys': {
+    slug: 'kenka-banchou-otome-girl-beats-boys',
+    id: '1626',
+    nome: 'Kenka Banchou Otome: Girl Beats Boys'
+  },
+  'kenran-butoh-sai-the-mars-daybreak': {
+    slug: 'kenran-butoh-sai-the-mars-daybreak',
+    id: '1652',
+    nome: 'Kenran Butoh Sai: The Mars Daybreak'
+  },
+  'kenzen-robo-daimidaler': {
+    slug: 'kenzen-robo-daimidaler',
+    id: '1272',
+    nome: 'Kenzen Robo Daimidaler'
+  },
+  'keppeki-danshi-aoyama-kun': {
+    slug: 'keppeki-danshi-aoyama-kun',
+    id: '1863',
+    nome: 'Keppeki Danshi! Aoyama-kun'
+  },
+  'kiddy-girl-and': {
+    slug: 'kiddy-girl-and',
+    id: '1274',
+    nome: 'Kiddy Girl And'
+  },
+  'kiddy-grade': {
+    slug: 'kiddy-grade',
+    id: '1653',
+    nome: 'Kiddy Grade'
+  },
+  'kidou-keisatsu-patlabor': {
+    slug: 'kidou-keisatsu-patlabor',
+    id: '1654',
+    nome: 'Kidou Keisatsu Patlabor'
+  },
+  'kidou-senshi-gundam-age': {
+    slug: 'kidou-senshi-gundam-age',
+    id: '1655',
+    nome: 'Kidou Senshi Gundam AGE'
+  },
+  'kidou-senshi-gundam-thunderbolt': {
+    slug: 'kidou-senshi-gundam-thunderbolt',
+    id: '2030',
+    nome: 'Kidou Senshi Gundam: Thunderbolt'
+  },
+  'kidou-shinsengumi-moeyo-ken': {
+    slug: 'kidou-shinsengumi-moeyo-ken',
+    id: '1656',
+    nome: 'Kidou Shinsengumi Moeyo Ken'
+  },
+  'kiitarou-shounen-no-youkai-enikki': {
+    slug: 'kiitarou-shounen-no-youkai-enikki',
+    id: '1275',
+    nome: 'Kiitarou Shounen No Youkai Enikki'
+  },
+  'kill-la-kill': {
+    slug: 'kill-la-kill',
+    id: '231',
+    nome: 'Kill La Kill'
+  },
+  'kill-me-baby': {
+    slug: 'kill-me-baby',
+    id: '1276',
+    nome: 'Kill Me Baby'
+  },
+  'kimagure-orange-road': {
+    slug: 'kimagure-orange-road',
+    id: '1657',
+    nome: 'Kimagure Orange Road'
+  },
+  'kimi-ga-aruji-de-shitsuji-ga-ore-de': {
+    slug: 'kimi-ga-aruji-de-shitsuji-ga-ore-de',
+    id: '1277',
+    nome: 'Kimi Ga Aruji De Shitsuji Ga Ore De'
+  },
+  'kimi-ga-nozomu-eien': {
+    slug: 'kimi-ga-nozomu-eien',
+    id: '1278',
+    nome: 'Kimi Ga Nozomu Eien'
+  },
+  'kimi-ni-todoke': {
+    slug: 'kimi-ni-todoke',
+    id: '230',
+    nome: 'Kimi Ni Todoke'
+  },
+  'kimi-ni-todoke-2': {
+    slug: 'kimi-ni-todoke-2',
+    id: '229',
+    nome: 'Kimi Ni Todoke 2'
+  },
+  'kimi-no-iru-machi': {
+    slug: 'kimi-no-iru-machi',
+    id: '1279',
+    nome: 'Kimi No Iru Machi'
+  },
+  'kimi-to-boku': {
+    slug: 'kimi-to-boku',
+    id: '1280',
+    nome: 'Kimi To Boku'
+  },
+  'kimi-kiss-pure-rouge': {
+    slug: 'kimi-kiss-pure-rouge',
+    id: '1281',
+    nome: 'KimiKiss Pure Rouge'
+  },
+  'kindaichi-shounen-no-jikenbo-returns': {
+    slug: 'kindaichi-shounen-no-jikenbo-returns',
+    id: '1282',
+    nome: 'Kindaichi Shounen No Jikenbo Returns'
+  },
+  'kindaichi-shounen-no-jikenbo-returns-2': {
+    slug: 'kindaichi-shounen-no-jikenbo-returns-2',
+    id: '1283',
+    nome: 'Kindaichi Shounen No Jikenbo Returns 2'
+  },
+  'king-of-bandit-jing': {
+    slug: 'king-of-bandit-jing',
+    id: '1658',
+    nome: 'King of Bandit Jing'
+  },
+  'kiniro-mosaic': {
+    slug: 'kiniro-mosaic',
+    id: '1286',
+    nome: 'Kiniro Mosaic'
+  },
+  'kino-no-tabi-the-beautiful-world': {
+    slug: 'kino-no-tabi-the-beautiful-world',
+    id: '1659',
+    nome: 'Kino no Tabi: The Beautiful World'
+  },
+  'kino-no-tabi-the-beautiful-world-the-animated-series': {
+    slug: 'kino-no-tabi-the-beautiful-world-the-animated-series',
+    id: '2268',
+    nome: 'Kino no Tabi: The Beautiful World – The Animated Series'
+  },
+  'kirakira-precure-a-la-mode': {
+    slug: 'kirakira-precure-a-la-mode',
+    id: '804',
+    nome: 'Kirakira?Precure A La Mode'
+  },
+  'kiseijuu-sei-no-kakuritsu': {
+    slug: 'kiseijuu-sei-no-kakuritsu',
+    id: '1287',
+    nome: 'Kiseijuu: Sei No Kakuritsu'
+  },
+  'kishin-douji-zenki': {
+    slug: 'kishin-douji-zenki',
+    id: '1660',
+    nome: 'Kishin Douji Zenki'
+  },
+  'kishin-houkou-demonbane': {
+    slug: 'kishin-houkou-demonbane',
+    id: '1661',
+    nome: 'Kishin Houkou Demonbane'
+  },
+  'kishin-taisen-gigantic-formula': {
+    slug: 'kishin-taisen-gigantic-formula',
+    id: '1662',
+    nome: 'Kishin Taisen Gigantic Formula'
+  },
+  'kiss-dum-engage-planet': {
+    slug: 'kiss-dum-engage-planet',
+    id: '1288',
+    nome: 'Kiss Dum: Engage Planet'
+  },
+  'kitakubu-katsudou-kiroku': {
+    slug: 'kitakubu-katsudou-kiroku',
+    id: '1290',
+    nome: 'Kitakubu Katsudou Kiroku'
+  },
+  'knight-s-and-magic': {
+    slug: 'knight-s-and-magic',
+    id: '1861',
+    nome: "Knight 's & Magic"
+  },
+  'kobayashi-san-chi-no-maid-dragon': {
+    slug: 'kobayashi-san-chi-no-maid-dragon',
+    id: '770',
+    nome: 'Kobayashi-san Chi No Maid Dragon'
+  },
+  'kodomo-no-jikan': {
+    slug: 'kodomo-no-jikan',
+    id: '1293',
+    nome: 'Kodomo No Jikan'
+  },
+  'koi-koi-seven': {
+    slug: 'koi-koi-seven',
+    id: '1295',
+    nome: 'Koi Koi Seven'
+  },
+  'koi-to-senkyo-to-chocolate': {
+    slug: 'koi-to-senkyo-to-chocolate',
+    id: '1296',
+    nome: 'Koi To Senkyo To Chocolate'
+  },
+  'koi-wa-ameagari-no-you-ni': {
+    slug: 'koi-wa-ameagari-no-you-ni',
+    id: '2336',
+    nome: 'Koi wa Ameagari no You ni'
+  },
+  'koihime-musou': {
+    slug: 'koihime-musou',
+    id: '1297',
+    nome: 'Koihime Musou'
+  },
+  'kokoro-connect': {
+    slug: 'kokoro-connect',
+    id: '1298',
+    nome: 'Kokoro Connect'
+  },
+  'kokoro-toshokan': {
+    slug: 'kokoro-toshokan',
+    id: '1663',
+    nome: 'Kokoro Toshokan'
+  },
+  'komori-san-wa-kotowarenai': {
+    slug: 'komori-san-wa-kotowarenai',
+    id: '1299',
+    nome: 'Komori-san Wa Kotowarenai!'
+  },
+  'konbini-kareshi': {
+    slug: 'konbini-kareshi',
+    id: '1877',
+    nome: 'Konbini Kareshi'
+  },
+  'koneko-no-chi-ponponra-daibouken': {
+    slug: 'koneko-no-chi-ponponra-daibouken',
+    id: '815',
+    nome: 'Koneko No Chi: Ponponra Daibouken'
+  },
+  'kono-aozora-ni-yakusoku-wo': {
+    slug: 'kono-aozora-ni-yakusoku-wo',
+    id: '1664',
+    nome: 'Kono Aozora Ni Yakusoku Wo'
+  },
+  'kono-bijutsubu-ni-wa-mondai-ga-aru': {
+    slug: 'kono-bijutsubu-ni-wa-mondai-ga-aru',
+    id: '1300',
+    nome: 'Kono Bijutsubu Ni Wa Mondai Ga Aru!'
+  },
+  'kono-minikuku-mo-utsukushii-sekai': {
+    slug: 'kono-minikuku-mo-utsukushii-sekai',
+    id: '1301',
+    nome: 'Kono Minikuku Mo Utsukushii Sekai'
+  },
+  'kono-naka-ni-hitori-imouto-ga-iru': {
+    slug: 'kono-naka-ni-hitori-imouto-ga-iru',
+    id: '1302',
+    nome: 'Kono Naka Ni Hitori, Imouto Ga Iru!'
+  },
+  'kono-subarashii-sekai-ni-shukufuku-wo': {
+    slug: 'kono-subarashii-sekai-ni-shukufuku-wo',
+    id: '816',
+    nome: 'Kono Subarashii Sekai Ni Shukufuku Wo!'
+  },
+  'kono-subarashii-sekai-ni-shukufuku-wo-2': {
+    slug: 'kono-subarashii-sekai-ni-shukufuku-wo-2',
+    id: '769',
+    nome: 'Kono Subarashii Sekai Ni Shukufuku Wo! 2'
+  },
+  'konohana-kitan': {
+    slug: 'konohana-kitan',
+    id: '2222',
+    nome: 'Konohana Kitan'
+  },
+  'kore-wa-zombie-desu-ka': {
+    slug: 'kore-wa-zombie-desu-ka',
+    id: '1303',
+    nome: 'Kore Wa Zombie Desu Ka?'
+  },
+  'kore-wa-zombie-desuka-of-the-dead': {
+    slug: 'kore-wa-zombie-desuka-of-the-dead',
+    id: '1304',
+    nome: 'Kore Wa Zombie Desuka? Of The Dead'
+  },
+  'koro-sensei-quest': {
+    slug: 'koro-sensei-quest',
+    id: '1503',
+    nome: 'Koro-sensei Quest!'
+  },
+  'kotoura-san': {
+    slug: 'kotoura-san',
+    id: '1305',
+    nome: 'Kotoura-san'
+  },
+  'koufuku-graffiti': {
+    slug: 'koufuku-graffiti',
+    id: '1306',
+    nome: 'Koufuku Graffiti'
+  },
+  'koukaku-no-regios': {
+    slug: 'koukaku-no-regios',
+    id: '1307',
+    nome: 'Koukaku No Regios'
+  },
+  'kousetsu-hyaku-monogatari': {
+    slug: 'kousetsu-hyaku-monogatari',
+    id: '1665',
+    nome: 'Kousetsu Hyaku Monogatari'
+  },
+  'koutetsu-sangokushi': {
+    slug: 'koutetsu-sangokushi',
+    id: '1666',
+    nome: 'Koutetsu Sangokushi'
+  },
+  'koutetsujou-no-kabaneri': {
+    slug: 'koutetsujou-no-kabaneri',
+    id: '1308',
+    nome: 'Koutetsujou No Kabaneri'
+  },
+  'koutetsushin-jeeg': {
+    slug: 'koutetsushin-jeeg',
+    id: '1667',
+    nome: 'Koutetsushin Jeeg'
+  },
+  koyomimonogatari: {
+    slug: 'koyomimonogatari',
+    id: '1668',
+    nome: 'Koyomimonogatari'
+  },
+  'kubikiri-cycle-aoiro-savant-to-zaregototsukai': {
+    slug: 'kubikiri-cycle-aoiro-savant-to-zaregototsukai',
+    id: '1504',
+    nome: 'Kubikiri Cycle: Aoiro Savant To Zaregototsukai'
+  },
+  'kuchu-buranko': {
+    slug: 'kuchu-buranko',
+    id: '1669',
+    nome: 'Kuchu Buranko'
+  },
+  'kujira-no-kora-wa-sajou-ni-utau': {
+    slug: 'kujira-no-kora-wa-sajou-ni-utau',
+    id: '1793',
+    nome: 'Kujira no Kora wa Sajou ni Utau'
+  },
+  'kurau-phantom-memory': {
+    slug: 'kurau-phantom-memory',
+    id: '1670',
+    nome: 'Kurau Phantom Memory'
+  },
+  'kurayami-santa': {
+    slug: 'kurayami-santa',
+    id: '1312',
+    nome: 'Kurayami Santa'
+  },
+  'kurogane-no-linebarrels': {
+    slug: 'kurogane-no-linebarrels',
+    id: '1672',
+    nome: 'Kurogane no Linebarrels'
+  },
+  'kurokami-the-animation': {
+    slug: 'kurokami-the-animation',
+    id: '1313',
+    nome: 'Kurokami The Animation'
+  },
+  'kuroko-no-basket': {
+    slug: 'kuroko-no-basket',
+    id: '228',
+    nome: 'Kuroko No Basket'
+  },
+  'kuroko-no-basket-2': {
+    slug: 'kuroko-no-basket-2',
+    id: '227',
+    nome: 'Kuroko No Basket 2'
+  },
+  'kuroko-no-basket-3': {
+    slug: 'kuroko-no-basket-3',
+    id: '226',
+    nome: 'Kuroko No Basket 3'
+  },
+  kuroshitsuji: {
+    slug: 'kuroshitsuji',
+    id: '225',
+    nome: 'Kuroshitsuji'
+  },
+  'kuroshitsuji-ii': {
+    slug: 'kuroshitsuji-ii',
+    id: '224',
+    nome: 'Kuroshitsuji II'
+  },
+  'kuroshitsuji-book-of-circus': {
+    slug: 'kuroshitsuji-book-of-circus',
+    id: '222',
+    nome: 'Kuroshitsuji: Book Of Circus'
+  },
+  'kuusen-madoushi-kouhosei-no-kyoukan': {
+    slug: 'kuusen-madoushi-kouhosei-no-kyoukan',
+    id: '1315',
+    nome: 'Kuusen Madoushi Kouhosei No Kyoukan'
+  },
+  'kuzu-no-honkai': {
+    slug: 'kuzu-no-honkai',
+    id: '766',
+    nome: 'Kuzu No Honkai'
+  },
+  'kyoshiro-to-towa-no-sora': {
+    slug: 'kyoshiro-to-towa-no-sora',
+    id: '1316',
+    nome: 'Kyoshiro To Towa No Sora'
+  },
+  'kyou-kara-maou': {
+    slug: 'kyou-kara-maou',
+    id: '1317',
+    nome: 'Kyou Kara Maou'
+  },
+  'kyou-no-go-no-ni': {
+    slug: 'kyou-no-go-no-ni',
+    id: '1318',
+    nome: 'Kyou No Go No Ni'
+  },
+  'kyoukai-no-kanata': {
+    slug: 'kyoukai-no-kanata',
+    id: '1319',
+    nome: 'Kyoukai No Kanata'
+  },
+  'kyoukai-no-rinne': {
+    slug: 'kyoukai-no-rinne',
+    id: '1320',
+    nome: 'Kyoukai No Rinne'
+  },
+  'kyoukai-no-rinne-2': {
+    slug: 'kyoukai-no-rinne-2',
+    id: '1576',
+    nome: 'Kyoukai No Rinne 2'
+  },
+  'kyoukai-no-rinne-3': {
+    slug: 'kyoukai-no-rinne-3',
+    id: '1588',
+    nome: 'Kyoukai no Rinne 3'
+  },
+  'kyoukai-senjou-no-horizon': {
+    slug: 'kyoukai-senjou-no-horizon',
+    id: '1321',
+    nome: 'Kyoukai Senjou No Horizon'
+  },
+  'kyoukai-senjou-no-horizon-ii': {
+    slug: 'kyoukai-senjou-no-horizon-ii',
+    id: '1322',
+    nome: 'Kyoukai Senjou No Horizon II'
+  },
+  'kyousou-giga': {
+    slug: 'kyousou-giga',
+    id: '1323',
+    nome: 'Kyousou Giga'
+  },
+  'la-corda-d-oro-blue-sky': {
+    slug: 'la-corda-d-oro-blue-sky',
+    id: '1324',
+    nome: 'La Corda D’ Oro Blue?Sky'
+  },
+  'la-corda-d-oro-primo-passo': {
+    slug: 'la-corda-d-oro-primo-passo',
+    id: '1325',
+    nome: 'La Corda D’Oro: Primo Passo'
+  },
+  'la-corda-d-oro-secondo-passo': {
+    slug: 'la-corda-d-oro-secondo-passo',
+    id: '1326',
+    nome: 'La Corda D’Oro: Secondo Passo'
+  },
+  'ladies-vs-butlers': {
+    slug: 'ladies-vs-butlers',
+    id: '1327',
+    nome: 'Ladies Vs Butlers'
+  },
+  'lance-n-masques': {
+    slug: 'lance-n-masques',
+    id: '1329',
+    nome: 'Lance N’ Masques'
+  },
+  'last-exile-ginyoku-no-fam': {
+    slug: 'last-exile-ginyoku-no-fam',
+    id: '1331',
+    nome: 'Last Exile Ginyoku No Fam'
+  },
+  'last-period-owarinaki-rasen-no-monogatari': {
+    slug: 'last-period-owarinaki-rasen-no-monogatari',
+    id: '51378',
+    nome: 'Last Period: Owarinaki Rasen no Monogatari'
+  },
+  'le-chevalier-d-eon': {
+    slug: 'le-chevalier-d-eon',
+    id: '221',
+    nome: 'Le Chevalier D’Eon'
+  },
+  'league-of-legends': {
+    slug: 'league-of-legends',
+    id: '1631',
+    nome: 'League of Legends'
+  },
+  'legend-of-black-heaven': {
+    slug: 'legend-of-black-heaven',
+    id: '1674',
+    nome: 'Legend of Black Heaven'
+  },
+  'legend-of-duo': {
+    slug: 'legend-of-duo',
+    id: '1332',
+    nome: 'Legend Of DUO'
+  },
+  'lemon-angel-project': {
+    slug: 'lemon-angel-project',
+    id: '1333',
+    nome: 'Lemon Angel Project'
+  },
+  'little-busters': {
+    slug: 'little-busters',
+    id: '1335',
+    nome: 'Little Busters!'
+  },
+  'little-busters-refrain': {
+    slug: 'little-busters-refrain',
+    id: '1336',
+    nome: 'Little Busters! Refrain'
+  },
+  'little-witch-academia': {
+    slug: 'little-witch-academia',
+    id: '778',
+    nome: 'Little Witch Academia'
+  },
+  'log-horizon-2nd-season': {
+    slug: 'log-horizon-2nd-season',
+    id: '187',
+    nome: 'Log Horizon 2nd Season'
+  },
+  'long-riders': {
+    slug: 'long-riders',
+    id: '219',
+    nome: 'Long Riders!'
+  },
+  'lost-universe': {
+    slug: 'lost-universe',
+    id: '1337',
+    nome: 'Lost Universe'
+  },
+  'lostorage-conflated-wixoss': {
+    slug: 'lostorage-conflated-wixoss',
+    id: '51351',
+    nome: 'Lostorage Conflated WIXOSS'
+  },
+  'lostorage-incited-wixoss': {
+    slug: 'lostorage-incited-wixoss',
+    id: '218',
+    nome: 'Lostorage Incited WIXOSS'
+  },
+  'love-hina-dublado': {
+    slug: 'love-hina-dublado',
+    id: '1339',
+    nome: 'Love Hina Dublado'
+  },
+  'love-kome-we-love-rice': {
+    slug: 'love-kome-we-love-rice',
+    id: '1549',
+    nome: 'Love Kome: We Love Rice'
+  },
+  'love-live-school-idol-project-2': {
+    slug: 'love-live-school-idol-project-2',
+    id: '216',
+    nome: 'Love Live School Idol Project 2'
+  },
+  'love-live-school-idol-project': {
+    slug: 'love-live-school-idol-project',
+    id: '215',
+    nome: 'Love Live! School Idol Project'
+  },
+  'love-live-sunshine': {
+    slug: 'love-live-sunshine',
+    id: '214',
+    nome: 'Love Live! Sunshine!!'
+  },
+  'love-live-sunshine-2': {
+    slug: 'love-live-sunshine-2',
+    id: '2273',
+    nome: 'Love Live! Sunshine!! 2'
+  },
+  'lovely-complex': {
+    slug: 'lovely-complex',
+    id: '1487',
+    nome: 'Lovely Complex'
+  },
+  'luck-and-logic': {
+    slug: 'luck-and-logic',
+    id: '1675',
+    nome: 'Luck and Logic'
+  },
+  'luger-code-1951': {
+    slug: 'luger-code-1951',
+    id: '1507',
+    nome: 'Luger Code 1951'
+  },
+  'lupin-iii-2015': {
+    slug: 'lupin-iii-2015',
+    id: '1677',
+    nome: 'Lupin III (2015)'
+  },
+  'lupin-iii-part-v': {
+    slug: 'lupin-iii-part-v',
+    id: '51328',
+    nome: 'Lupin III: Part V'
+  },
+  'lupin-the-third-mine-fujiko-to-iu-onna': {
+    slug: 'lupin-the-third-mine-fujiko-to-iu-onna',
+    id: '1678',
+    nome: 'Lupin the Third: Mine Fujiko to Iu Onna'
+  },
+  'm3-sono-kuroki-hagane': {
+    slug: 'm3-sono-kuroki-hagane',
+    id: '1341',
+    nome: 'M3 Sono Kuroki Hagane'
+  },
+  'macademi-wasshoi': {
+    slug: 'macademi-wasshoi',
+    id: '1679',
+    nome: 'Macademi Wasshoi!'
+  },
+  'machine-doll-wa-kizutsukanai': {
+    slug: 'machine-doll-wa-kizutsukanai',
+    id: '1344',
+    nome: 'Machine-Doll Wa Kizutsukanai'
+  },
+  'macross-delta': {
+    slug: 'macross-delta',
+    id: '1346',
+    nome: 'Macross Delta'
+  },
+  'macross-frontier': {
+    slug: 'macross-frontier',
+    id: '1347',
+    nome: 'Macross Frontier'
+  },
+  'madan-no-ou-to-vanadis': {
+    slug: 'madan-no-ou-to-vanadis',
+    id: '1348',
+    nome: 'Madan No Ou To Vanadis'
+  },
+  'made-in-abyss': {
+    slug: 'made-in-abyss',
+    id: '1880',
+    nome: 'Made In Abyss'
+  },
+  'magi-sinbad-no-bouken-tv': {
+    slug: 'magi-sinbad-no-bouken-tv',
+    id: '1350',
+    nome: 'Magi: Sinbad No Bouken (TV)'
+  },
+  'magi-the-kingdom-of-magic': {
+    slug: 'magi-the-kingdom-of-magic',
+    id: '1351',
+    nome: 'Magi: The Kingdom Of Magic'
+  },
+  'magi-the-labyrinth-of-magic': {
+    slug: 'magi-the-labyrinth-of-magic',
+    id: '1352',
+    nome: 'Magi: The Labyrinth Of Magic'
+  },
+  'magic-kaito': {
+    slug: 'magic-kaito',
+    id: '2033',
+    nome: 'Magic Kaito'
+  },
+  'magic-kaito-1412': {
+    slug: 'magic-kaito-1412',
+    id: '1353',
+    nome: 'Magic Kaito 1412'
+  },
+  'magic-knight-rayearth': {
+    slug: 'magic-knight-rayearth',
+    id: '1354',
+    nome: 'Magic Knight Rayearth'
+  },
+  'magic-kyun-renaissance': {
+    slug: 'magic-kyun-renaissance',
+    id: '1355',
+    nome: 'Magic-Kyun! Renaissance'
+  },
+  'mahoraba-heartful-days': {
+    slug: 'mahoraba-heartful-days',
+    id: '1357',
+    nome: 'Mahoraba: Heartful Days'
+  },
+  mahoromatic: {
+    slug: 'mahoromatic',
+    id: '1358',
+    nome: 'Mahoromatic'
+  },
+  'mahoromatic-2': {
+    slug: 'mahoromatic-2',
+    id: '1359',
+    nome: 'Mahoromatic 2'
+  },
+  'mahou-sensei-negima': {
+    slug: 'mahou-sensei-negima',
+    id: '1360',
+    nome: 'Mahou Sensei Negima'
+  },
+  'mahou-senshi-louie': {
+    slug: 'mahou-senshi-louie',
+    id: '1361',
+    nome: 'Mahou Senshi Louie'
+  },
+  'mahou-sensou': {
+    slug: 'mahou-sensou',
+    id: '1362',
+    nome: 'Mahou Sensou'
+  },
+  'mahou-shoujo-ikusei-keikaku': {
+    slug: 'mahou-shoujo-ikusei-keikaku',
+    id: '209',
+    nome: 'Mahou Shoujo Ikusei Keikaku'
+  },
+  'mahou-shoujo-lyrical-nanoha': {
+    slug: 'mahou-shoujo-lyrical-nanoha',
+    id: '208',
+    nome: 'Mahou Shoujo Lyrical Nanoha'
+  },
+  'mahou-shoujo-lyrical-nanoha-a-s': {
+    slug: 'mahou-shoujo-lyrical-nanoha-a-s',
+    id: '207',
+    nome: 'Mahou Shoujo Lyrical Nanoha A’s'
+  },
+  'mahou-shoujo-lyrical-nanoha-striker-s': {
+    slug: 'mahou-shoujo-lyrical-nanoha-striker-s',
+    id: '20600',
+    nome: 'Mahou Shoujo Lyrical Nanoha StrikerS'
+  },
+  'mahou-shoujo-lyrical-nanoha-vi-vid': {
+    slug: 'mahou-shoujo-lyrical-nanoha-vi-vid',
+    id: '205',
+    nome: 'Mahou Shoujo Lyrical Nanoha ViVid'
+  },
+  'mahou-shoujo-madoka-magika': {
+    slug: 'mahou-shoujo-madoka-magika',
+    id: '204',
+    nome: 'Mahou Shoujo Madoka Magika'
+  },
+  'mahou-shoujo-nante-mou-ii-desu-kara-2': {
+    slug: 'mahou-shoujo-nante-mou-ii-desu-kara-2',
+    id: '203',
+    nome: 'Mahou Shoujo Nante Mou Ii Desu Kara 2'
+  },
+  'mahou-shoujo-nante-mou-ii-desukara': {
+    slug: 'mahou-shoujo-nante-mou-ii-desukara',
+    id: '202',
+    nome: 'Mahou Shoujo Nante Mou Ii Desukara'
+  },
+  'mahou-shoujo-ore': {
+    slug: 'mahou-shoujo-ore',
+    id: '51337',
+    nome: 'Mahou Shoujo Ore'
+  },
+  'mahou-shoujo-site': {
+    slug: 'mahou-shoujo-site',
+    id: '51343',
+    nome: 'Mahou Shoujo Site'
+  },
+  'mahou-shoujo-taisen': {
+    slug: 'mahou-shoujo-taisen',
+    id: '201',
+    nome: 'Mahou Shoujo Taisen'
+  },
+  'mahou-tsukai-ni-taisetsu-na-koto-natsu-no-sora': {
+    slug: 'mahou-tsukai-ni-taisetsu-na-koto-natsu-no-sora',
+    id: '199',
+    nome: 'Mahou Tsukai Ni Taisetsu Na Koto: Natsu No Sora'
+  },
+  'mahou-tsukai-no-yome': {
+    slug: 'mahou-tsukai-no-yome',
+    id: '190',
+    nome: 'Mahou Tsukai no Yome'
+  },
+  'mahou-tsukai-tai': {
+    slug: 'mahou-tsukai-tai',
+    id: '1363',
+    nome: 'Mahou Tsukai Tai!'
+  },
+  'mahoujin-guru-guru': {
+    slug: 'mahoujin-guru-guru',
+    id: '1891',
+    nome: 'Mahoujin Guru Guru'
+  },
+  'mahouka-koukou-no-rettousei': {
+    slug: 'mahouka-koukou-no-rettousei',
+    id: '1364',
+    nome: 'Mahouka Koukou No Rettousei'
+  },
+  'mahoutsukai-no-yome': {
+    slug: 'mahoutsukai-no-yome',
+    id: '1513',
+    nome: 'Mahoutsukai no Yome'
+  },
+  'maison-ikkoku': {
+    slug: 'maison-ikkoku',
+    id: '1367',
+    nome: 'Maison Ikkoku'
+  },
+  'maji-de-watashi-ni-koi-shinasai': {
+    slug: 'maji-de-watashi-ni-koi-shinasai',
+    id: '1368',
+    nome: 'Maji De Watashi Ni Koi Shinasai!'
+  },
+  'majimoji-rurumo': {
+    slug: 'majimoji-rurumo',
+    id: '1369',
+    nome: 'Majimoji Rurumo'
+  },
+  'majin-tantei-nougami-neuro': {
+    slug: 'majin-tantei-nougami-neuro',
+    id: '1371',
+    nome: 'Majin Tantei Nougami Neuro'
+  },
+  'major-6-temporada': {
+    slug: 'major-6-temporada',
+    id: '1680',
+    nome: 'Major (6° Temporada)'
+  },
+  'major-2nd-tv': {
+    slug: 'major-2nd-tv',
+    id: '51313',
+    nome: 'Major 2nd (TV) '
+  },
+  'makai-ouji-devils-and-realist': {
+    slug: 'makai-ouji-devils-and-realist',
+    id: '1378',
+    nome: 'Makai Ouji: Devils And Realist'
+  },
+  'makai-senki-disgaea': {
+    slug: 'makai-senki-disgaea',
+    id: '1379',
+    nome: 'Makai Senki Disgaea'
+  },
+  'maken-ki-two': {
+    slug: 'maken-ki-two',
+    id: '1381',
+    nome: 'Maken-ki! Two'
+  },
+  'makeruna-aku-no-gundan': {
+    slug: 'makeruna-aku-no-gundan',
+    id: '1597',
+    nome: 'Makeruna!! Aku No Gundan!'
+  },
+  'makura-no-danshi': {
+    slug: 'makura-no-danshi',
+    id: '1382',
+    nome: 'Makura No Danshi'
+  },
+  'mamoru-kun-ni-megami-no-shukufuku-wo': {
+    slug: 'mamoru-kun-ni-megami-no-shukufuku-wo',
+    id: '1383',
+    nome: 'Mamoru-kun Ni Megami No Shukufuku Wo!'
+  },
+  'mangaka-san-to-assistant-san-to': {
+    slug: 'mangaka-san-to-assistant-san-to',
+    id: '1384',
+    nome: 'Mangaka-san To Assistant-san To'
+  },
+  'manyuu-hikenchou': {
+    slug: 'manyuu-hikenchou',
+    id: '1385',
+    nome: 'Manyuu Hikenchou'
+  },
+  'maoyuu-maou-yuusha': {
+    slug: 'maoyuu-maou-yuusha',
+    id: '1387',
+    nome: 'Maoyuu Maou Yuusha'
+  },
+  'marchen-madchen': {
+    slug: 'marchen-madchen',
+    id: '2340',
+    nome: 'Marchen Madchen'
+  },
+  'marginal-4-kiss-kara-tsukuru-big-bang': {
+    slug: 'marginal-4-kiss-kara-tsukuru-big-bang',
+    id: '768',
+    nome: 'Marginal#4: Kiss Kara Tsukuru Big Bang'
+  },
+  'maria-holic': {
+    slug: 'maria-holic',
+    id: '1388',
+    nome: 'Maria Holic'
+  },
+  'maria-holic-alive': {
+    slug: 'maria-holic-alive',
+    id: '1389',
+    nome: 'Maria Holic Alive'
+  },
+  'maria-sama-ga-miteru': {
+    slug: 'maria-sama-ga-miteru',
+    id: '198',
+    nome: 'Maria-sama Ga Miteru'
+  },
+  'maria-sama-ga-miteru-4th': {
+    slug: 'maria-sama-ga-miteru-4th',
+    id: '197',
+    nome: 'Maria-sama Ga Miteru 4th'
+  },
+  'maria-sama-ga-miteru-haru': {
+    slug: 'maria-sama-ga-miteru-haru',
+    id: '196',
+    nome: 'Maria-sama Ga Miteru: Haru'
+  },
+  'marmalade-boy': {
+    slug: 'marmalade-boy',
+    id: '1390',
+    nome: 'Marmalade Boy'
+  },
+  'martian-successor-nadesico': {
+    slug: 'martian-successor-nadesico',
+    id: '1391',
+    nome: 'Martian Successor Nadesico'
+  },
+  'marvel-disk-wars-the-avengers': {
+    slug: 'marvel-disk-wars-the-avengers',
+    id: '1392',
+    nome: 'Marvel Disk Wars: The Avengers'
+  },
+  'masamune-kun-no-revenge': {
+    slug: 'masamune-kun-no-revenge',
+    id: '793',
+    nome: 'Masamune-kun No Revenge'
+  },
+  'mashiroiro-symphony-the-color-of-lovers': {
+    slug: 'mashiroiro-symphony-the-color-of-lovers',
+    id: '1393',
+    nome: 'Mashiroiro Symphony: The Color Of Lovers'
+  },
+  'masou-gakuen-hybrid-x-heart-hx-h': {
+    slug: 'masou-gakuen-hybrid-x-heart-hx-h',
+    id: '1394',
+    nome: 'Masou Gakuen Hybrid X Heart (HxH)'
+  },
+  'matantei-loki-ragnarok': {
+    slug: 'matantei-loki-ragnarok',
+    id: '1395',
+    nome: 'Matantei Loki Ragnarok'
+  },
+  'mawaru-penguin-drum': {
+    slug: 'mawaru-penguin-drum',
+    id: '1396',
+    nome: 'Mawaru Penguin Drum'
+  },
+  'mayoi-neko-overrun': {
+    slug: 'mayoi-neko-overrun',
+    id: '1398',
+    nome: 'Mayoi Neko Overrun'
+  },
+  'maze-mega-burst-space': {
+    slug: 'maze-mega-burst-space',
+    id: '1400',
+    nome: 'Maze Mega-Burst Space'
+  },
+  'medaka-box-abnormal': {
+    slug: 'medaka-box-abnormal',
+    id: '1403',
+    nome: 'Medaka Box Abnormal'
+  },
+  'mekaku-city-actors': {
+    slug: 'mekaku-city-actors',
+    id: '1405',
+    nome: 'Mekaku City Actors'
+  },
+  'michiko-to-hatchin': {
+    slug: 'michiko-to-hatchin',
+    id: '1408',
+    nome: 'Michiko To Hatchin'
+  },
+  'midori-no-hibi': {
+    slug: 'midori-no-hibi',
+    id: '1409',
+    nome: 'Midori No Hibi'
+  },
+  'miira-no-kaikata': {
+    slug: 'miira-no-kaikata',
+    id: '2342',
+    nome: 'Miira no Kaikata'
+  },
+  'mikagura-gakuen-kumikyoku': {
+    slug: 'mikagura-gakuen-kumikyoku',
+    id: '1410',
+    nome: 'Mikagura Gakuen Kumikyoku'
+  },
+  'mikakunin-de-shinkoukei': {
+    slug: 'mikakunin-de-shinkoukei',
+    id: '1411',
+    nome: 'Mikakunin De Shinkoukei'
+  },
+  'million-doll': {
+    slug: 'million-doll',
+    id: '1412',
+    nome: 'Million Doll'
+  },
+  'minami-kamakura': {
+    slug: 'minami-kamakura',
+    id: '786',
+    nome: 'Minami Kamakura'
+  },
+  'minami-ke-okaeri': {
+    slug: 'minami-ke-okaeri',
+    id: '1414',
+    nome: 'Minami-ke Okaeri'
+  },
+  'minami-ke-okawari': {
+    slug: 'minami-ke-okawari',
+    id: '1415',
+    nome: 'Minami-ke Okawari'
+  },
+  'minami-ke-tadaima': {
+    slug: 'minami-ke-tadaima',
+    id: '1416',
+    nome: 'Minami-Ke Tadaima'
+  },
+  'miracle-train-oedo-sen-e-youkoso': {
+    slug: 'miracle-train-oedo-sen-e-youkoso',
+    id: '1417',
+    nome: 'Miracle Train: Oedo-sen E Youkoso'
+  },
+  'mirage-of-blaze': {
+    slug: 'mirage-of-blaze',
+    id: '1682',
+    nome: 'Mirage of blaze'
+  },
+  'mirai-nikki-redial': {
+    slug: 'mirai-nikki-redial',
+    id: '194',
+    nome: 'Mirai Nikki Redial'
+  },
+  'miss-monochrome': {
+    slug: 'miss-monochrome',
+    id: '1418',
+    nome: 'Miss Monochrome'
+  },
+  'miss-monochrome-2': {
+    slug: 'miss-monochrome-2',
+    id: '1419',
+    nome: 'Miss Monochrome 2'
+  },
+  'miss-monochrome-3': {
+    slug: 'miss-monochrome-3',
+    id: '1420',
+    nome: 'Miss Monochrome 3'
+  },
+  'mitsuboshi-colors': {
+    slug: 'mitsuboshi-colors',
+    id: '2331',
+    nome: 'Mitsuboshi Colors'
+  },
+  'mitsudomoe-zouryouchuu': {
+    slug: 'mitsudomoe-zouryouchuu',
+    id: '1422',
+    nome: 'Mitsudomoe Zouryouchuu!'
+  },
+  'mnemosyne-mnemosyne-no-musume-tachi': {
+    slug: 'mnemosyne-mnemosyne-no-musume-tachi',
+    id: '1424',
+    nome: 'Mnemosyne: Mnemosyne No Musume-tachi'
+  },
+  'mob-psycho-100': {
+    slug: 'mob-psycho-100',
+    id: '1425',
+    nome: 'Mob Psycho 100'
+  },
+  'mobile-suit-gundam-unicorn-re-0096': {
+    slug: 'mobile-suit-gundam-unicorn-re-0096',
+    id: '1426',
+    nome: 'Mobile Suit Gundam Unicorn RE:0096'
+  },
+  'mobile-suit-gundam-iron-blooded-orphans': {
+    slug: 'mobile-suit-gundam-iron-blooded-orphans',
+    id: '817',
+    nome: 'Mobile Suit Gundam: Iron-Blooded Orphans'
+  },
+  'mobile-suit-gundam-twilight-axis': {
+    slug: 'mobile-suit-gundam-twilight-axis',
+    id: '2288',
+    nome: 'Mobile Suit Gundam: Twilight Axis'
+  },
+  'momo-kyun-sword': {
+    slug: 'momo-kyun-sword',
+    id: '1429',
+    nome: 'Momo Kyun Sword'
+  },
+  'mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo': {
+    slug: 'mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo',
+    id: '1431',
+    nome: 'Mondaiji-tachi Ga Isekai Kara Kuru Sou Desu Yo?'
+  },
+  'monochrome-factor': {
+    slug: 'monochrome-factor',
+    id: '1432',
+    nome: 'Monochrome Factor'
+  },
+  'monogatari-series-second-season': {
+    slug: 'monogatari-series-second-season',
+    id: '1433',
+    nome: 'Monogatari Series Second Season'
+  },
+  'monster-hunter-stories-ride-on': {
+    slug: 'monster-hunter-stories-ride-on',
+    id: '210',
+    nome: 'Monster Hunter Stories: Ride On'
+  },
+  'monster-musume-no-iru-nichijou': {
+    slug: 'monster-musume-no-iru-nichijou',
+    id: '1435',
+    nome: 'Monster Musume No Iru Nichijou'
+  },
+  'monster-rancher': {
+    slug: 'monster-rancher',
+    id: '1436',
+    nome: 'Monster Rancher'
+  },
+  'monster-sonic': {
+    slug: 'monster-sonic',
+    id: '2123',
+    nome: 'Monster Sonic!'
+  },
+  'monster-strike-2': {
+    slug: 'monster-strike-2',
+    id: '1499',
+    nome: 'Monster Strike 2'
+  },
+  'monster-strike-3': {
+    slug: 'monster-strike-3',
+    id: '2276',
+    nome: 'Monster Strike 3'
+  },
+  'moretsu-pirates': {
+    slug: 'moretsu-pirates',
+    id: '1437',
+    nome: 'Moretsu Pirates'
+  },
+  'morita-san-wa-mukuchi': {
+    slug: 'morita-san-wa-mukuchi',
+    id: '1438',
+    nome: 'Morita-san Wa Mukuchi'
+  },
+  'morita-san-wa-mukuchi-2': {
+    slug: 'morita-san-wa-mukuchi-2',
+    id: '1439',
+    nome: 'Morita-san Wa Mukuchi 2'
+  },
+  'motto-to-love-ru': {
+    slug: 'motto-to-love-ru',
+    id: '1441',
+    nome: 'Motto To Love-Ru'
+  },
+  'mou-hitotsu-no-mirai-wo': {
+    slug: 'mou-hitotsu-no-mirai-wo',
+    id: '1442',
+    nome: 'Mou Hitotsu No Mirai Wo'
+  },
+  'mouryou-no-hako': {
+    slug: 'mouryou-no-hako',
+    id: '1443',
+    nome: 'Mouryou No Hako'
+  },
+  'moyashimon-returns': {
+    slug: 'moyashimon-returns',
+    id: '1446',
+    nome: 'Moyashimon Returns'
+  },
+  'mugen-no-ryvius': {
+    slug: 'mugen-no-ryvius',
+    id: '1447',
+    nome: 'Mugen No Ryvius'
+  },
+  'musaigen-no-phantom-world': {
+    slug: 'musaigen-no-phantom-world',
+    id: '1448',
+    nome: 'Musaigen No Phantom World'
+  },
+  'musekinin-galaxy-tylor': {
+    slug: 'musekinin-galaxy-tylor',
+    id: '1897',
+    nome: 'Musekinin Galaxy Tylor'
+  },
+  mushibugyou: {
+    slug: 'mushibugyou',
+    id: '1449',
+    nome: 'Mushibugyou'
+  },
+  'mushishi-zoku-shou': {
+    slug: 'mushishi-zoku-shou',
+    id: '1451',
+    nome: 'Mushishi Zoku Shou'
+  },
+  'muteki-kanban-musume': {
+    slug: 'muteki-kanban-musume',
+    id: '1452',
+    nome: 'Muteki Kanban Musume'
+  },
+  'myself-yourself': {
+    slug: 'myself-yourself',
+    id: '1453',
+    nome: 'Myself;Yourself'
+  },
+  'mar-marchen-awakens-romance': {
+    slug: 'mar-marchen-awakens-romance',
+    id: '2032',
+    nome: 'MÄR: Märchen Awakens Romance'
+  },
+  'nabari-no-ou': {
+    slug: 'nabari-no-ou',
+    id: '1455',
+    nome: 'Nabari No Ou'
+  },
+  'nagasarete-airantou': {
+    slug: 'nagasarete-airantou',
+    id: '562',
+    nome: 'Nagasarete Airantou'
+  },
+  'nagato-yuki-chan-no-shoushitsu': {
+    slug: 'nagato-yuki-chan-no-shoushitsu',
+    id: '564',
+    nome: 'Nagato Yuki-chan No Shoushitsu'
+  },
+  'nagi-no-asukara': {
+    slug: 'nagi-no-asukara',
+    id: '565',
+    nome: 'Nagi No Asukara'
+  },
+  'najica-blitz-tactics': {
+    slug: 'najica-blitz-tactics',
+    id: '1456',
+    nome: 'Najica Blitz Tactics'
+  },
+  'namiuchigiwa-no-muromi-san': {
+    slug: 'namiuchigiwa-no-muromi-san',
+    id: '566',
+    nome: 'Namiuchigiwa No Muromi-san'
+  },
+  'nana-maru-san-batsu': {
+    slug: 'nana-maru-san-batsu',
+    id: '1872',
+    nome: 'Nana Maru San Batsu'
+  },
+  'nanaka-6-17': {
+    slug: 'nanaka-6-17',
+    id: '1686',
+    nome: 'Nanaka 6/17'
+  },
+  'nanatsu-no-bitoku': {
+    slug: 'nanatsu-no-bitoku',
+    id: '23592',
+    nome: 'Nanatsu No Bitoku'
+  },
+  'nanatsu-no-taizai': {
+    slug: 'nanatsu-no-taizai',
+    id: '568',
+    nome: 'Nanatsu No Taizai'
+  },
+  'nanatsu-no-taizai-2': {
+    slug: 'nanatsu-no-taizai-2',
+    id: '12800',
+    nome: 'Nanatsu no Taizai 2'
+  },
+  'nanatsu-no-taizai-seisen-no-shirushi': {
+    slug: 'nanatsu-no-taizai-seisen-no-shirushi',
+    id: '570',
+    nome: 'Nanatsu No Taizai: Seisen No Shirushi'
+  },
+  'nanatsuiro-drops': {
+    slug: 'nanatsuiro-drops',
+    id: '2036',
+    nome: 'Nanatsuiro Drops'
+  },
+  'narue-no-sekai': {
+    slug: 'narue-no-sekai',
+    id: '1457',
+    nome: 'Narue No Sekai'
+  },
+  'naruto-classico': {
+    slug: 'naruto-classico',
+    id: '573',
+    nome: 'Naruto Classico'
+  },
+  'naruto-shippuden': {
+    slug: 'naruto-shippuden',
+    id: '50090',
+    nome: 'Naruto Shippuden'
+  },
+  'natsu-no-arashi': {
+    slug: 'natsu-no-arashi',
+    id: '1458',
+    nome: 'Natsu No Arashi'
+  },
+  'natsu-no-arashi-akinai-chuu': {
+    slug: 'natsu-no-arashi-akinai-chuu',
+    id: '1459',
+    nome: 'Natsu No Arashi! Akinai-Chuu'
+  },
+  'natsuiro-kiseki': {
+    slug: 'natsuiro-kiseki',
+    id: '2034',
+    nome: 'Natsuiro Kiseki'
+  },
+  'natsume-yuujinchou': {
+    slug: 'natsume-yuujinchou',
+    id: '1460',
+    nome: 'Natsume Yuujinchou'
+  },
+  'natsume-yuujinchou-go': {
+    slug: 'natsume-yuujinchou-go',
+    id: '576',
+    nome: 'Natsume Yuujinchou Go'
+  },
+  'natsume-yuujinchou-roku': {
+    slug: 'natsume-yuujinchou-roku',
+    id: '1605',
+    nome: 'Natsume Yuujinchou Roku'
+  },
+  'natsume-yuujinchou-san': {
+    slug: 'natsume-yuujinchou-san',
+    id: '577',
+    nome: 'Natsume Yuujinchou San'
+  },
+  'natsume-yuujinchou-shi': {
+    slug: 'natsume-yuujinchou-shi',
+    id: '578',
+    nome: 'Natsume Yuujinchou Shi'
+  },
+  'natsuyuki-rendezvous': {
+    slug: 'natsuyuki-rendezvous',
+    id: '1461',
+    nome: 'Natsuyuki Rendezvous'
+  },
+  'nazo-no-kanojo-x': {
+    slug: 'nazo-no-kanojo-x',
+    id: '579',
+    nome: 'Nazo No Kanojo X'
+  },
+  'nejimaki-seirei-senki-tenkyou-no-alderamin': {
+    slug: 'nejimaki-seirei-senki-tenkyou-no-alderamin',
+    id: '581',
+    nome: 'Nejimaki Seirei Senki: Tenkyou No Alderamin'
+  },
+  'nekogami-yaoyorozu': {
+    slug: 'nekogami-yaoyorozu',
+    id: '1463',
+    nome: 'Nekogami Yaoyorozu'
+  },
+  'nekomonogatari-kuro': {
+    slug: 'nekomonogatari-kuro',
+    id: '582',
+    nome: 'Nekomonogatari (Kuro)'
+  },
+  'neo-angelique-abyss': {
+    slug: 'neo-angelique-abyss',
+    id: '584',
+    nome: 'Neo Angelique Abyss'
+  },
+  'neo-angelique-abyss-second-age': {
+    slug: 'neo-angelique-abyss-second-age',
+    id: '585',
+    nome: 'Neo Angelique Abyss: Second Age'
+  },
+  'neon-genesis-evangelion': {
+    slug: 'neon-genesis-evangelion',
+    id: '583',
+    nome: 'Neon Genesis Evangelion'
+  },
+  'net-juu-no-susume': {
+    slug: 'net-juu-no-susume',
+    id: '2267',
+    nome: 'Net-juu no Susume'
+  },
+  'netoge-no-yome-wa-onnanoko-ja-nai-to-omotta': {
+    slug: 'netoge-no-yome-wa-onnanoko-ja-nai-to-omotta',
+    id: '586',
+    nome: 'Netoge No Yome Wa Onnanoko Ja Nai To Omotta?'
+  },
+  'netsuzou-trap-ntr': {
+    slug: 'netsuzou-trap-ntr',
+    id: '1875',
+    nome: 'Netsuzou Trap: NTR'
+  },
+  'nhk-ni-youkoso': {
+    slug: 'nhk-ni-youkoso',
+    id: '1464',
+    nome: 'NHK Ni Youkoso'
+  },
+  'night-head-genesis': {
+    slug: 'night-head-genesis',
+    id: '1466',
+    nome: 'Night Head Genesis'
+  },
+  'night-wizard': {
+    slug: 'night-wizard',
+    id: '1467',
+    nome: 'Night Wizard'
+  },
+  'nightwalker-the-midnight-detective': {
+    slug: 'nightwalker-the-midnight-detective',
+    id: '1468',
+    nome: 'Nightwalker: The Midnight Detective'
+  },
+  'nijiiro-days': {
+    slug: 'nijiiro-days',
+    id: '588',
+    nome: 'Nijiiro Days'
+  },
+  'nijuu-mensou-no-musume': {
+    slug: 'nijuu-mensou-no-musume',
+    id: '1469',
+    nome: 'Nijuu Mensou No Musume'
+  },
+  'nil-admirari-no-tenbin-teito-genwaku-kitan': {
+    slug: 'nil-admirari-no-tenbin-teito-genwaku-kitan',
+    id: '51353',
+    nome: 'Nil Admirari no Tenbin: Teito Genwaku Kitan'
+  },
+  'ninja-scroll': {
+    slug: 'ninja-scroll',
+    id: '1470',
+    nome: 'Ninja Scroll'
+  },
+  'ninja-slayer': {
+    slug: 'ninja-slayer',
+    id: '1688',
+    nome: 'Ninja Slayer'
+  },
+  nisemonogatari: {
+    slug: 'nisemonogatari',
+    id: '1471',
+    nome: 'Nisemonogatari'
+  },
+  'no-game-no-life': {
+    slug: 'no-game-no-life',
+    id: '591',
+    nome: 'No Game No Life'
+  },
+  'nobunaga-concerto': {
+    slug: 'nobunaga-concerto',
+    id: '593',
+    nome: 'Nobunaga Concerto'
+  },
+  'nobunaga-no-shinobi': {
+    slug: 'nobunaga-no-shinobi',
+    id: '594',
+    nome: 'Nobunaga No Shinobi'
+  },
+  'nobunaga-no-shinobi-anegawa-ishiyama-hen': {
+    slug: 'nobunaga-no-shinobi-anegawa-ishiyama-hen',
+    id: '51339',
+    nome: 'Nobunaga no Shinobi: Anegawa Ishiyama-hen '
+  },
+  'nobunaga-the-fool': {
+    slug: 'nobunaga-the-fool',
+    id: '595',
+    nome: 'Nobunaga The Fool'
+  },
+  'nodame-cantabile-paris-hen': {
+    slug: 'nodame-cantabile-paris-hen',
+    id: '1473',
+    nome: 'Nodame Cantabile Paris-Hen'
+  },
+  'nodame-cantabile-finale': {
+    slug: 'nodame-cantabile-finale',
+    id: '1474',
+    nome: 'Nodame Cantabile: Finale'
+  },
+  'noein-mou-hitori-no-kimi-e': {
+    slug: 'noein-mou-hitori-no-kimi-e',
+    id: '1475',
+    nome: 'Noein – Mou Hitori No Kimi E'
+  },
+  'nogizaka-haruka-no-himitsu': {
+    slug: 'nogizaka-haruka-no-himitsu',
+    id: '1476',
+    nome: 'Nogizaka Haruka No Himitsu'
+  },
+  'nogizaka-haruka-no-himitsu-purezza': {
+    slug: 'nogizaka-haruka-no-himitsu-purezza',
+    id: '1477',
+    nome: 'Nogizaka Haruka No Himitsu: Purezza'
+  },
+  'non-non-biyori': {
+    slug: 'non-non-biyori',
+    id: '1479',
+    nome: 'Non Non Biyori'
+  },
+  'non-non-biyori-repeat': {
+    slug: 'non-non-biyori-repeat',
+    id: '1480',
+    nome: 'Non Non Biyori Repeat'
+  },
+  'nora-to-oujo-to-noraneko-heart': {
+    slug: 'nora-to-oujo-to-noraneko-heart',
+    id: '1893',
+    nome: 'Nora to Oujo to Noraneko Heart'
+  },
+  'noragami-aragoto': {
+    slug: 'noragami-aragoto',
+    id: '598',
+    nome: 'Noragami Aragoto'
+  },
+  'norn9-norn-nonet': {
+    slug: 'norn9-norn-nonet',
+    id: '2035',
+    nome: 'Norn9: Norn+Nonet'
+  },
+  'now-and-then-here-and-there': {
+    slug: 'now-and-then-here-and-there',
+    id: '1481',
+    nome: 'Now And Then, Here And There'
+  },
+  'nurarihyon-no-mago': {
+    slug: 'nurarihyon-no-mago',
+    id: '601',
+    nome: 'Nurarihyon No Mago'
+  },
+  'nurarihyon-no-mago-sennen-makyou': {
+    slug: 'nurarihyon-no-mago-sennen-makyou',
+    id: '602',
+    nome: 'Nurarihyon No Mago Sennen Makyou'
+  },
+  'nurse-witch-komugi-chan-r': {
+    slug: 'nurse-witch-komugi-chan-r',
+    id: '1689',
+    nome: 'Nurse Witch Komugi-chan R'
+  },
+  'nyanpire-the-animation': {
+    slug: 'nyanpire-the-animation',
+    id: '1482',
+    nome: 'Nyanpire The Animation'
+  },
+  'occultic-nine': {
+    slug: 'occultic-nine',
+    id: '520',
+    nome: 'Occultic;Nine'
+  },
+  'oda-nobuna-no-yabou': {
+    slug: 'oda-nobuna-no-yabou',
+    id: '521',
+    nome: 'Oda Nobuna No Yabou'
+  },
+  'ojisan-to-marshmallow': {
+    slug: 'ojisan-to-marshmallow',
+    id: '522',
+    nome: 'Ojisan To Marshmallow'
+  },
+  'okusama-ga-seito-kaichou': {
+    slug: 'okusama-ga-seito-kaichou',
+    id: '523',
+    nome: 'Okusama Ga Seito Kaichou!'
+  },
+  'okusama-ga-seito-kaichou-2': {
+    slug: 'okusama-ga-seito-kaichou-2',
+    id: '524',
+    nome: 'Okusama Ga Seito Kaichou! 2'
+  },
+  'okusama-wa-joshikousei': {
+    slug: 'okusama-wa-joshikousei',
+    id: '525',
+    nome: 'Okusama Wa Joshikousei'
+  },
+  'okusama-wa-mahou-shoujo': {
+    slug: 'okusama-wa-mahou-shoujo',
+    id: '2039',
+    nome: 'Okusama wa Mahou Shoujo'
+  },
+  'omae-wa-mada-gunma-wo-shiranai': {
+    slug: 'omae-wa-mada-gunma-wo-shiranai',
+    id: '51366',
+    nome: 'Omae wa Mada Gunma wo Shiranai'
+  },
+  'omamori-himari': {
+    slug: 'omamori-himari',
+    id: '526',
+    nome: 'Omamori Himari'
+  },
+  'omishi-mahou-gekijou-risky-safety': {
+    slug: 'omishi-mahou-gekijou-risky-safety',
+    id: '1690',
+    nome: 'Omishi Mahou Gekijou: Risky/Safety'
+  },
+  'one-punch-man': {
+    slug: 'one-punch-man',
+    id: '5300',
+    nome: 'One Punch Man'
+  },
+  'one-punch-man-2': {
+    slug: 'one-punch-man-2',
+    id: '1156',
+    nome: 'One Punch Man 2'
+  },
+  'onee-chan-ga-kita': {
+    slug: 'onee-chan-ga-kita',
+    id: '531',
+    nome: 'Onee-chan Ga Kita'
+  },
+  'onegai-teacher': {
+    slug: 'onegai-teacher',
+    id: '532',
+    nome: 'Onegai Teacher'
+  },
+  'onegai-twins': {
+    slug: 'onegai-twins',
+    id: '1691',
+    nome: 'Onegai Twins'
+  },
+  'onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne': {
+    slug: 'onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne',
+    id: '534',
+    nome: 'Onii-chan Dakedo Ai Sae Areba Kankeinai Yo Ne!'
+  },
+  'onii-chan-no-koto-nanka-zenzen-suki-janain-dakara-ne': {
+    slug: 'onii-chan-no-koto-nanka-zenzen-suki-janain-dakara-ne',
+    id: '535',
+    nome: 'Onii-chan No Koto Nanka Zenzen Suki Janain Dakara Ne!!'
+  },
+  'onmyou-taisenki': {
+    slug: 'onmyou-taisenki',
+    id: '536',
+    nome: 'Onmyou Taisenki'
+  },
+  'onsen-yousei-hakone-chan': {
+    slug: 'onsen-yousei-hakone-chan',
+    id: '537',
+    nome: 'Onsen Yousei Hakone-chan'
+  },
+  'ookami-kakushi': {
+    slug: 'ookami-kakushi',
+    id: '1692',
+    nome: 'Ookami Kakushi'
+  },
+  'ookami-shoujo-to-kuro-ouji': {
+    slug: 'ookami-shoujo-to-kuro-ouji',
+    id: '538',
+    nome: 'Ookami Shoujo To Kuro Ouji'
+  },
+  'ookami-san-to-shichinin-no-nakama-tachi': {
+    slug: 'ookami-san-to-shichinin-no-nakama-tachi',
+    id: '1693',
+    nome: 'Ookami-san to Shichinin no Nakama-tachi'
+  },
+  'ookiku-furikabutte': {
+    slug: 'ookiku-furikabutte',
+    id: '539',
+    nome: 'Ookiku Furikabutte'
+  },
+  'ookiku-furikabutte-natsu-no-taikai-hen': {
+    slug: 'ookiku-furikabutte-natsu-no-taikai-hen',
+    id: '540',
+    nome: 'Ookiku Furikabutte: Natsu No Taikai Hen'
+  },
+  'ooya-san-wa-shishunki': {
+    slug: 'ooya-san-wa-shishunki',
+    id: '541',
+    nome: 'Ooya-san Wa Shishunki!'
+  },
+  'ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken': {
+    slug: 'ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken',
+    id: '543',
+    nome: 'Ore Ga Ojousama Gakkou Ni Shomin Sample Toshite Gets Sareta Ken'
+  },
+  'ore-monogatari': {
+    slug: 'ore-monogatari',
+    id: '544',
+    nome: 'Ore Monogatari!!'
+  },
+  'ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai': {
+    slug: 'ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai',
+    id: '545',
+    nome: 'Ore No Imouto Ga Konna Ni Kawaii Wake Ga Nai'
+  },
+  'ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-2': {
+    slug: 'ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-2',
+    id: '546',
+    nome: 'Ore No Imouto Ga Konna Ni Kawaii Wake Ga Nai 2'
+  },
+  'ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru': {
+    slug: 'ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru',
+    id: '547',
+    nome: 'Ore No Kanojo To Osananajimi Ga Shuraba Sugiru'
+  },
+  'ore-no-nounai-sentakushi-ga-gakuen-love-comedy': {
+    slug: 'ore-no-nounai-sentakushi-ga-gakuen-love-comedy',
+    id: '548',
+    nome: 'Ore No Nounai Sentakushi Ga, Gakuen Love Comedy'
+  },
+  'ore-twintails-ni-narimasu': {
+    slug: 'ore-twintails-ni-narimasu',
+    id: '1694',
+    nome: 'Ore, Twintails ni Narimasu'
+  },
+  'oreca-battle': {
+    slug: 'oreca-battle',
+    id: '549',
+    nome: 'Oreca Battle'
+  },
+  'orenchi-no-furo-jijou': {
+    slug: 'orenchi-no-furo-jijou',
+    id: '550',
+    nome: 'Orenchi No Furo Jijou'
+  },
+  'oretachi-ni-tsubasa-wa-nai': {
+    slug: 'oretachi-ni-tsubasa-wa-nai',
+    id: '1695',
+    nome: 'Oretachi ni Tsubasa wa Nai'
+  },
+  'oruchuban-ebichu': {
+    slug: 'oruchuban-ebichu',
+    id: '1696',
+    nome: 'Oruchuban Ebichu'
+  },
+  'os-cavaleiros-do-zodiaco': {
+    slug: 'os-cavaleiros-do-zodiaco',
+    id: '1803',
+    nome: 'Os Cavaleiros do Zodíaco'
+  },
+  'os-cavaleiros-do-zodiaco-omega': {
+    slug: 'os-cavaleiros-do-zodiaco-omega',
+    id: '1804',
+    nome: 'Os Cavaleiros do Zodíaco Omega'
+  },
+  'os-cavaleiros-do-zodiaco-kouin-jojishi-tenshi-tan': {
+    slug: 'os-cavaleiros-do-zodiaco-kouin-jojishi-tenshi-tan',
+    id: '431',
+    nome: 'Os Cavaleiros do Zodíaco: Kouin Jojishi Tenshi Tan'
+  },
+  'os-cavaleiros-do-zodiaco-saintia-shou': {
+    slug: 'os-cavaleiros-do-zodiaco-saintia-shou',
+    id: '200',
+    nome: 'Os Cavaleiros do Zodíaco: Saintia Shou'
+  },
+  'os-cavaleiros-do-zodiaco-soul-of-gold': {
+    slug: 'os-cavaleiros-do-zodiaco-soul-of-gold',
+    id: '1805',
+    nome: 'Os Cavaleiros do Zodíaco: Soul of Gold'
+  },
+  'os-cavaleiros-do-zodiaco-the-lost-canvas': {
+    slug: 'os-cavaleiros-do-zodiaco-the-lost-canvas',
+    id: '2068',
+    nome: 'Os Cavaleiros do Zodíaco: The Lost Canvas'
+  },
+  'osake-wa-fuufu-ni-natte-kara': {
+    slug: 'osake-wa-fuufu-ni-natte-kara',
+    id: '2221',
+    nome: 'Osake wa Fuufu ni Natte kara'
+  },
+  'oshiete-galko-chan': {
+    slug: 'oshiete-galko-chan',
+    id: '553',
+    nome: 'Oshiete! Galko-chan'
+  },
+  'osomatsu-san': {
+    slug: 'osomatsu-san',
+    id: '554',
+    nome: 'Osomatsu-san'
+  },
+  otogizoushi: {
+    slug: 'otogizoushi',
+    id: '1697',
+    nome: 'Otogizoushi'
+  },
+  'otome-wa-boku-ni-koishiteru': {
+    slug: 'otome-wa-boku-ni-koishiteru',
+    id: '1698',
+    nome: 'Otome wa Boku ni Koishiteru'
+  },
+  'otome-youkai-zakuro': {
+    slug: 'otome-youkai-zakuro',
+    id: '2038',
+    nome: 'Otome Youkai Zakuro'
+  },
+  'ouran-high-school-host-club': {
+    slug: 'ouran-high-school-host-club',
+    id: '555',
+    nome: 'Ouran High School Host Club'
+  },
+  'ousama-game-the-animation': {
+    slug: 'ousama-game-the-animation',
+    id: '2226',
+    nome: 'Ousama Game The Animation'
+  },
+  'oushitsu-kyoushi-haine': {
+    slug: 'oushitsu-kyoushi-haine',
+    id: '1603',
+    nome: 'Oushitsu Kyoushi Haine'
+  },
+  'outbreak-company': {
+    slug: 'outbreak-company',
+    id: '556',
+    nome: 'Outbreak Company'
+  },
+  'overlord-ii': {
+    slug: 'overlord-ii',
+    id: '2317',
+    nome: 'Overlord II'
+  },
+  'owari-no-seraph': {
+    slug: 'owari-no-seraph',
+    id: '559',
+    nome: 'Owari No Seraph'
+  },
+  'owari-no-seraph-2nd': {
+    slug: 'owari-no-seraph-2nd',
+    id: '560',
+    nome: 'Owari No Seraph 2nd'
+  },
+  owarimonogatari: {
+    slug: 'owarimonogatari',
+    id: '2037',
+    nome: 'Owarimonogatari'
+  },
+  'pan-de-peace': {
+    slug: 'pan-de-peace',
+    id: '497',
+    nome: 'Pan De Peace!'
+  },
+  'pandora-hearts': {
+    slug: 'pandora-hearts',
+    id: '1700',
+    nome: 'Pandora Hearts'
+  },
+  'pandora-in-the-crimson-shell': {
+    slug: 'pandora-in-the-crimson-shell',
+    id: '498',
+    nome: 'Pandora In The Crimson Shell'
+  },
+  'panty-e-stocking-with-garterbelt': {
+    slug: 'panty-e-stocking-with-garterbelt',
+    id: '499',
+    nome: 'Panty e Stocking With Garterbelt'
+  },
+  'papa-no-iukoto-wo-kikinasai': {
+    slug: 'papa-no-iukoto-wo-kikinasai',
+    id: '1701',
+    nome: 'Papa no Iukoto wo Kikinasai!'
+  },
+  'paradise-kiss': {
+    slug: 'paradise-kiss',
+    id: '500',
+    nome: 'Paradise Kiss'
+  },
+  'peace-maker-kurogane': {
+    slug: 'peace-maker-kurogane',
+    id: '1702',
+    nome: 'Peace Maker Kurogane'
+  },
+  'peeping-life-tv-season-1': {
+    slug: 'peeping-life-tv-season-1',
+    id: '501',
+    nome: 'Peeping Life TV: Season 1 ??'
+  },
+  'penguin-musume-heart': {
+    slug: 'penguin-musume-heart',
+    id: '1705',
+    nome: 'Penguin Musume Heart'
+  },
+  'penn-zero-quase': {
+    slug: 'penn-zero-quase',
+    id: '1849',
+    nome: 'Penn Zero: Quase'
+  },
+  'persona-4-the-animation': {
+    slug: 'persona-4-the-animation',
+    id: '502',
+    nome: 'Persona 4 The Animation'
+  },
+  'persona-4-the-golden-animation': {
+    slug: 'persona-4-the-golden-animation',
+    id: '503',
+    nome: 'Persona 4 The Golden Animation'
+  },
+  'persona-5-the-animation': {
+    slug: 'persona-5-the-animation',
+    id: '51321',
+    nome: 'Persona 5 the Animation'
+  },
+  'persona-trinity-soul': {
+    slug: 'persona-trinity-soul',
+    id: '1704',
+    nome: 'Persona: Trinity Soul'
+  },
+  'petit-eva-email-protected': {
+    slug: 'petit-eva-email-protected',
+    id: '1706',
+    nome: 'Petit Eva: [email protected]'
+  },
+  'petshop-of-horrors': {
+    slug: 'petshop-of-horrors',
+    id: '504',
+    nome: 'Petshop Of Horrors'
+  },
+  'phantasy-star-online-2': {
+    slug: 'phantasy-star-online-2',
+    id: '505',
+    nome: 'Phantasy Star Online 2'
+  },
+  'phantom-requiem-for-the-phantom': {
+    slug: 'phantom-requiem-for-the-phantom',
+    id: '1707',
+    nome: 'Phantom: Requiem for the Phantom'
+  },
+  'phi-brain-kami-no-puzzle-2': {
+    slug: 'phi-brain-kami-no-puzzle-2',
+    id: '507',
+    nome: 'Phi Brain Kami No Puzzle 2'
+  },
+  'phi-brain-kami-no-puzzle-1': {
+    slug: 'phi-brain-kami-no-puzzle-1',
+    id: '506',
+    nome: 'Phi Brain: Kami No Puzzle 1'
+  },
+  'phi-brain-kami-no-puzzle-3': {
+    slug: 'phi-brain-kami-no-puzzle-3',
+    id: '508',
+    nome: 'Phi Brain: Kami No Puzzle 3'
+  },
+  'piace-watashi-no-italian': {
+    slug: 'piace-watashi-no-italian',
+    id: '757',
+    nome: 'Piace: Watashi No Italian'
+  },
+  'piano-anime': {
+    slug: 'piano-anime',
+    id: '1708',
+    nome: 'Piano (Anime)'
+  },
+  'piano-no-mori': {
+    slug: 'piano-no-mori',
+    id: '51342',
+    nome: 'Piano no Mori'
+  },
+  'ping-pong-the-animation': {
+    slug: 'ping-pong-the-animation',
+    id: '510',
+    nome: 'Ping Pong The Animation'
+  },
+  'pingu-in-the-city': {
+    slug: 'pingu-in-the-city',
+    id: '2277',
+    nome: 'Pingu in the city'
+  },
+  'planetarian-chiisana-hoshi-no-yume': {
+    slug: 'planetarian-chiisana-hoshi-no-yume',
+    id: '1709',
+    nome: 'Planetarian: Chiisana Hoshi no Yume'
+  },
+  'plastic-memories': {
+    slug: 'plastic-memories',
+    id: '512',
+    nome: 'Plastic Memories'
+  },
+  'pokemon-best-wishes': {
+    slug: 'pokemon-best-wishes',
+    id: '514',
+    nome: 'Pokémon Best Wishes!'
+  },
+  'pokemon-best-wishes-season-2': {
+    slug: 'pokemon-best-wishes-season-2',
+    id: '515',
+    nome: 'Pokémon Best Wishes! Season 2'
+  },
+  'pokemon-sun-and-moon': {
+    slug: 'pokemon-sun-and-moon',
+    id: '818',
+    nome: 'Pokémon Sun and Moon'
+  },
+  'pokemon-10-temporada-dp-diamante-e-perola-diamond-and-pearl': {
+    slug: 'pokemon-10-temporada-dp-diamante-e-perola-diamond-and-pearl',
+    id: '2054',
+    nome: 'Pokémon – 10° Temporada: DP: Diamante e Pérola (Diamond and Pearl)'
+  },
+  'pokemon-11-temporada-dp-battle-dimension-batalha-dimensional': {
+    slug: 'pokemon-11-temporada-dp-battle-dimension-batalha-dimensional',
+    id: '2055',
+    nome:
+        'Pokémon – 11° Temporada: DP: Battle Dimension (Batalha Dimensional)'
+  },
+  'pokemon-12-temporada-dp-galactic-battles-batalhas-galacticas': {
+    slug: 'pokemon-12-temporada-dp-galactic-battles-batalhas-galacticas',
+    id: '2056',
+    nome:
+        'Pokémon – 12° Temporada: DP: Galactic Battles (Batalhas Galácticas)'
+  },
+  'pokemon-13-temporada-dp-sinnoh-league-victors-vencedores-da-liga-sinnoh': {
+    slug:
+        'pokemon-13-temporada-dp-sinnoh-league-victors-vencedores-da-liga-sinnoh',
+    id: '2057',
+    nome:
+        'Pokémon – 13° Temporada: DP: Sinnoh League Victors (Vencedores da Liga Sinnoh'
+  },
+  'pokemon-1-temporada-liga-indigo': {
+    slug: 'pokemon-1-temporada-liga-indigo',
+    id: '2045',
+    nome: 'Pokémon – 1° Temporada: Liga Índigo'
+  },
+  'pokemon-2-temporada-liga-laranja': {
+    slug: 'pokemon-2-temporada-liga-laranja',
+    id: '2046',
+    nome: 'Pokémon – 2° Temporada: Liga Laranja'
+  },
+  'pokemon-3-temporada-liga-johto': {
+    slug: 'pokemon-3-temporada-liga-johto',
+    id: '2047',
+    nome: 'Pokémon – 3° Temporada: Liga Johto'
+  },
+  'pokemon-4-temporada-campeoes-da-liga-johto': {
+    slug: 'pokemon-4-temporada-campeoes-da-liga-johto',
+    id: '2048',
+    nome: 'Pokémon – 4° Temporada: Campeões da Liga Johto'
+  },
+  'pokemon-5-temporada-master-quest': {
+    slug: 'pokemon-5-temporada-master-quest',
+    id: '2049',
+    nome: 'Pokémon – 5° Temporada: Master Quest'
+  },
+  'pokemon-6-temporada-avancado-advanced': {
+    slug: 'pokemon-6-temporada-avancado-advanced',
+    id: '2050',
+    nome: 'Pokémon – 6° Temporada: Avançado (Advanced)'
+  },
+  'pokemon-7-temporada-desafio-avancado-advanced-challenge': {
+    slug: 'pokemon-7-temporada-desafio-avancado-advanced-challenge',
+    id: '2051',
+    nome: 'Pokémon – 7° Temporada: Desafio Avançado (Advanced Challenge)'
+  },
+  'pokemon-8-temporada-batalha-avancada-advanced-battle': {
+    slug: 'pokemon-8-temporada-batalha-avancada-advanced-battle',
+    id: '2052',
+    nome: 'Pokémon – 8° Temporada: Batalha Avançada (Advanced Battle)'
+  },
+  'pokemon-9-temporada-batalha-da-fronteira-battle-frontier': {
+    slug: 'pokemon-9-temporada-batalha-da-fronteira-battle-frontier',
+    id: '2053',
+    nome: 'Pokémon – 9° Temporada: Batalha da Fronteira (Battle Frontier)'
+  },
+  'pokemon-diamond-and-pearl': {
+    slug: 'pokemon-diamond-and-pearl',
+    id: '2043',
+    nome: 'Pokémon: Diamond & Pearl'
+  },
+  'pokemon-kimi-ni-kimeta': {
+    slug: 'pokemon-kimi-ni-kimeta',
+    id: '2312',
+    nome: 'Pokemon: Kimi ni Kimeta!'
+  },
+  'pokemon-liga-indigo': {
+    slug: 'pokemon-liga-indigo',
+    id: '2044',
+    nome: 'Pokémon: Liga Ìndigo'
+  },
+  'pokemon-liga-laranja': {
+    slug: 'pokemon-liga-laranja',
+    id: '2042',
+    nome: 'Pokémon: Liga Laranja'
+  },
+  'pokemon-the-origin': {
+    slug: 'pokemon-the-origin',
+    id: '2058',
+    nome: 'Pokémon: The Origin'
+  },
+  'pop-team-epic': {
+    slug: 'pop-team-epic',
+    id: '2353',
+    nome: 'Pop Team Epic'
+  },
+  'popolocrois-monogatari': {
+    slug: 'popolocrois-monogatari',
+    id: '1710',
+    nome: 'Popolocrois Monogatari'
+  },
+  'prince-of-stride-alternative': {
+    slug: 'prince-of-stride-alternative',
+    id: '1712',
+    nome: 'Prince of Stride: Alternative'
+  },
+  'princess-lover': {
+    slug: 'princess-lover',
+    id: '1713',
+    nome: 'Princess Lover!'
+  },
+  'princess-princess': {
+    slug: 'princess-princess',
+    id: '1714',
+    nome: 'Princess Princess'
+  },
+  'princess-principal': {
+    slug: 'princess-principal',
+    id: '1887',
+    nome: 'Princess Principal'
+  },
+  'prison-school-kangoku-gakuen': {
+    slug: 'prison-school-kangoku-gakuen',
+    id: '1715',
+    nome: 'Prison School (Kangoku Gakuen)'
+  },
+  'psycho-pass': {
+    slug: 'psycho-pass',
+    id: '1717',
+    nome: 'Psycho-Pass'
+  },
+  'psycho-pass-2': {
+    slug: 'psycho-pass-2',
+    id: '1718',
+    nome: 'Psycho-Pass 2'
+  },
+  'pumpkin-scissors': {
+    slug: 'pumpkin-scissors',
+    id: '1720',
+    nome: 'Pumpkin Scissors'
+  },
+  'puzzle-and-dragons-cross': {
+    slug: 'puzzle-and-dragons-cross',
+    id: '1723',
+    nome: 'Puzzle & Dragons Cross'
+  },
+  'qualidea-code': {
+    slug: 'qualidea-code',
+    id: '494',
+    nome: 'Qualidea Code'
+  },
+  'quan-zhi-gao-shou': {
+    slug: 'quan-zhi-gao-shou',
+    id: '1598',
+    nome: 'Quan Zhi Gao Shou'
+  },
+  'quanzhi-fashi': {
+    slug: 'quanzhi-fashi',
+    id: '1856',
+    nome: 'Quanzhi Fashi'
+  },
+  'quanzhi-fashi-2': {
+    slug: 'quanzhi-fashi-2',
+    id: '2314',
+    nome: 'Quanzhi Fashi 2'
+  },
+  'queen-s-blade-rebellion': {
+    slug: 'queen-s-blade-rebellion',
+    id: '1724',
+    nome: "Queen 's Blade: Rebellion"
+  },
+  'queens-blade': {
+    slug: 'queens-blade',
+    id: '495',
+    nome: 'Queens Blade'
+  },
+  'queens-blade-rebellion': {
+    slug: 'queens-blade-rebellion',
+    id: '496',
+    nome: 'Queens Blade: Rebellion'
+  },
+  'queen-s-blade-gyokuza-wo-tsugumono': {
+    slug: 'queen-s-blade-gyokuza-wo-tsugumono',
+    id: '2059',
+    nome: 'Queen’s Blade: Gyokuza wo Tsugumono'
+  },
+  'ragnarok-legendado': {
+    slug: 'ragnarok-legendado',
+    id: '469',
+    nome: 'Ragnarok Legendado'
+  },
+  'rainbow-nisha-rokubou-no-shichinin': {
+    slug: 'rainbow-nisha-rokubou-no-shichinin',
+    id: '1727',
+    nome: 'Rainbow: Nisha Rokubou no Shichinin'
+  },
+  'rakudai-kishi-no-cavalry': {
+    slug: 'rakudai-kishi-no-cavalry',
+    id: '471',
+    nome: 'Rakudai Kishi No Cavalry'
+  },
+  'rakugo-tennyo-oyui': {
+    slug: 'rakugo-tennyo-oyui',
+    id: '1728',
+    nome: 'Rakugo Tennyo Oyui'
+  },
+  'ramen-daisuki-koizumi-san': {
+    slug: 'ramen-daisuki-koizumi-san',
+    id: '2319',
+    nome: 'Ramen Daisuki Koizumi-san'
+  },
+  'ranpo-kitan-game-of-laplace': {
+    slug: 'ranpo-kitan-game-of-laplace',
+    id: '473',
+    nome: 'Ranpo Kitan: Game Of Laplace'
+  },
+  'rave-master-legendado': {
+    slug: 'rave-master-legendado',
+    id: '475',
+    nome: 'Rave Master Legendado'
+  },
+  'ray-the-animation': {
+    slug: 'ray-the-animation',
+    id: '1729',
+    nome: 'Ray: The Animation'
+  },
+  'rdg-red-data-girl': {
+    slug: 'rdg-red-data-girl',
+    id: '476',
+    nome: 'RDG: Red Data Girl'
+  },
+  're-creators': {
+    slug: 're-creators',
+    id: '1548',
+    nome: 'Re:Creators'
+  },
+  're-zero-kara-hajimeru-isekai-seikatsu': {
+    slug: 're-zero-kara-hajimeru-isekai-seikatsu',
+    id: '478',
+    nome: 'Re:Zero Kara Hajimeru Isekai Seikatsu'
+  },
+  'real-drive-sennou-chousashitsu': {
+    slug: 'real-drive-sennou-chousashitsu',
+    id: '1730',
+    nome: 'Real Drive: Sennou Chousashitsu'
+  },
+  'record-of-lodoss-war-chronicles-of-the-heroic-knight': {
+    slug: 'record-of-lodoss-war-chronicles-of-the-heroic-knight',
+    id: '2060',
+    nome: 'Record of Lodoss War: Chronicles of the Heroic Knight'
+  },
+  'recorder-to-randoseru': {
+    slug: 'recorder-to-randoseru',
+    id: '1732',
+    nome: 'Recorder to Randoseru'
+  },
+  'recorder-to-randoseru-mi': {
+    slug: 'recorder-to-randoseru-mi',
+    id: '1733',
+    nome: 'Recorder to Randoseru Mi'
+  },
+  'recorder-to-randoseru-re': {
+    slug: 'recorder-to-randoseru-re',
+    id: '1734',
+    nome: 'Recorder to Randoseru Re'
+  },
+  'regalia-the-three-sacred-stars': {
+    slug: 'regalia-the-three-sacred-stars',
+    id: '480',
+    nome: 'Regalia: The Three Sacred Stars'
+  },
+  'reikenzan-hoshikuzu-tachi-no-utage': {
+    slug: 'reikenzan-hoshikuzu-tachi-no-utage',
+    id: '819',
+    nome: 'Reikenzan: Hoshikuzu-tachi No Utage'
+  },
+  'reikenzan-hoshikuzu-tachi-no-utage-2': {
+    slug: 'reikenzan-hoshikuzu-tachi-no-utage-2',
+    id: '782',
+    nome: 'Reikenzan: Hoshikuzu-tachi No Utage 2'
+  },
+  'renai-boukun': {
+    slug: 'renai-boukun',
+    id: '1541',
+    nome: 'Renai Boukun'
+  },
+  'rental-magica': {
+    slug: 'rental-magica',
+    id: '482',
+    nome: 'Rental Magica'
+  },
+  'ring-ni-kakero-1-nichibei-kessen-hen': {
+    slug: 'ring-ni-kakero-1-nichibei-kessen-hen',
+    id: '1737',
+    nome: 'Ring ni Kakero 1: Nichibei Kessen Hen'
+  },
+  'rinne-no-lagrange': {
+    slug: 'rinne-no-lagrange',
+    id: '1738',
+    nome: 'Rinne no Lagrange'
+  },
+  'rinne-no-lagrange-season-2': {
+    slug: 'rinne-no-lagrange-season-2',
+    id: '484',
+    nome: 'Rinne No Lagrange Season 2'
+  },
+  'rio-rainbow-gate': {
+    slug: 'rio-rainbow-gate',
+    id: '1739',
+    nome: 'Rio: Rainbow Gate'
+  },
+  'ristorante-paradiso': {
+    slug: 'ristorante-paradiso',
+    id: '1740',
+    nome: 'Ristorante Paradiso'
+  },
+  'ro-kyu-bu-ss': {
+    slug: 'ro-kyu-bu-ss',
+    id: '485',
+    nome: 'Ro Kyu Bu! SS'
+  },
+  'robotics-notes': {
+    slug: 'robotics-notes',
+    id: '486',
+    nome: 'Robotics;Notes'
+  },
+  'rockman-exe-axess': {
+    slug: 'rockman-exe-axess',
+    id: '1743',
+    nome: 'Rockman.EXE Axess'
+  },
+  'rokka-no-yuusha': {
+    slug: 'rokka-no-yuusha',
+    id: '487',
+    nome: 'Rokka No Yuusha'
+  },
+  'rokudenashi-majutsu-koushi-to-akashic-records': {
+    slug: 'rokudenashi-majutsu-koushi-to-akashic-records',
+    id: '1600',
+    nome: 'Rokudenashi Majutsu Koushi to Akashic Records'
+  },
+  'rokuhoudou-yotsuiro-biyori': {
+    slug: 'rokuhoudou-yotsuiro-biyori',
+    id: '51350',
+    nome: 'Rokuhoudou Yotsuiro Biyori'
+  },
+  'rokujouma-no-shinryakusha': {
+    slug: 'rokujouma-no-shinryakusha',
+    id: '488',
+    nome: 'Rokujouma No Shinryakusha!?'
+  },
+  'romeo-juliet': {
+    slug: 'romeo-juliet',
+    id: '489',
+    nome: 'Romeo × Juliet'
+  },
+  'rosario-vampire': {
+    slug: 'rosario-vampire',
+    id: '490',
+    nome: 'Rosario + Vampire'
+  },
+  'rosario-vampire-capu2': {
+    slug: 'rosario-vampire-capu2',
+    id: '491',
+    nome: 'Rosario + Vampire Capu2'
+  },
+  'rozen-maiden': {
+    slug: 'rozen-maiden',
+    id: '2061',
+    nome: 'Rozen Maiden'
+  },
+  'rozen-maiden-traumend': {
+    slug: 'rozen-maiden-traumend',
+    id: '2062',
+    nome: 'Rozen Maiden: Träumend'
+  },
+  'rozen-maiden-zuruckspulen': {
+    slug: 'rozen-maiden-zuruckspulen',
+    id: '492',
+    nome: 'Rozen Maiden: Zuruckspulen'
+  },
+  'rwby-volume-5': {
+    slug: 'rwby-volume-5',
+    id: '2298',
+    nome: 'RWBY: Volume 5'
+  },
+  'ryusei-no-rockman': {
+    slug: 'ryusei-no-rockman',
+    id: '1744',
+    nome: 'Ryusei no Rockman'
+  },
+  'ryuugajou-nanana-no-maizoukin': {
+    slug: 'ryuugajou-nanana-no-maizoukin',
+    id: '493',
+    nome: 'Ryuugajou Nanana No Maizoukin'
+  },
+  'ryuuou-no-oshigoto': {
+    slug: 'ryuuou-no-oshigoto',
+    id: '2333',
+    nome: 'Ryuuou no Oshigoto!'
+  },
+  'ryuusei-no-rockman': {
+    slug: 'ryuusei-no-rockman',
+    id: '2063',
+    nome: 'Ryuusei no Rockman'
+  },
+  'sora-no-woto': {
+    slug: 'sora-no-woto',
+    id: '2158',
+    nome: 'Sora no Woto'
+  },
+  '3-gatsu-no-lion-2': {
+    slug: '3-gatsu-no-lion-2',
+    id: '2289',
+    nome: '3-gatsu no Lion 2'
+  },
+  'saber-marionette-j': {
+    slug: 'saber-marionette-j',
+    id: '421',
+    nome: 'Saber Marionette J'
+  },
+  'sacred-seven': {
+    slug: 'sacred-seven',
+    id: '422',
+    nome: 'Sacred Seven'
+  },
+  'saenai-heroine-no-sodatekata': {
+    slug: 'saenai-heroine-no-sodatekata',
+    id: '423',
+    nome: 'Saenai Heroine No Sodatekata'
+  },
+  'saenai-heroine-no-sodatekata-flat': {
+    slug: 'saenai-heroine-no-sodatekata-flat',
+    id: '1537',
+    nome: 'Saenai Heroine no Sodatekata Flat'
+  },
+  'sagrada-reset': {
+    slug: 'sagrada-reset',
+    id: '1535',
+    nome: 'Sagrada Reset'
+  },
+  'saijaku-muhai-no-bahamut': {
+    slug: 'saijaku-muhai-no-bahamut',
+    id: '1800',
+    nome: 'Saijaku Muhai no Bahamut'
+  },
+  'saikano-legendado': {
+    slug: 'saikano-legendado',
+    id: '425',
+    nome: 'Saikano Legendado'
+  },
+  'saiki-kusuo-no-psi-nan': {
+    slug: 'saiki-kusuo-no-psi-nan',
+    id: '426',
+    nome: 'Saiki Kusuo No Psi-nan'
+  },
+  'saikin-imouto-no-yousu-ga-chotto-okashiinda-ga': {
+    slug: 'saikin-imouto-no-yousu-ga-chotto-okashiinda-ga',
+    id: '427',
+    nome: 'Saikin, Imouto No Yousu Ga Chotto Okashiinda Ga'
+  },
+  'sailor-moon-super-s': {
+    slug: 'sailor-moon-super-s',
+    id: '2067',
+    nome: 'Sailor Moon Super S'
+  },
+  'sailor-moon-sailor-stars': {
+    slug: 'sailor-moon-sailor-stars',
+    id: '1801',
+    nome: 'Sailor Moon: Sailor Stars'
+  },
+  'saint-beast-seijuu-kourin-hen': {
+    slug: 'saint-beast-seijuu-kourin-hen',
+    id: '1802',
+    nome: 'Saint Beast: Seijuu Kourin Hen'
+  },
+  'saiunkoku-monogatari': {
+    slug: 'saiunkoku-monogatari',
+    id: '432',
+    nome: 'Saiunkoku Monogatari'
+  },
+  'saiunkoku-monogatari-2': {
+    slug: 'saiunkoku-monogatari-2',
+    id: '1808',
+    nome: 'Saiunkoku Monogatari 2'
+  },
+  'saiyuki-reload-blast': {
+    slug: 'saiyuki-reload-blast',
+    id: '1874',
+    nome: 'Saiyuki Reload Blast'
+  },
+  'saiyuki-reload-gunlock': {
+    slug: 'saiyuki-reload-gunlock',
+    id: '1809',
+    nome: 'Saiyuki Reload Gunlock'
+  },
+  'sakamichi-no-apollon': {
+    slug: 'sakamichi-no-apollon',
+    id: '1810',
+    nome: 'Sakamichi no Apollon'
+  },
+  'sakamoto-desu-ga': {
+    slug: 'sakamoto-desu-ga',
+    id: '433',
+    nome: 'Sakamoto Desu Ga?'
+  },
+  'saki-achiga-hen-episode-of-side-a': {
+    slug: 'saki-achiga-hen-episode-of-side-a',
+    id: '434',
+    nome: 'Saki Achiga Hen Episode Of Side A'
+  },
+  'saki-live-action': {
+    slug: 'saki-live-action',
+    id: '2214',
+    nome: 'Saki Live Action'
+  },
+  'saki-zenkoku-hen': {
+    slug: 'saki-zenkoku-hen',
+    id: '435',
+    nome: 'Saki: Zenkoku-hen'
+  },
+  'sakura-card-captors-clear-card-hen': {
+    slug: 'sakura-card-captors-clear-card-hen',
+    id: '2328',
+    nome: 'Sakura Card Captors: Clear Card-hen'
+  },
+  'sakura-diaries': {
+    slug: 'sakura-diaries',
+    id: '1812',
+    nome: 'Sakura Diaries'
+  },
+  'sakura-quest': {
+    slug: 'sakura-quest',
+    id: '1533',
+    nome: 'Sakura Quest'
+  },
+  'sakura-taisen': {
+    slug: 'sakura-taisen',
+    id: '437',
+    nome: 'Sakura Taisen'
+  },
+  'sakura-trick': {
+    slug: 'sakura-trick',
+    id: '438',
+    nome: 'Sakura Trick'
+  },
+  'sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru': {
+    slug: 'sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru',
+    id: '439',
+    nome: 'Sakurako-san No Ashimoto Ni Wa Shitai Ga Umatteiru'
+  },
+  'sakurasou-no-pet-na-kanojo': {
+    slug: 'sakurasou-no-pet-na-kanojo',
+    id: '440',
+    nome: 'Sakurasou No Pet Na Kanojo'
+  },
+  'samurai-champloo': {
+    slug: 'samurai-champloo',
+    id: '443',
+    nome: 'Samurai Champloo'
+  },
+  'samurai-deeper-kyo': {
+    slug: 'samurai-deeper-kyo',
+    id: '441',
+    nome: 'Samurai Deeper Kyo'
+  },
+  'samurai-flamenco': {
+    slug: 'samurai-flamenco',
+    id: '442',
+    nome: 'Samurai Flamenco'
+  },
+  'samurai-girl-real-bout-high-school': {
+    slug: 'samurai-girl-real-bout-high-school',
+    id: '1814',
+    nome: 'Samurai Girl Real Bout High School'
+  },
+  'samurai-x-legendado': {
+    slug: 'samurai-x-legendado',
+    id: '445',
+    nome: 'Samurai X Legendado'
+  },
+  'sanrio-danshi': {
+    slug: 'sanrio-danshi',
+    id: '2326',
+    nome: 'Sanrio Danshi'
+  },
+  'sansha-sanyou': {
+    slug: 'sansha-sanyou',
+    id: '447',
+    nome: 'Sansha Sanyou'
+  },
+  'sanzoku-no-musume-ronja': {
+    slug: 'sanzoku-no-musume-ronja',
+    id: '448',
+    nome: 'Sanzoku No Musume Ronja'
+  },
+  'sarai-ya-goyou': {
+    slug: 'sarai-ya-goyou',
+    id: '1815',
+    nome: 'Sarai-ya Goyou'
+  },
+  'saredo-tsumibito-wa-ryuu-para-odoru': {
+    slug: 'saredo-tsumibito-wa-ryuu-para-odoru',
+    id: '51324',
+    nome: 'Saredo Tsumibito wa Ryuu para Odoru'
+  },
+  'sasameki-koto': {
+    slug: 'sasameki-koto',
+    id: '1816',
+    nome: 'Sasameki Koto'
+  },
+  'sasami-san-ganbaranai': {
+    slug: 'sasami-san-ganbaranai',
+    id: '449',
+    nome: 'Sasami-san Ganbaranai'
+  },
+  'email-protected': {
+    slug: 'email-protected',
+    id: '1817',
+    nome: '[email protected]'
+  },
+  'sasami-mahou-shoujo-club': {
+    slug: 'sasami-mahou-shoujo-club',
+    id: '1818',
+    nome: 'Sasami: Mahou Shoujo Club'
+  },
+  'scared-rider-xechs': {
+    slug: 'scared-rider-xechs',
+    id: '450',
+    nome: 'Scared Rider Xechs'
+  },
+  'school-rumble': {
+    slug: 'school-rumble',
+    id: '1819',
+    nome: 'School Rumble'
+  },
+  'school-rumble-ni-gakki': {
+    slug: 'school-rumble-ni-gakki',
+    id: '1820',
+    nome: 'School Rumble Ni Gakki'
+  },
+  'school-girl-strikers': {
+    slug: 'school-girl-strikers',
+    id: '792',
+    nome: 'SchoolGirl Strikers'
+  },
+  'schoolgirl-strikers-animation-channel': {
+    slug: 'schoolgirl-strikers-animation-channel',
+    id: '1821',
+    nome: 'Schoolgirl Strikers: Animation Channel'
+  },
+  schwarzesmarken: {
+    slug: 'schwarzesmarken',
+    id: '452',
+    nome: 'Schwarzesmarken'
+  },
+  'scrapped-princess': {
+    slug: 'scrapped-princess',
+    id: '1822',
+    nome: 'Scrapped Princess'
+  },
+  'seikaisuru-kado': {
+    slug: 'seikaisuru-kado',
+    id: '1542',
+    nome: 'Seikaisuru Kado'
+  },
+  'seiken-no-blacksmith': {
+    slug: 'seiken-no-blacksmith',
+    id: '453',
+    nome: 'Seiken No Blacksmith'
+  },
+  'seiken-tsukai-no-world-break': {
+    slug: 'seiken-tsukai-no-world-break',
+    id: '454',
+    nome: 'Seiken Tsukai No World Break'
+  },
+  'seikimatsu-occult-gakuin': {
+    slug: 'seikimatsu-occult-gakuin',
+    id: '1824',
+    nome: 'Seikimatsu Occult Gakuin'
+  },
+  'seikoku-no-dragonar': {
+    slug: 'seikoku-no-dragonar',
+    id: '455',
+    nome: 'Seikoku No Dragonar'
+  },
+  'seikon-no-qwaser': {
+    slug: 'seikon-no-qwaser',
+    id: '456',
+    nome: 'Seikon No Qwaser'
+  },
+  'seikon-no-qwaser-ii': {
+    slug: 'seikon-no-qwaser-ii',
+    id: '457',
+    nome: 'Seikon No Qwaser II'
+  },
+  'seirei-no-moribito': {
+    slug: 'seirei-no-moribito',
+    id: '1825',
+    nome: 'Seirei no Moribito'
+  },
+  'seirei-tsukai-no-blade-dance': {
+    slug: 'seirei-tsukai-no-blade-dance',
+    id: '1826',
+    nome: 'Seirei Tsukai no Blade Dance'
+  },
+  'seisen-cerberus-ryuukoku-no-fatalites': {
+    slug: 'seisen-cerberus-ryuukoku-no-fatalites',
+    id: '458',
+    nome: 'Seisen Cerberus: Ryuukoku No Fatalités'
+  },
+  'seitokai-yakuindomo': {
+    slug: 'seitokai-yakuindomo',
+    id: '459',
+    nome: 'Seitokai Yakuindomo'
+  },
+  'seitokai-yakuindomo-2': {
+    slug: 'seitokai-yakuindomo-2',
+    id: '460',
+    nome: 'Seitokai Yakuindomo 2'
+  },
+  'sekai-de-ichiban-tsuyoku-naritai': {
+    slug: 'sekai-de-ichiban-tsuyoku-naritai',
+    id: '462',
+    nome: 'Sekai De Ichiban Tsuyoku Naritai'
+  },
+  'sekai-no-yami-zukan': {
+    slug: 'sekai-no-yami-zukan',
+    id: '1592',
+    nome: 'Sekai No Yami Zukan'
+  },
+  'sekai-seifuku-bouryaku-no-zvezda': {
+    slug: 'sekai-seifuku-bouryaku-no-zvezda',
+    id: '463',
+    nome: 'Sekai Seifuku: Bouryaku No Zvezda'
+  },
+  'sekai-ichi-hatsukoi': {
+    slug: 'sekai-ichi-hatsukoi',
+    id: '464',
+    nome: 'Sekai-ichi Hatsukoi'
+  },
+  'sekai-ichi-hatsukoi-2': {
+    slug: 'sekai-ichi-hatsukoi-2',
+    id: '1828',
+    nome: 'Sekai-ichi Hatsukoi 2'
+  },
+  'sekirei-pure-engagement': {
+    slug: 'sekirei-pure-engagement',
+    id: '466',
+    nome: 'Sekirei Pure Engagement'
+  },
+  'selector-infected-wixoss': {
+    slug: 'selector-infected-wixoss',
+    id: '2070',
+    nome: 'Selector Infected WIXOSS'
+  },
+  'sengoku-basara': {
+    slug: 'sengoku-basara',
+    id: '2071',
+    nome: 'Sengoku Basara'
+  },
+  'sengoku-basara-judge-end': {
+    slug: 'sengoku-basara-judge-end',
+    id: '2072',
+    nome: 'Sengoku Basara: Judge End'
+  },
+  'sengoku-choujuu-giga': {
+    slug: 'sengoku-choujuu-giga',
+    id: '820',
+    nome: 'Sengoku Choujuu Giga'
+  },
+  'sengoku-musou': {
+    slug: 'sengoku-musou',
+    id: '2073',
+    nome: 'Sengoku Musou'
+  },
+  'sengoku-night-blood': {
+    slug: 'sengoku-night-blood',
+    id: '1491',
+    nome: 'Sengoku Night Blood'
+  },
+  'sengoku-otome-momoiro-paradox': {
+    slug: 'sengoku-otome-momoiro-paradox',
+    id: '2074',
+    nome: 'Sengoku Otome: Momoiro Paradox'
+  },
+  'senhime-zesshou-symphogear-g': {
+    slug: 'senhime-zesshou-symphogear-g',
+    id: '2076',
+    nome: 'Senhime Zesshou Symphogear G'
+  },
+  'senjou-no-valkyria-gallian-chronicles': {
+    slug: 'senjou-no-valkyria-gallian-chronicles',
+    id: '2078',
+    nome: 'Senjou no Valkyria: Gallian Chronicles'
+  },
+  'senki-zesshou-symphogear': {
+    slug: 'senki-zesshou-symphogear',
+    id: '2075',
+    nome: 'Senki Zesshou Symphogear'
+  },
+  'senki-zesshou-symphogear-axz': {
+    slug: 'senki-zesshou-symphogear-axz',
+    id: '1869',
+    nome: 'Senki Zesshou Symphogear AXZ'
+  },
+  'senki-zesshou-symphogear-gx': {
+    slug: 'senki-zesshou-symphogear-gx',
+    id: '2077',
+    nome: 'Senki Zesshou Symphogear GX'
+  },
+  'senkou-no-night-raid': {
+    slug: 'senkou-no-night-raid',
+    id: '2079',
+    nome: 'Senkou no Night Raid'
+  },
+  'senran-kagura': {
+    slug: 'senran-kagura',
+    id: '2080',
+    nome: 'Senran Kagura'
+  },
+  'seraphim-call': {
+    slug: 'seraphim-call',
+    id: '2082',
+    nome: 'Seraphim Call'
+  },
+  'serial-experiments-lain': {
+    slug: 'serial-experiments-lain',
+    id: '2083',
+    nome: 'Serial Experiments Lain'
+  },
+  'servant-x-service': {
+    slug: 'servant-x-service',
+    id: '2085',
+    nome: 'Servant x Service'
+  },
+  'seto-no-hanayome': {
+    slug: 'seto-no-hanayome',
+    id: '2086',
+    nome: 'Seto no Hanayome'
+  },
+  'shakugan-no-shana': {
+    slug: 'shakugan-no-shana',
+    id: '2087',
+    nome: 'Shakugan no Shana'
+  },
+  'shakugan-no-shana-ii-second': {
+    slug: 'shakugan-no-shana-ii-second',
+    id: '2088',
+    nome: 'Shakugan no Shana II Second'
+  },
+  'shakugan-no-shana-iii': {
+    slug: 'shakugan-no-shana-iii',
+    id: '2089',
+    nome: 'Shakugan no Shana III'
+  },
+  'shakunetsu-no-takkyuu-musume': {
+    slug: 'shakunetsu-no-takkyuu-musume',
+    id: '2090',
+    nome: 'Shakunetsu no Takkyuu Musume'
+  },
+  'shaman-king': {
+    slug: 'shaman-king',
+    id: '2091',
+    nome: 'Shaman King'
+  },
+  'shigatsu-wa-kimi-no-uso': {
+    slug: 'shigatsu-wa-kimi-no-uso',
+    id: '2064',
+    nome: 'Shigatsu wa Kimi no Uso'
+  },
+  'shijou-saikyou-no-deshi-kenichi': {
+    slug: 'shijou-saikyou-no-deshi-kenichi',
+    id: '2095',
+    nome: 'Shijou Saikyou no Deshi Kenichi'
+  },
+  'shikabane-hime-aka': {
+    slug: 'shikabane-hime-aka',
+    id: '2096',
+    nome: 'Shikabane Hime: Aka'
+  },
+  'shikabane-hime-kuro': {
+    slug: 'shikabane-hime-kuro',
+    id: '2097',
+    nome: 'Shikabane Hime: Kuro'
+  },
+  'shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai': {
+    slug: 'shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai',
+    id: '2099',
+    nome: 'Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai'
+  },
+  'shin-koihime-musou': {
+    slug: 'shin-koihime-musou',
+    id: '2100',
+    nome: 'Shin Koihime†Musou'
+  },
+  'shingeki-no-bahamut-genesis': {
+    slug: 'shingeki-no-bahamut-genesis',
+    id: '2101',
+    nome: 'Shingeki no Bahamut: Genesis'
+  },
+  'shingeki-no-bahamut-virgin-soul': {
+    slug: 'shingeki-no-bahamut-virgin-soul',
+    id: '1550',
+    nome: 'Shingeki no Bahamut: Virgin Soul'
+  },
+  'shingeki-no-kyojin': {
+    slug: 'shingeki-no-kyojin',
+    id: '159100',
+    nome: 'Shingeki no Kyojin'
+  },
+  'shingeki-no-kyojin-2': {
+    slug: 'shingeki-no-kyojin-2',
+    id: '5007',
+    nome: 'Shingeki no Kyojin 2'
+  },
+  'shingeki-kyojin-chuugakkou': {
+    slug: 'shingeki-kyojin-chuugakkou',
+    id: '5005',
+    nome: 'Shingeki! Kyojin Chuugakkou'
+  },
+  'shingetsutan-tsukihime': {
+    slug: 'shingetsutan-tsukihime',
+    id: '2104',
+    nome: 'Shingetsutan Tsukihime'
+  },
+  'shinigami-no-ballad': {
+    slug: 'shinigami-no-ballad',
+    id: '2105',
+    nome: 'Shinigami no Ballad'
+  },
+  'shining-tears-x-wind': {
+    slug: 'shining-tears-x-wind',
+    id: '2106',
+    nome: 'Shining Tears X Wind'
+  },
+  'shinkyoku-soukai-polyphonica': {
+    slug: 'shinkyoku-soukai-polyphonica',
+    id: '2107',
+    nome: 'Shinkyoku Soukai Polyphonica'
+  },
+  'shinkyoku-soukai-polyphonica-crimson-s': {
+    slug: 'shinkyoku-soukai-polyphonica-crimson-s',
+    id: '2108',
+    nome: 'Shinkyoku Soukai Polyphonica Crimson S'
+  },
+  'shinmai-maou-no-testament': {
+    slug: 'shinmai-maou-no-testament',
+    id: '2109',
+    nome: 'Shinmai Maou no Testament'
+  },
+  'shinmai-maou-no-testament-burst': {
+    slug: 'shinmai-maou-no-testament-burst',
+    id: '2110',
+    nome: 'Shinmai Maou no Testament Burst'
+  },
+  'shinrei-tantei-yakumo': {
+    slug: 'shinrei-tantei-yakumo',
+    id: '2111',
+    nome: 'Shinrei Tantei Yakumo'
+  },
+  'shinryaku-ika-musume-2': {
+    slug: 'shinryaku-ika-musume-2',
+    id: '2112',
+    nome: 'Shinryaku? Ika Musume 2'
+  },
+  'shinsekai-yori': {
+    slug: 'shinsekai-yori',
+    id: '2113',
+    nome: 'Shinsekai Yori'
+  },
+  'shion-no-ou': {
+    slug: 'shion-no-ou',
+    id: '2114',
+    nome: 'Shion no Ou'
+  },
+  'shirogane-no-ishi-argevollen': {
+    slug: 'shirogane-no-ishi-argevollen',
+    id: '2116',
+    nome: 'Shirogane no Ishi: Argevollen'
+  },
+  'shiyan-pin-jiating': {
+    slug: 'shiyan-pin-jiating',
+    id: '51348',
+    nome: 'Shiyan Pin Jiating'
+  },
+  'shokugeki-no-souma-food-wars': {
+    slug: 'shokugeki-no-souma-food-wars',
+    id: '2117',
+    nome: 'Shokugeki no Souma (FoodWars)'
+  },
+  'shokugeki-no-souma-3': {
+    slug: 'shokugeki-no-souma-3',
+    id: '1571',
+    nome: 'Shokugeki no Souma 3'
+  },
+  'shokugeki-no-souma-4': {
+    slug: 'shokugeki-no-souma-4',
+    id: '51367',
+    nome: 'Shokugeki No Souma 4'
+  },
+  'shokugeki-no-souma-ni-no-sara': {
+    slug: 'shokugeki-no-souma-ni-no-sara',
+    id: '2118',
+    nome: 'Shokugeki no Souma – Ni no Sara'
+  },
+  'shokugeki-no-souma-san-no-sara-toutsuki-hessha-hen': {
+    slug: 'shokugeki-no-souma-san-no-sara-toutsuki-hessha-hen',
+    id: '51311',
+    nome: 'Shokugeki no Souma: San no Sara – Toutsuki Hessha-hen'
+  },
+  'shoujo-shuumatsu-ryokou': {
+    slug: 'shoujo-shuumatsu-ryokou',
+    id: '2269',
+    nome: 'Shoujo Shuumatsu Ryokou'
+  },
+  'shoujo-tachi-wa-kouya-wo-mezasu': {
+    slug: 'shoujo-tachi-wa-kouya-wo-mezasu',
+    id: '2119',
+    nome: 'Shoujo-tachi wa Kouya wo Mezasu'
+  },
+  'shoukoku-no-altair': {
+    slug: 'shoukoku-no-altair',
+    id: '1882',
+    nome: 'Shoukoku no Altair'
+  },
+  'shounen-maid': {
+    slug: 'shounen-maid',
+    id: '2120',
+    nome: 'Shounen Maid'
+  },
+  'shounen-onmyouji': {
+    slug: 'shounen-onmyouji',
+    id: '2121',
+    nome: 'Shounen Onmyouji'
+  },
+  'shouwa-genroku-rakugo-shinjuu': {
+    slug: 'shouwa-genroku-rakugo-shinjuu',
+    id: '821',
+    nome: 'Shouwa Genroku Rakugo Shinjuu'
+  },
+  'shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen': {
+    slug: 'shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen',
+    id: '784',
+    nome: 'Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen'
+  },
+  'show-by-rock': {
+    slug: 'show-by-rock',
+    id: '2122',
+    nome: 'Show By Rock!!'
+  },
+  'show-by-rock-2': {
+    slug: 'show-by-rock-2',
+    id: '2125',
+    nome: 'Show By Rock!! 2'
+  },
+  'shuffle-memories': {
+    slug: 'shuffle-memories',
+    id: '2127',
+    nome: 'Shuffle! Memories'
+  },
+  'shugo-chara': {
+    slug: 'shugo-chara',
+    id: '2128',
+    nome: 'Shugo Chara!'
+  },
+  'shugo-chara-doki': {
+    slug: 'shugo-chara-doki',
+    id: '2129',
+    nome: 'Shugo Chara!! Doki'
+  },
+  'shugo-chara-dokki-doki': {
+    slug: 'shugo-chara-dokki-doki',
+    id: '2130',
+    nome: 'Shugo Chara!!! Dokki Doki'
+  },
+  'shuumatsu-nani-shitemasu-ka': {
+    slug: 'shuumatsu-nani-shitemasu-ka',
+    id: '1602',
+    nome: 'Shuumatsu Nani Shitemasu ka?'
+  },
+  'shuumatsu-no-izetta': {
+    slug: 'shuumatsu-no-izetta',
+    id: '2132',
+    nome: 'Shuumatsu no Izetta'
+  },
+  'sidonia-no-kishi': {
+    slug: 'sidonia-no-kishi',
+    id: '2134',
+    nome: 'Sidonia no Kishi'
+  },
+  'sidonia-no-kishi-daikyuu-wakusei-seneki': {
+    slug: 'sidonia-no-kishi-daikyuu-wakusei-seneki',
+    id: '2135',
+    nome: 'Sidonia no Kishi: Daikyuu Wakusei Seneki'
+  },
+  'silent-mobius': {
+    slug: 'silent-mobius',
+    id: '2136',
+    nome: 'Silent Mobius'
+  },
+  'sin-nanatsu-no-taizai': {
+    slug: 'sin-nanatsu-no-taizai',
+    id: '1630',
+    nome: 'Sin: Nanatsu no Taizai'
+  },
+  'sister-princess': {
+    slug: 'sister-princess',
+    id: '2137',
+    nome: 'Sister Princess'
+  },
+  'sister-princess-re-pure': {
+    slug: 'sister-princess-re-pure',
+    id: '2138',
+    nome: 'Sister Princess: Re Pure'
+  },
+  'slayers-evolution-r': {
+    slug: 'slayers-evolution-r',
+    id: '2145',
+    nome: 'Slayers Evolution-R'
+  },
+  'slayers-next': {
+    slug: 'slayers-next',
+    id: '2146',
+    nome: 'Slayers Next'
+  },
+  'slayers-revolution': {
+    slug: 'slayers-revolution',
+    id: '2147',
+    nome: 'Slayers Revolution'
+  },
+  'slayers-try': {
+    slug: 'slayers-try',
+    id: '2148',
+    nome: 'Slayers Try'
+  },
+  'smile-precure': {
+    slug: 'smile-precure',
+    id: '2149',
+    nome: 'Smile Precure!'
+  },
+  'sora-no-manimani': {
+    slug: 'sora-no-manimani',
+    id: '2154',
+    nome: 'Sora no Manimani'
+  },
+  'sora-no-method': {
+    slug: 'sora-no-method',
+    id: '2155',
+    nome: 'Sora no Method'
+  },
+  'sora-no-otoshimono': {
+    slug: 'sora-no-otoshimono',
+    id: '2156',
+    nome: 'Sora no Otoshimono'
+  },
+  'sora-no-otoshimono-forte': {
+    slug: 'sora-no-otoshimono-forte',
+    id: '2157',
+    nome: 'Sora no Otoshimono: Forte'
+  },
+  'sora-yori-mo-tooi-basho': {
+    slug: 'sora-yori-mo-tooi-basho',
+    id: '2318',
+    nome: 'Sora yori mo Tooi Basho'
+  },
+  'sorcerous-stabber-orphen': {
+    slug: 'sorcerous-stabber-orphen',
+    id: '2159',
+    nome: 'Sorcerous Stabber Orphen'
+  },
+  'sore-ga-seiyuu': {
+    slug: 'sore-ga-seiyuu',
+    id: '2160',
+    nome: 'Sore ga Seiyuu!'
+  },
+  'soredemo-machi-wa-mawatteiru': {
+    slug: 'soredemo-machi-wa-mawatteiru',
+    id: '2161',
+    nome: 'Soredemo Machi wa Mawatteiru'
+  },
+  'soredemo-sekai-wa-utsukushii': {
+    slug: 'soredemo-sekai-wa-utsukushii',
+    id: '2162',
+    nome: 'Soredemo Sekai wa Utsukushii'
+  },
+  'soukou-no-strain': {
+    slug: 'soukou-no-strain',
+    id: '2163',
+    nome: 'Soukou no Strain'
+  },
+  'soukyuu-no-fafner-dead-aggressor': {
+    slug: 'soukyuu-no-fafner-dead-aggressor',
+    id: '2164',
+    nome: 'Soukyuu no Fafner: Dead Aggressor'
+  },
+  'soukyuu-no-fafner-dead-aggressor-exodus': {
+    slug: 'soukyuu-no-fafner-dead-aggressor-exodus',
+    id: '2165',
+    nome: 'Soukyuu no Fafner: Dead Aggressor – Exodus'
+  },
+  'soukyuu-no-fafner-dead-aggressor-exodus-2': {
+    slug: 'soukyuu-no-fafner-dead-aggressor-exodus-2',
+    id: '2166',
+    nome: 'Soukyuu no Fafner: Dead Aggressor – Exodus 2'
+  },
+  'soul-buster': {
+    slug: 'soul-buster',
+    id: '2168',
+    nome: 'Soul Buster'
+  },
+  'soul-eater-not': {
+    slug: 'soul-eater-not',
+    id: '2169',
+    nome: 'Soul Eater Not!'
+  },
+  'souryo-to-majiwaru-shikiyoku-no-yoru-ni': {
+    slug: 'souryo-to-majiwaru-shikiyoku-no-yoru-ni',
+    id: '1538',
+    nome: 'Souryo to Majiwaru Shikiyoku no Yoru ni'
+  },
+  'sousei-no-aquarion': {
+    slug: 'sousei-no-aquarion',
+    id: '2172',
+    nome: 'Sousei no Aquarion'
+  },
+  'sousei-no-onmyouji': {
+    slug: 'sousei-no-onmyouji',
+    id: '813',
+    nome: 'Sousei No Onmyouji'
+  },
+  'soushin-shoujo-matoi': {
+    slug: 'soushin-shoujo-matoi',
+    id: '2173',
+    nome: 'Soushin Shoujo Matoi'
+  },
+  'souten-no-ken': {
+    slug: 'souten-no-ken',
+    id: '2174',
+    nome: 'Souten no Ken'
+  },
+  'souten-no-ken-re-genesis': {
+    slug: 'souten-no-ken-re-genesis',
+    id: '51330',
+    nome: 'Souten no Ken Re:Genesis'
+  },
+  'space-dandy': {
+    slug: 'space-dandy',
+    id: '2175',
+    nome: 'Space Dandy'
+  },
+  'space-dandy-2': {
+    slug: 'space-dandy-2',
+    id: '2176',
+    nome: 'Space Dandy 2'
+  },
+  'speed-grapher': {
+    slug: 'speed-grapher',
+    id: '2178',
+    nome: 'Speed Grapher'
+  },
+  'spice-and-wolf': {
+    slug: 'spice-and-wolf',
+    id: '2179',
+    nome: 'Spice and Wolf'
+  },
+  'spice-and-wolf-2': {
+    slug: 'spice-and-wolf-2',
+    id: '2180',
+    nome: 'Spice and Wolf 2'
+  },
+  'spiral-suiri-no-kizuna': {
+    slug: 'spiral-suiri-no-kizuna',
+    id: '2181',
+    nome: 'Spiral: Suiri no Kizuna'
+  },
+  'spiritpact-bond-of-the-underworld': {
+    slug: 'spiritpact-bond-of-the-underworld',
+    id: '51306',
+    nome: 'Spiritpact: Bond Of The Underworld'
+  },
+  'star-driver-kagayaki-no-takuto': {
+    slug: 'star-driver-kagayaki-no-takuto',
+    id: '2182',
+    nome: 'Star Driver: Kagayaki no Takuto'
+  },
+  'star-ocean-ex': {
+    slug: 'star-ocean-ex',
+    id: '2183',
+    nome: 'Star Ocean EX'
+  },
+  'steel-angel-kurumi': {
+    slug: 'steel-angel-kurumi',
+    id: '2185',
+    nome: 'Steel Angel Kurumi'
+  },
+  'steel-angel-kurumi-2': {
+    slug: 'steel-angel-kurumi-2',
+    id: '2186',
+    nome: 'Steel Angel Kurumi 2'
+  },
+  'steins-gate': {
+    slug: 'steins-gate',
+    id: '2187',
+    nome: 'Steins;Gate'
+  },
+  'steins-gate-0': {
+    slug: 'steins-gate-0',
+    id: '51345',
+    nome: 'Steins;Gate 0 '
+  },
+  'stella-jogakuin-koutouka-c3-bu': {
+    slug: 'stella-jogakuin-koutouka-c3-bu',
+    id: '2188',
+    nome: 'Stella Jogakuin Koutouka C3-bu'
+  },
+  'stella-no-mahou': {
+    slug: 'stella-no-mahou',
+    id: '1857',
+    nome: 'Stella No Mahou'
+  },
+  'strawberry-panic': {
+    slug: 'strawberry-panic',
+    id: '2191',
+    nome: 'Strawberry Panic'
+  },
+  'street-fighter-ii-victory': {
+    slug: 'street-fighter-ii-victory',
+    id: '2192',
+    nome: 'Street Fighter II Victory'
+  },
+  'strike-the-blood': {
+    slug: 'strike-the-blood',
+    id: '2193',
+    nome: 'Strike the Blood'
+  },
+  'strike-witches': {
+    slug: 'strike-witches',
+    id: '2194',
+    nome: 'Strike Witches'
+  },
+  'strike-witches-2': {
+    slug: 'strike-witches-2',
+    id: '2195',
+    nome: 'Strike Witches 2'
+  },
+  'subete-ga-f-ni-naru-the-perfect-insider': {
+    slug: 'subete-ga-f-ni-naru-the-perfect-insider',
+    id: '2196',
+    nome: 'Subete Ga F Ni Naru: The Perfect Insider'
+  },
+  'suisei-no-gargantia': {
+    slug: 'suisei-no-gargantia',
+    id: '2197',
+    nome: 'Suisei no Gargantia'
+  },
+  'suite-precure': {
+    slug: 'suite-precure',
+    id: '2198',
+    nome: 'Suite Precure'
+  },
+  'suki-tte-ii-na-yo': {
+    slug: 'suki-tte-ii-na-yo',
+    id: '2199',
+    nome: 'Suki-tte Ii na yo'
+  },
+  'sumomomo-momomo': {
+    slug: 'sumomomo-momomo',
+    id: '2200',
+    nome: 'Sumomomo Momomo'
+  },
+  'super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaimono': {
+    slug: 'super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaimono',
+    id: '1501',
+    nome: 'Super Danganronpa 2.5: Komaeda Nagito To Sekai No Hakaimono'
+  },
+  'super-lovers': {
+    slug: 'super-lovers',
+    id: '2201',
+    nome: 'Super Lovers'
+  },
+  'super-lovers-2': {
+    slug: 'super-lovers-2',
+    id: '767',
+    nome: 'Super Lovers 2'
+  },
+  'super-robot-taisen-og-divine-wars': {
+    slug: 'super-robot-taisen-og-divine-wars',
+    id: '2202',
+    nome: 'Super Robot Taisen OG: Divine Wars'
+  },
+  'super-robot-taisen-og-the-inspector': {
+    slug: 'super-robot-taisen-og-the-inspector',
+    id: '2203',
+    nome: 'Super Robot Taisen OG: The Inspector'
+  },
+  'super-seishun-brothers': {
+    slug: 'super-seishun-brothers',
+    id: '2204',
+    nome: 'Super Seishun Brothers'
+  },
+  'super-sonico-the-animation': {
+    slug: 'super-sonico-the-animation',
+    id: '2205',
+    nome: 'Super Sonico: The Animation'
+  },
+  'supernatural-the-animation': {
+    slug: 'supernatural-the-animation',
+    id: '2207',
+    nome: 'Supernatural: The Animation'
+  },
+  'sushi-police': {
+    slug: 'sushi-police',
+    id: '2206',
+    nome: 'Sushi Police'
+  },
+  'suzakinishi-the-animation': {
+    slug: 'suzakinishi-the-animation',
+    id: '2208',
+    nome: 'Suzakinishi: The Animation'
+  },
+  'suzumiya-haruhi-no-yuuutsu-2009': {
+    slug: 'suzumiya-haruhi-no-yuuutsu-2009',
+    id: '2210',
+    nome: 'Suzumiya Haruhi no Yuuutsu(2009)'
+  },
+  'sword-art-online': {
+    slug: 'sword-art-online',
+    id: '2211',
+    nome: 'Sword Art online'
+  },
+  'sword-art-online-2': {
+    slug: 'sword-art-online-2',
+    id: '5001',
+    nome: 'Sword Art Online 2'
+  },
+  'sword-art-online-alternative-gun-gale': {
+    slug: 'sword-art-online-alternative-gun-gale',
+    id: '5002',
+    nome: 'Sword Art Online Alternative: Gun Gale'
+  },
+  'tabimachi-lateshow': {
+    slug: 'tabimachi-lateshow',
+    id: '362',
+    nome: 'Tabimachi Lateshow'
+  },
+  'taboo-tattoo': {
+    slug: 'taboo-tattoo',
+    id: '363',
+    nome: 'Taboo Tattoo'
+  },
+  'tachibanakan-triangle': {
+    slug: 'tachibanakan-triangle',
+    id: '51362',
+    nome: 'Tachibanakan Triangle'
+  },
+  'tactical-roar': {
+    slug: 'tactical-roar',
+    id: '2215',
+    nome: 'Tactical Roar'
+  },
+  'tada-kun-wa-koi-wo-shinai': {
+    slug: 'tada-kun-wa-koi-wo-shinai',
+    id: '51332',
+    nome: 'Tada-kun wa Koi wo Shinai'
+  },
+  'taimadou-gakuen-35-shiken-shoutai': {
+    slug: 'taimadou-gakuen-35-shiken-shoutai',
+    id: '365',
+    nome: 'Taimadou Gakuen 35 Shiken Shoutai'
+  },
+  'taishou-chicchai-san': {
+    slug: 'taishou-chicchai-san',
+    id: '2266',
+    nome: 'Taishou Chicchai-san'
+  },
+  'taishou-yakyuu-musume': {
+    slug: 'taishou-yakyuu-musume',
+    id: '2217',
+    nome: 'Taishou Yakyuu Musume'
+  },
+  'takamiya-nasuno-desu': {
+    slug: 'takamiya-nasuno-desu',
+    id: '364',
+    nome: 'Takamiya Nasuno Desu!'
+  },
+  'tales-of-abyss': {
+    slug: 'tales-of-abyss',
+    id: '366',
+    nome: 'Tales Of Abyss'
+  },
+  'tales-of-eternia': {
+    slug: 'tales-of-eternia',
+    id: '2228',
+    nome: 'Tales of Eternia'
+  },
+  'tales-of-gods-and-demons': {
+    slug: 'tales-of-gods-and-demons',
+    id: '1832',
+    nome: 'Tales Of Gods And Demons'
+  },
+  'tales-of-zestiria-the-x': {
+    slug: 'tales-of-zestiria-the-x',
+    id: '367',
+    nome: 'Tales Of Zestiria The X'
+  },
+  'tamako-market': {
+    slug: 'tamako-market',
+    id: '368',
+    nome: 'Tamako Market'
+  },
+  'tamayura-hitotose': {
+    slug: 'tamayura-hitotose',
+    id: '2229',
+    nome: 'Tamayura: Hitotose'
+  },
+  'tamayura-more-aggressive': {
+    slug: 'tamayura-more-aggressive',
+    id: '369',
+    nome: 'Tamayura: More Aggressive'
+  },
+  'tanaka-kun-wa-itsumo-kedaruge': {
+    slug: 'tanaka-kun-wa-itsumo-kedaruge',
+    id: '370',
+    nome: 'Tanaka-kun Wa Itsumo Kedaruge'
+  },
+  'tantei-gakuen-q': {
+    slug: 'tantei-gakuen-q',
+    id: '2230',
+    nome: 'Tantei Gakuen Q'
+  },
+  'tantei-kageki-milky-holmes-td': {
+    slug: 'tantei-kageki-milky-holmes-td',
+    id: '372',
+    nome: 'Tantei Kageki Milky Holmes TD'
+  },
+  'tantei-opera-milky-holmes-dai-2-maku': {
+    slug: 'tantei-opera-milky-holmes-dai-2-maku',
+    id: '371',
+    nome: 'Tantei Opera Milky Holmes Dai 2 Maku'
+  },
+  'tantei-team-kz-jiken-note': {
+    slug: 'tantei-team-kz-jiken-note',
+    id: '373',
+    nome: 'Tantei Team KZ Jiken Note'
+  },
+  'tasogare-otome-x-amnesia': {
+    slug: 'tasogare-otome-x-amnesia',
+    id: '375',
+    nome: 'Tasogare Otome X Amnesia'
+  },
+  'tatakau-shisho-the-book-of-bantorra': {
+    slug: 'tatakau-shisho-the-book-of-bantorra',
+    id: '2231',
+    nome: 'Tatakau Shisho: The Book of Bantorra'
+  },
+  'tears-to-tiara': {
+    slug: 'tears-to-tiara',
+    id: '2232',
+    nome: 'Tears to Tiara'
+  },
+  'tegami-bachi-letter-bee': {
+    slug: 'tegami-bachi-letter-bee',
+    id: '2233',
+    nome: 'Tegami Bachi (Letter Bee)'
+  },
+  'tegami-bachi-reverse': {
+    slug: 'tegami-bachi-reverse',
+    id: '2234',
+    nome: 'Tegami Bachi: Reverse'
+  },
+  'tenchi-muyo-gxp': {
+    slug: 'tenchi-muyo-gxp',
+    id: '2235',
+    nome: 'Tenchi Muyo! GXP'
+  },
+  'tengen-toppa-gurren-lagann': {
+    slug: 'tengen-toppa-gurren-lagann',
+    id: '378',
+    nome: 'Tengen Toppa Gurren Lagann'
+  },
+  'tenjou-tenge': {
+    slug: 'tenjou-tenge',
+    id: '379',
+    nome: 'Tenjou Tenge'
+  },
+  'tenshi-no-3-p': {
+    slug: 'tenshi-no-3-p',
+    id: '1890',
+    nome: 'Tenshi no 3P!'
+  },
+  'terra-formars': {
+    slug: 'terra-formars',
+    id: '380',
+    nome: 'Terra Formars'
+  },
+  'terra-formars-revenge': {
+    slug: 'terra-formars-revenge',
+    id: '381',
+    nome: 'Terra Formars Revenge'
+  },
+  'tetsuwan-birdy-decode': {
+    slug: 'tetsuwan-birdy-decode',
+    id: '2236',
+    nome: 'Tetsuwan Birdy Decode'
+  },
+  'tetsuwan-birdy-decode-2': {
+    slug: 'tetsuwan-birdy-decode-2',
+    id: '2237',
+    nome: 'Tetsuwan Birdy Decode 2'
+  },
+  'the-cinderella-girls': {
+    slug: 'the-cinderella-girls',
+    id: '383',
+    nome: 'The Cinderella Girls'
+  },
+  'the-idolmaster-side-m': {
+    slug: 'the-idolmaster-side-m',
+    id: '2271',
+    nome: 'The idolmaster Side M'
+  },
+  'the-kings-avatar': {
+    slug: 'the-kings-avatar',
+    id: '1799',
+    nome: 'The Kings Avatar'
+  },
+  'the-law-of-ueki': {
+    slug: 'the-law-of-ueki',
+    id: '384',
+    nome: 'The Law Of Ueki'
+  },
+  'the-prince-of-tennis': {
+    slug: 'the-prince-of-tennis',
+    id: '2239',
+    nome: 'The Prince of Tennis'
+  },
+  'the-prisoners-of-time': {
+    slug: 'the-prisoners-of-time',
+    id: '1756',
+    nome: 'The Prisoners Of Time'
+  },
+  'the-reflection': {
+    slug: 'the-reflection',
+    id: '1974',
+    nome: 'The Reflection'
+  },
+  'the-rolling-girls': {
+    slug: 'the-rolling-girls',
+    id: '385',
+    nome: 'The Rolling Girls'
+  },
+  'the-skull-man': {
+    slug: 'the-skull-man',
+    id: '2240',
+    nome: 'The Skull Man'
+  },
+  'those-who-hunt-elves': {
+    slug: 'those-who-hunt-elves',
+    id: '2241',
+    nome: 'Those Who Hunt Elves'
+  },
+  'those-who-hunt-elves-ii': {
+    slug: 'those-who-hunt-elves-ii',
+    id: '2242',
+    nome: 'Those Who Hunt Elves II'
+  },
+  'thunderbirds-are-go': {
+    slug: 'thunderbirds-are-go',
+    id: '1523',
+    nome: 'Thunderbirds Are Go'
+  },
+  'thunder-cats-2011': {
+    slug: 'thunder-cats-2011',
+    id: '2243',
+    nome: 'ThunderCats (2011)'
+  },
+  'tide-line-blue': {
+    slug: 'tide-line-blue',
+    id: '2244',
+    nome: 'Tide-Line Blue'
+  },
+  'tiger-and-bunny': {
+    slug: 'tiger-and-bunny',
+    id: '2245',
+    nome: 'Tiger & Bunny'
+  },
+  'tiger-mask-w': {
+    slug: 'tiger-mask-w',
+    id: '386',
+    nome: 'Tiger Mask W'
+  },
+  'time-bokan-24': {
+    slug: 'time-bokan-24',
+    id: '387',
+    nome: 'Time Bokan 24'
+  },
+  'time-bokan-gyakushuu-no-san-akunin': {
+    slug: 'time-bokan-gyakushuu-no-san-akunin',
+    id: '2270',
+    nome: 'Time Bokan: Gyakushuu no San Akunin'
+  },
+  'time-travel-girl': {
+    slug: 'time-travel-girl',
+    id: '388',
+    nome: 'Time Travel Girl'
+  },
+  'time-travel-shoujo-mari-waka-to-8-nin-no-kagakusha-tachi': {
+    slug: 'time-travel-shoujo-mari-waka-to-8-nin-no-kagakusha-tachi',
+    id: '2247',
+    nome: 'Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi'
+  },
+  'to-aru-majutsu-no-index': {
+    slug: 'to-aru-majutsu-no-index',
+    id: '389',
+    nome: 'To Aru Majutsu No Index'
+  },
+  'to-aru-majutsu-no-index-ii': {
+    slug: 'to-aru-majutsu-no-index-ii',
+    id: '390',
+    nome: 'To Aru Majutsu No Index II'
+  },
+  'to-heart-remember-my-memories': {
+    slug: 'to-heart-remember-my-memories',
+    id: '2250',
+    nome: 'To Heart: Remember My Memories'
+  },
+  'to-love-ru-darkness': {
+    slug: 'to-love-ru-darkness',
+    id: '393',
+    nome: 'To Love-Ru Darkness'
+  },
+  'to-love-ru-darkness-2nd': {
+    slug: 'to-love-ru-darkness-2nd',
+    id: '394',
+    nome: 'To LOVE-Ru Darkness 2nd'
+  },
+  'toaru-hikuushi-e-no-koiuta': {
+    slug: 'toaru-hikuushi-e-no-koiuta',
+    id: '395',
+    nome: 'Toaru Hikuushi E No Koiuta'
+  },
+  'toaru-kagaku-no-railgun': {
+    slug: 'toaru-kagaku-no-railgun',
+    id: '2251',
+    nome: 'Toaru Kagaku no Railgun'
+  },
+  'toaru-kagaku-no-railgun-s': {
+    slug: 'toaru-kagaku-no-railgun-s',
+    id: '396',
+    nome: 'Toaru Kagaku No Railgun S'
+  },
+  'togainu-no-chi': {
+    slug: 'togainu-no-chi',
+    id: '2252',
+    nome: 'Togainu no Chi'
+  },
+  'toji-no-miko': {
+    slug: 'toji-no-miko',
+    id: '2323',
+    nome: 'Toji no Miko'
+  },
+  'tokimeki-memorial-only-love': {
+    slug: 'tokimeki-memorial-only-love',
+    id: '2253',
+    nome: 'Tokimeki Memorial: Only Love'
+  },
+  'tokyo-ghoul': {
+    slug: 'tokyo-ghoul',
+    id: '5013',
+    nome: 'Tokyo Ghoul'
+  },
+  'tokyo-ghoul-2': {
+    slug: 'tokyo-ghoul-2',
+    id: '398',
+    nome: 'Tokyo Ghoul 2'
+  },
+  'tokyo-ghoul-re-3-temporada': {
+    slug: 'tokyo-ghoul-re-3-temporada',
+    id: '5014',
+    nome: 'Tokyo Ghoul:re (3ª Temporada)'
+  },
+  'tokyo-magnitude-8-0': {
+    slug: 'tokyo-magnitude-8-0',
+    id: '401',
+    nome: 'Tokyo Magnitude 8.0'
+  },
+  'tokyo-majin-gakuen-kenpuchou-tou': {
+    slug: 'tokyo-majin-gakuen-kenpuchou-tou',
+    id: '2255',
+    nome: 'Tokyo Majin Gakuen Kenpuchou: Tou'
+  },
+  'tokyo-ravens': {
+    slug: 'tokyo-ravens',
+    id: '402',
+    nome: 'Tokyo Ravens'
+  },
+  'tokyo-underground': {
+    slug: 'tokyo-underground',
+    id: '2256',
+    nome: 'Tokyo Underground'
+  },
+  'tonari-no-kaibutsu-kun': {
+    slug: 'tonari-no-kaibutsu-kun',
+    id: '403',
+    nome: 'Tonari No Kaibutsu-Kun'
+  },
+  'tonari-no-seki-kun': {
+    slug: 'tonari-no-seki-kun',
+    id: '404',
+    nome: 'Tonari No Seki-kun'
+  },
+  'tonkatsu-dj-agetaro': {
+    slug: 'tonkatsu-dj-agetaro',
+    id: '405',
+    nome: 'Tonkatsu DJ Agetaro'
+  },
+  'total-eclipse': {
+    slug: 'total-eclipse',
+    id: '408',
+    nome: 'Total Eclipse'
+  },
+  'touka-gettan': {
+    slug: 'touka-gettan',
+    id: '2258',
+    nome: 'Touka Gettan'
+  },
+  'touken-ranbu-hanamaru': {
+    slug: 'touken-ranbu-hanamaru',
+    id: '410',
+    nome: 'Touken Ranbu: Hanamaru'
+  },
+  'tribe-cool-crew': {
+    slug: 'tribe-cool-crew',
+    id: '412',
+    nome: 'Tribe Cool Crew'
+  },
+  'trickster-edogawa-ranpo': {
+    slug: 'trickster-edogawa-ranpo',
+    id: '413',
+    nome: 'Trickster: Edogawa Ranpo'
+  },
+  'trigun-legendado': {
+    slug: 'trigun-legendado',
+    id: '414',
+    nome: 'Trigun Legendado'
+  },
+  'trinity-blood-legendado': {
+    slug: 'trinity-blood-legendado',
+    id: '417',
+    nome: 'Trinity Blood Legendado'
+  },
+  'trinity-seven': {
+    slug: 'trinity-seven',
+    id: '418',
+    nome: 'Trinity Seven'
+  },
+  'tsubasa-chronicle': {
+    slug: 'tsubasa-chronicle',
+    id: '419',
+    nome: 'Tsubasa Chronicle'
+  },
+  'tsuki-ga-kirei': {
+    slug: 'tsuki-ga-kirei',
+    id: '1539',
+    nome: 'Tsuki ga Kirei'
+  },
+  tsukimonogatari: {
+    slug: 'tsukimonogatari',
+    id: '2261',
+    nome: 'Tsukimonogatari'
+  },
+  'tsukipro-the-animation': {
+    slug: 'tsukipro-the-animation',
+    id: '2224',
+    nome: 'Tsukipro The Animation'
+  },
+  'tsukiuta-the-animation': {
+    slug: 'tsukiuta-the-animation',
+    id: '1514',
+    nome: 'Tsukiuta: The Animation'
+  },
+  'tsukuyomi-moon-phase': {
+    slug: 'tsukuyomi-moon-phase',
+    id: '2262',
+    nome: 'Tsukuyomi: Moon Phase'
+  },
+  'tsurezure-children': {
+    slug: 'tsurezure-children',
+    id: '1871',
+    nome: 'Tsurezure Children'
+  },
+  'tsuyokiss-cool-x-sweet': {
+    slug: 'tsuyokiss-cool-x-sweet',
+    id: '2264',
+    nome: 'Tsuyokiss Cool x Sweet'
+  },
+  'twin-angel-break': {
+    slug: 'twin-angel-break',
+    id: '1547',
+    nome: 'Twin Angel Break'
+  },
+  'uchouten-kazoku': {
+    slug: 'uchouten-kazoku',
+    id: '347',
+    nome: 'UCHOUTEN Kazoku'
+  },
+  'uchouten-kazoku-2': {
+    slug: 'uchouten-kazoku-2',
+    id: '1590',
+    nome: 'Uchouten Kazoku 2'
+  },
+  'uchuu-kyoudai': {
+    slug: 'uchuu-kyoudai',
+    id: '348',
+    nome: 'Uchuu Kyoudai'
+  },
+  'uchuu-no-stellvia': {
+    slug: 'uchuu-no-stellvia',
+    id: '2286',
+    nome: 'Uchuu no Stellvia'
+  },
+  'uchuu-patrol-luluco': {
+    slug: 'uchuu-patrol-luluco',
+    id: '1745',
+    nome: 'Uchuu Patrol Luluco'
+  },
+  'uchuu-senkan-tiramisu': {
+    slug: 'uchuu-senkan-tiramisu',
+    id: '51360',
+    nome: 'Uchuu Senkan Tiramisu'
+  },
+  'uchuu-senkan-yamato-2199': {
+    slug: 'uchuu-senkan-yamato-2199',
+    id: '1746',
+    nome: 'Uchuu Senkan Yamato 2199'
+  },
+  'udon-no-kuni-no-kiniro-kemari': {
+    slug: 'udon-no-kuni-no-kiniro-kemari',
+    id: '349',
+    nome: 'Udon No Kuni No Kiniro Kemari'
+  },
+  'ultimate-girls': {
+    slug: 'ultimate-girls',
+    id: '1747',
+    nome: 'Ultimate Girls'
+  },
+  'ultra-fight-victory': {
+    slug: 'ultra-fight-victory',
+    id: '1979',
+    nome: 'Ultra Fight Victory'
+  },
+  'ultra-maniac': {
+    slug: 'ultra-maniac',
+    id: '1748',
+    nome: 'Ultra Maniac'
+  },
+  'uma-musume-pretty-derby-tv': {
+    slug: 'uma-musume-pretty-derby-tv',
+    id: '51314',
+    nome: 'Uma Musume: Pretty Derby (TV)'
+  },
+  'umi-monogatari-anata-ga-ite-kureta-koto': {
+    slug: 'umi-monogatari-anata-ga-ite-kureta-koto',
+    id: '1749',
+    nome: 'Umi Monogatari: Anata ga Ite Kureta Koto'
+  },
+  'umineko-no-naku-koro-ni': {
+    slug: 'umineko-no-naku-koro-ni',
+    id: '350',
+    nome: 'Umineko No Naku Koro Ni'
+  },
+  'undefeated-bahamut-chronicle': {
+    slug: 'undefeated-bahamut-chronicle',
+    id: '352',
+    nome: 'Undefeated Bahamut Chronicle'
+  },
+  'uq-holder-mahou-sensei-negima-2': {
+    slug: 'uq-holder-mahou-sensei-negima-2',
+    id: '802',
+    nome: 'UQ Holder! Mahou Sensei Negima! 2'
+  },
+  'uragiri-wa-boku-no-namae-o-shitteiru': {
+    slug: 'uragiri-wa-boku-no-namae-o-shitteiru',
+    id: '1751',
+    nome: 'Uragiri wa Boku no Namae o Shitteiru'
+  },
+  'urara-meirochou': {
+    slug: 'urara-meirochou',
+    id: '791',
+    nome: 'Urara Meirochou'
+  },
+  'urawa-no-usagi-chan': {
+    slug: 'urawa-no-usagi-chan',
+    id: '353',
+    nome: 'Urawa No Usagi-chan'
+  },
+  'urusei-yatsura': {
+    slug: 'urusei-yatsura',
+    id: '355',
+    nome: 'Urusei Yatsura'
+  },
+  'ushinawareta-mirai-wo-motomete': {
+    slug: 'ushinawareta-mirai-wo-motomete',
+    id: '356',
+    nome: 'Ushinawareta Mirai Wo Motomete'
+  },
+  'ushio-to-tora-tv': {
+    slug: 'ushio-to-tora-tv',
+    id: '357',
+    nome: 'Ushio To Tora (TV)'
+  },
+  'uta-no-prince-sama-maji-love-2000': {
+    slug: 'uta-no-prince-sama-maji-love-2000',
+    id: '358',
+    nome: 'Uta No Prince-sama Maji Love 2000%'
+  },
+  'uta-no-prince-sama-maji-love-1000': {
+    slug: 'uta-no-prince-sama-maji-love-1000',
+    id: '2287',
+    nome: 'Uta no Prince-sama: Maji Love 1000%'
+  },
+  'uta-no-prince-sama-maji-love-legend-star': {
+    slug: 'uta-no-prince-sama-maji-love-legend-star',
+    id: '360',
+    nome: 'Uta No?Prince-sama? Maji Love Legend Star'
+  },
+  'uta-no-prince-sama-maji-love-revolutions': {
+    slug: 'uta-no-prince-sama-maji-love-revolutions',
+    id: '359',
+    nome: 'Uta No?Prince-sama? Maji Love Revolutions'
+  },
+  utawarerumono: {
+    slug: 'utawarerumono',
+    id: '2285',
+    nome: 'Utawarerumono'
+  },
+  'utawarerumono-itsuwari-no-kamen': {
+    slug: 'utawarerumono-itsuwari-no-kamen',
+    id: '361',
+    nome: 'Utawarerumono: Itsuwari No Kamen'
+  },
+  'valkyrie-drive-mermaid': {
+    slug: 'valkyrie-drive-mermaid',
+    id: '1757',
+    nome: 'Valkyrie Drive: Mermaid'
+  },
+  'valvrave-the-liberator': {
+    slug: 'valvrave-the-liberator',
+    id: '341',
+    nome: 'Valvrave The Liberator'
+  },
+  'vampire-holmes': {
+    slug: 'vampire-holmes',
+    id: '344',
+    nome: 'Vampire Holmes'
+  },
+  'vampire-knight': {
+    slug: 'vampire-knight',
+    id: '342',
+    nome: 'Vampire Knight'
+  },
+  'vampire-knight-guilty': {
+    slug: 'vampire-knight-guilty',
+    id: '343',
+    nome: 'Vampire Knight Guilty'
+  },
+  'vampire-princess-miyu': {
+    slug: 'vampire-princess-miyu',
+    id: '1758',
+    nome: 'Vampire Princess Miyu'
+  },
+  'vandread-the-second-stage': {
+    slug: 'vandread-the-second-stage',
+    id: '1760',
+    nome: 'Vandread: The Second Stage'
+  },
+  'vatican-kiseki-chousakan': {
+    slug: 'vatican-kiseki-chousakan',
+    id: '1878',
+    nome: 'Vatican Kiseki Chousakan'
+  },
+  'venus-versus-virus': {
+    slug: 'venus-versus-virus',
+    id: '1761',
+    nome: 'Venus Versus Virus'
+  },
+  'violet-evergarden': {
+    slug: 'violet-evergarden',
+    id: '2338',
+    nome: 'Violet Evergarden'
+  },
+  'viper-s-creed': {
+    slug: 'viper-s-creed',
+    id: '1762',
+    nome: 'Viper’s Creed'
+  },
+  'vision-of-escaflowne': {
+    slug: 'vision-of-escaflowne',
+    id: '1763',
+    nome: 'Vision of Escaflowne'
+  },
+  'vi-vid-strike': {
+    slug: 'vi-vid-strike',
+    id: '345',
+    nome: 'ViVid Strike!'
+  },
+  'vividred-operation': {
+    slug: 'vividred-operation',
+    id: '346',
+    nome: 'Vividred Operation'
+  },
+  'wagamama-high-spec': {
+    slug: 'wagamama-high-spec',
+    id: '321',
+    nome: 'Wagamama High Spec'
+  },
+  'wagaya-no-oinari-sama': {
+    slug: 'wagaya-no-oinari-sama',
+    id: '1765',
+    nome: 'Wagaya no Oinari-sama'
+  },
+  'wake-up-girls-shin-shou': {
+    slug: 'wake-up-girls-shin-shou',
+    id: '2280',
+    nome: 'Wake Up Girls! Shin Shou'
+  },
+  'wake-up-girls': {
+    slug: 'wake-up-girls',
+    id: '324',
+    nome: 'Wake Up, Girls!'
+  },
+  'walkure-romanze': {
+    slug: 'walkure-romanze',
+    id: '325',
+    nome: 'Walkure Romanze'
+  },
+  'wangan-midnight': {
+    slug: 'wangan-midnight',
+    id: '326',
+    nome: 'Wangan Midnight'
+  },
+  'wangpai-yushi-todos': {
+    slug: 'wangpai-yushi-todos',
+    id: '1628',
+    nome: 'Wangpai Yushi Todos'
+  },
+  'warau-salesman-new': {
+    slug: 'warau-salesman-new',
+    id: '1531',
+    nome: 'Warau Salesman New'
+  },
+  'watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui': {
+    slug: 'watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui',
+    id: '328',
+    nome: 'Watashi Ga Motenai No Wa Dou Kangaetemo Omaera Ga Warui'
+  },
+  'watashi-ga-motete-dousunda': {
+    slug: 'watashi-ga-motete-dousunda',
+    id: '327',
+    nome: 'Watashi Ga Motete Dousunda'
+  },
+  'wedding-peach': {
+    slug: 'wedding-peach',
+    id: '329',
+    nome: 'Wedding Peach'
+  },
+  'white-album': {
+    slug: 'white-album',
+    id: '2295',
+    nome: 'White Album'
+  },
+  'white-album-2': {
+    slug: 'white-album-2',
+    id: '330',
+    nome: 'White Album 2'
+  },
+  'wild-arms-twilight-venom': {
+    slug: 'wild-arms-twilight-venom',
+    id: '1767',
+    nome: 'Wild Arms: Twilight Venom'
+  },
+  'wind-a-breath-of-heart': {
+    slug: 'wind-a-breath-of-heart',
+    id: '1768',
+    nome: 'Wind: A Breath Of Heart'
+  },
+  'witch-craft-works': {
+    slug: 'witch-craft-works',
+    id: '331',
+    nome: 'Witch Craft Works'
+  },
+  'witch-hunter-robin': {
+    slug: 'witch-hunter-robin',
+    id: '1769',
+    nome: 'Witch Hunter Robin'
+  },
+  'wizard-barristers-benmashi-cecil': {
+    slug: 'wizard-barristers-benmashi-cecil',
+    id: '333',
+    nome: 'Wizard Barristers: Benmashi Cecil'
+  },
+  'wooser-no-sono-higurashi': {
+    slug: 'wooser-no-sono-higurashi',
+    id: '335',
+    nome: 'Wooser No Sono Higurashi'
+  },
+  'world-destruction': {
+    slug: 'world-destruction',
+    id: '338',
+    nome: 'World Destruction'
+  },
+  'world-trigger': {
+    slug: 'world-trigger',
+    id: '339',
+    nome: 'World Trigger'
+  },
+  'wotaku-ni-koi-wa-muzukashii': {
+    slug: 'wotaku-ni-koi-wa-muzukashii',
+    id: '51331',
+    nome: 'Wotaku ni Koi wa Muzukashii'
+  },
+  'www-working': {
+    slug: 'www-working',
+    id: '340',
+    nome: 'WWW.Working!!'
+  },
+  'x-men-evolution': {
+    slug: 'x-men-evolution',
+    id: '2292',
+    nome: 'X-Men Evolution'
+  },
+  xenoglossia: {
+    slug: 'xenoglossia',
+    id: '1200',
+    nome: 'Xenoglossia'
+  },
+  'xenosaga-the-animation': {
+    slug: 'xenosaga-the-animation',
+    id: '1772',
+    nome: 'Xenosaga: The Animation'
+  },
+  'xxx-ho-li-c-kei': {
+    slug: 'xxx-ho-li-c-kei',
+    id: '1775',
+    nome: 'xxxHOLiC Kei'
+  },
+  'yahari-ore-no-seishun-love-come-wa-machigatteiru': {
+    slug: 'yahari-ore-no-seishun-love-come-wa-machigatteiru',
+    id: '291',
+    nome: 'Yahari Ore No Seishun Love Come Wa Machigatteiru'
+  },
+  'yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku': {
+    slug: 'yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku',
+    id: '292',
+    nome: 'Yahari Ore No Seishun Love Come Wa Machigatteiru. Zoku'
+  },
+  'yakitate-japan': {
+    slug: 'yakitate-japan',
+    id: '1776',
+    nome: 'Yakitate!! Japan'
+  },
+  'yama-no-susume': {
+    slug: 'yama-no-susume',
+    id: '293',
+    nome: 'Yama No Susume'
+  },
+  'yama-no-susume-2': {
+    slug: 'yama-no-susume-2',
+    id: '294',
+    nome: 'Yama No Susume 2'
+  },
+  'yamada-kun-to-7-nin-no-majo': {
+    slug: 'yamada-kun-to-7-nin-no-majo',
+    id: '1777',
+    nome: 'Yamada-kun to 7-nin no Majo'
+  },
+  'yamato-nadeshiko-shichi-henge': {
+    slug: 'yamato-nadeshiko-shichi-henge',
+    id: '295',
+    nome: 'Yamato Nadeshiko Shichi Henge'
+  },
+  'yami-no-matsuei': {
+    slug: 'yami-no-matsuei',
+    id: '1778',
+    nome: 'Yami no Matsuei'
+  },
+  'yamishibai-japanese-ghost-stories-3': {
+    slug: 'yamishibai-japanese-ghost-stories-3',
+    id: '296',
+    nome: 'Yamishibai: Japanese Ghost Stories 3'
+  },
+  'yamishibai-japanese-ghost-stories-4': {
+    slug: 'yamishibai-japanese-ghost-stories-4',
+    id: '799',
+    nome: 'Yamishibai: Japanese Ghost Stories 4'
+  },
+  'yoake-mae-yori-ruriiro-na-crescent-love': {
+    slug: 'yoake-mae-yori-ruriiro-na-crescent-love',
+    id: '1779',
+    nome: 'Yoake Mae Yori Ruriiro na: Crescent Love'
+  },
+  'yondemasu-yo-azazel-san': {
+    slug: 'yondemasu-yo-azazel-san',
+    id: '1780',
+    nome: 'Yondemasu yo, Azazel-san'
+  },
+  'yondemasu-yo-azazel-san-z': {
+    slug: 'yondemasu-yo-azazel-san-z',
+    id: '297',
+    nome: 'Yondemasu Yo, Azazel-san. Z'
+  },
+  'yoru-no-yatterman': {
+    slug: 'yoru-no-yatterman',
+    id: '298',
+    nome: 'Yoru No Yatterman'
+  },
+  'yosuga-no-sora': {
+    slug: 'yosuga-no-sora',
+    id: '299',
+    nome: 'Yosuga No Sora'
+  },
+  'youkai-apartment-no-yuuga-na-nichijou': {
+    slug: 'youkai-apartment-no-yuuga-na-nichijou',
+    id: '2294',
+    nome: 'Youkai Apartment no Yuuga na Nichijou'
+  },
+  'youkai-watch': {
+    slug: 'youkai-watch',
+    id: '300',
+    nome: 'Youkai Watch'
+  },
+  'youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e': {
+    slug: 'youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e',
+    id: '1894',
+    nome: 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e'
+  },
+  'young-black-jack': {
+    slug: 'young-black-jack',
+    id: '301',
+    nome: 'Young Black Jack'
+  },
+  'yowamushi-pedal': {
+    slug: 'yowamushi-pedal',
+    id: '302',
+    nome: 'Yowamushi Pedal'
+  },
+  'yowamushi-pedal-grande-road': {
+    slug: 'yowamushi-pedal-grande-road',
+    id: '303',
+    nome: 'Yowamushi Pedal Grande Road'
+  },
+  'yowamushi-pedal-glory-line': {
+    slug: 'yowamushi-pedal-glory-line',
+    id: '2335',
+    nome: 'Yowamushi Pedal: Glory Line'
+  },
+  'yowamushi-pedal-new-generation': {
+    slug: 'yowamushi-pedal-new-generation',
+    id: '777',
+    nome: 'Yowamushi Pedal: New Generation'
+  },
+  'yozakura-quartet': {
+    slug: 'yozakura-quartet',
+    id: '1781',
+    nome: 'Yozakura Quartet'
+  },
+  'yozakura-quartet-hana-no-uta': {
+    slug: 'yozakura-quartet-hana-no-uta',
+    id: '1782',
+    nome: 'Yozakura Quartet: Hana no Uta'
+  },
+  'yu-gi-oh-zexal-2': {
+    slug: 'yu-gi-oh-zexal-2',
+    id: '307',
+    nome: 'Yu Gi Oh! Zexal 2'
+  },
+  'yu-yu-hakusho-legendado': {
+    slug: 'yu-yu-hakusho-legendado',
+    id: '305',
+    nome: 'Yu Yu Hakusho Legendado'
+  },
+  'yu-gi-oh-5-ds': {
+    slug: 'yu-gi-oh-5-ds',
+    id: '308',
+    nome: 'Yu-Gi-Oh! 5Ds'
+  },
+  'yu-gi-oh-arc-v': {
+    slug: 'yu-gi-oh-arc-v',
+    id: '309',
+    nome: 'Yu-Gi-Oh! Arc-V'
+  },
+  'yu-gi-oh-ou-yu-gi-oh-duel-monsters': {
+    slug: 'yu-gi-oh-ou-yu-gi-oh-duel-monsters',
+    id: '2293',
+    nome: 'Yu-Gi-Oh! ou Yu-Gi-Oh! Duel Monsters'
+  },
+  'yu-gi-oh-vrains': {
+    slug: 'yu-gi-oh-vrains',
+    id: '1829',
+    nome: 'Yu-Gi-Oh! VRAINS'
+  },
+  'yu-gi-oh-zero': {
+    slug: 'yu-gi-oh-zero',
+    id: '311',
+    nome: 'Yu-Gi-Oh! Zero'
+  },
+  'yu-gi-oh-zexal': {
+    slug: 'yu-gi-oh-zexal',
+    id: '312',
+    nome: 'Yu-Gi-Oh! Zexal'
+  },
+  'yugo-the-negotiator': {
+    slug: 'yugo-the-negotiator',
+    id: '1783',
+    nome: 'Yugo the Negotiator'
+  },
+  'yume-tsukai': {
+    slug: 'yume-tsukai',
+    id: '1784',
+    nome: 'Yume Tsukai'
+  },
+  'yumeiro-patissiere': {
+    slug: 'yumeiro-patissiere',
+    id: '1785',
+    nome: 'Yumeiro Pâtissière'
+  },
+  'yumeiro-patissiere-sp-professional': {
+    slug: 'yumeiro-patissiere-sp-professional',
+    id: '1786',
+    nome: 'Yumeiro Pâtissière SP Professional'
+  },
+  'yumekui-merry': {
+    slug: 'yumekui-merry',
+    id: '313',
+    nome: 'Yumekui Merry'
+  },
+  'yuri-on-ice': {
+    slug: 'yuri-on-ice',
+    id: '314',
+    nome: 'Yuri!!! On Ice'
+  },
+  'yurikuma-arashi': {
+    slug: 'yurikuma-arashi',
+    id: '315',
+    nome: 'Yurikuma Arashi'
+  },
+  'yuru-yuri-2': {
+    slug: 'yuru-yuri-2',
+    id: '1788',
+    nome: 'Yuru Yuri 2'
+  },
+  'yuru-yuri-3': {
+    slug: 'yuru-yuri-3',
+    id: '1789',
+    nome: 'Yuru Yuri 3'
+  },
+  'yurumates-3-d': {
+    slug: 'yurumates-3-d',
+    id: '1790',
+    nome: 'Yurumates 3D'
+  },
+  'yurumates-3-d-plus': {
+    slug: 'yurumates-3-d-plus',
+    id: '316',
+    nome: 'Yurumates 3D Plus'
+  },
+  'yutori-chan': {
+    slug: 'yutori-chan',
+    id: '1791',
+    nome: 'Yutori-chan'
+  },
+  'yuuki-yuna-wa-yusha-de-aru': {
+    slug: 'yuuki-yuna-wa-yusha-de-aru',
+    id: '317',
+    nome: 'Yuuki Yuna Wa Yusha De Aru'
+  },
+  'yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou': {
+    slug: 'yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou',
+    id: '795',
+    nome: 'Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou'
+  },
+  'yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-o-ketsui-shimashita': {
+    slug:
+        'yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-o-ketsui-shimashita',
+    id: '318',
+    nome:
+        'Yuusha Ni Narenakatta Ore Wa Shibushibu Shuushoku O Ketsui Shimashita'
+  },
+  'z-x-ignition': {
+    slug: 'z-x-ignition',
+    id: '220',
+    nome: 'Z/X: Ignition'
+  },
+  'zaion-i-wish-you-were-here': {
+    slug: 'zaion-i-wish-you-were-here',
+    id: '223',
+    nome: 'Zaion: I Wish You Were Here'
+  },
+  'zan-sayonara-zetsubou-sensei': {
+    slug: 'zan-sayonara-zetsubou-sensei',
+    id: '1792',
+    nome: 'Zan Sayonara Zetsubou Sensei'
+  },
+  'zankyou-no-terror': {
+    slug: 'zankyou-no-terror',
+    id: '232',
+    nome: 'Zankyou No Terror'
+  },
+  'zero-kara-hajimeru-mahou-no-sho': {
+    slug: 'zero-kara-hajimeru-mahou-no-sho',
+    id: '1599',
+    nome: 'Zero Kara Hajimeru Mahou No Sho'
+  },
+  'zero-no-tsukaima': {
+    slug: 'zero-no-tsukaima',
+    id: '240',
+    nome: 'Zero No Tsukaima'
+  },
+  'zero-no-tsukaima-f': {
+    slug: 'zero-no-tsukaima-f',
+    id: '243',
+    nome: 'Zero No Tsukaima F'
+  },
+  'zero-no-tsukaima-futatsuki-no-kishi': {
+    slug: 'zero-no-tsukaima-futatsuki-no-kishi',
+    id: '248',
+    nome: 'Zero No Tsukaima Futatsuki No Kishi'
+  },
+  'zero-no-tsukaima-princess-no-rondo': {
+    slug: 'zero-no-tsukaima-princess-no-rondo',
+    id: '253',
+    nome: 'Zero No Tsukaima Princess No Rondo'
+  },
+  'zetsuen-no-tempest': {
+    slug: 'zetsuen-no-tempest',
+    id: '257',
+    nome: 'Zetsuen No Tempest'
+  },
+  'zettai-bouei-leviathan': {
+    slug: 'zettai-bouei-leviathan',
+    id: '263',
+    nome: 'Zettai Bouei Leviathan'
+  },
+  'zettai-karen-children': {
+    slug: 'zettai-karen-children',
+    id: '267',
+    nome: 'Zettai Karen Children'
+  },
+  'zettai-karen-children-the-unlimited-hyoubu-kyousuke': {
+    slug: 'zettai-karen-children-the-unlimited-hyoubu-kyousuke',
+    id: '1795',
+    nome: 'Zettai Karen Children: The Unlimited Hyoubu Kyousuke'
+  },
+  'zoku-natsume-yuujinchou': {
+    slug: 'zoku-natsume-yuujinchou',
+    id: '272',
+    nome: 'Zoku Natsume Yuujinchou'
+  },
+  'zoku-sayonara-zetsubou-sensei': {
+    slug: 'zoku-sayonara-zetsubou-sensei',
+    id: '1796',
+    nome: 'Zoku Sayonara Zetsubou Sensei'
+  },
+  'zoku-touken-ranbu-hanamaru': {
+    slug: 'zoku-touken-ranbu-hanamaru',
+    id: '2347',
+    nome: 'Zoku Touken Ranbu: Hanamaru'
+  },
+  'zombie-brother': {
+    slug: 'zombie-brother',
+    id: '1543',
+    nome: 'Zombie Brother'
+  },
+  'zone-of-the-enders-dolores': {
+    slug: 'zone-of-the-enders-dolores',
+    id: '1797',
+    nome: 'Zone of the Enders: Dolores'
+  },
+  'hack-tasogare-no-udewa-densetsu': {
+    slug: 'hack-tasogare-no-udewa-densetsu',
+    id: '5',
+    nome: '.hack//Tasogare No Udewa Densetsu'
+  },
+  '009-1-legendado': {
+    slug: '009-1-legendado',
+    id: '7',
+    nome: '009-1 Legendado'
+  },
+  '12-sai-chiccha-na-mune-no-tokimeki': {
+    slug: '12-sai-chiccha-na-mune-no-tokimeki',
+    id: '11',
+    nome: '12-Sai. Chiccha Na Mune No Tokimeki'
+  },
+  '12-sai-chiccha-na-mune-no-tokimeki-2': {
+    slug: '12-sai-chiccha-na-mune-no-tokimeki-2',
+    id: '12',
+    nome: '12-Sai. Chiccha Na Mune No Tokimeki 2'
+  },
+  '3-gatsu-no-lion': {
+    slug: '3-gatsu-no-lion',
+    id: '15',
+    nome: '3-gatsu No Lion'
+  },
+  '3-d-kanojo-real-girl': {
+    slug: '3-d-kanojo-real-girl',
+    id: '51363',
+    nome: '3D Kanojo: Real Girl'
+  },
+  '801-t-t-s-airbats': {
+    slug: '801-t-t-s-airbats',
+    id: '13',
+    nome: '801 T.T.S. Airbats'
+  },
+  'cardfight-vanguard-g-z': {
+    slug: 'cardfight-vanguard-g-z',
+    id: '2316',
+    nome: 'Cardfight!! Vanguard G: Z'
+  }
+}
